@@ -45,6 +45,8 @@ def get_tweets():
                 twitter_account_scanned + "/status/" + str(tweet.id)
             tweet_urls = tweet_urls + [tweet_url]
 
+    return tweet_urls
+
 
 def post_to_discord(discord_webhook_url, discord_json):
     result = requests.post(discord_webhook_url, json=discord_json)
