@@ -1,0 +1,35 @@
+name: Check Twitter and post to Discord if necessary
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: "0 0/6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.10
+      - name: Install dependencies
+        run: |
+          python --version
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+      - name: Run bot.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TWEET_REGEX: ${{ secrets.TWEET_REGEX }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          TWITTER_ACCOUNT_SCANNED: ${{ secrets.TWITTER_ACCOUNT_SCANNED }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+        run: |
+          ./bot.py
