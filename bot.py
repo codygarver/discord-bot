@@ -54,6 +54,7 @@ def post_to_discord(discord_webhook_url, discord_json):
         result.raise_for_status()
     except requests.exceptions.HTTPError as err:
         print(err)
+        exit()
     else:
         print("Post succeeded!: ".format(
             result.status_code))
