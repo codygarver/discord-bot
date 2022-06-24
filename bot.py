@@ -5,6 +5,7 @@ import os
 import pytz
 import re
 import requests
+import sys
 import tweepy
 
 discord_webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
@@ -54,7 +55,7 @@ def post_to_discord(discord_webhook_url, discord_json):
         result.raise_for_status()
     except requests.exceptions.HTTPError as err:
         print(err)
-        exit()
+        sys.exit(1)
     else:
         print("Post succeeded!: ".format(
             result.status_code))
