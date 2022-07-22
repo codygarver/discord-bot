@@ -25,10 +25,10 @@ jobs:
       - name: Run bot.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          TWEET_REGEX: ${{ secrets.TWEET_REGEX }}
+          TWEET_REGEX: ".*code.*|.*mystery.*gift.*"
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          TWITTER_ACCOUNT_SCANNED: ${{ secrets.TWITTER_ACCOUNT_SCANNED }}
+          TWITTER_ACCOUNT_SCANNED: "SerebiiNet"
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
         run: |
