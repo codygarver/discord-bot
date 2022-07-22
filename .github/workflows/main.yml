@@ -22,13 +22,24 @@ jobs:
           python --version
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-      - name: Run bot.py
+      - name: SerebiiNet codes
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           TWEET_REGEX: ".*code.*|.*mystery.*gift.*"
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           TWITTER_ACCOUNT_SCANNED: "SerebiiNet"
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+        run: |
+          ./bot.py
+      - name: WoW PrimeGaming
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WOW_WEBHOOK_URL }}
+          TWEET_REGEX: ".*warcraft.*"
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          TWITTER_ACCOUNT_SCANNED: "PrimeGaming"
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
         run: |
