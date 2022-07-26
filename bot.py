@@ -43,7 +43,7 @@ def get_tweets():
         if tweet.created_at > time_period and re.search(tweet_regex, tweet.full_text, re.IGNORECASE):
             # print(tweet.full_text)
             tweet_url = "https://twitter.com/" + \
-                twitter_account_scanned + "/status/" + str(tweet.id)
+                twitter_account_scanned + "/status/" + tweet.id_str
             tweet_urls = tweet_urls + [tweet_url]
 
     return tweet_urls
