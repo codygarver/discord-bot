@@ -20,7 +20,6 @@ twitter_api_key_secret = os.getenv("TWITTER_API_KEY_SECRET")
 def get_tweets():
     auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_key_secret)
     auth.set_access_token(twitter_access_token,
-
                           twitter_access_token_secret)
 
     api = tweepy.API(auth)
