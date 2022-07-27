@@ -8,13 +8,13 @@ import requests
 import sys
 import tweepy
 
-discord_webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
-tweet_regex = os.getenv("TWEET_REGEX")
-twitter_access_token = os.getenv("TWITTER_ACCESS_TOKEN")
-twitter_access_token_secret = os.getenv("TWITTER_ACCESS_TOKEN_SECRET")
-twitter_account_scanned = os.getenv("TWITTER_ACCOUNT_SCANNED")
-twitter_api_key = os.getenv("TWITTER_API_KEY")
-twitter_api_key_secret = os.getenv("TWITTER_API_KEY_SECRET")
+discord_webhook_url = os.environ["DISCORD_WEBHOOK_URL"]
+tweet_regex = os.environ["TWEET_REGEX"]
+twitter_access_token = os.environ["TWITTER_ACCESS_TOKEN"]
+twitter_access_token_secret = os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
+twitter_account_scanned = os.environ["TWITTER_ACCOUNT_SCANNED"]
+twitter_api_key = os.environ["TWITTER_API_KEY"]
+twitter_api_key_secret = os.environ["TWITTER_API_KEY_SECRET"]
 
 
 def get_tweets():
