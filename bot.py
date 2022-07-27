@@ -17,13 +17,7 @@ twitter_api_key = os.environ["TWITTER_API_KEY"]
 twitter_api_key_secret = os.environ["TWITTER_API_KEY_SECRET"]
 
 
-def get_tweets():
-    auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_key_secret)
-    auth.set_access_token(twitter_access_token,
-                          twitter_access_token_secret)
-
-    api = tweepy.API(auth)
-
+def get_tweets(api):
     tweets = api.user_timeline(screen_name=twitter_account_scanned,
                                # 200 is the maximum allowed count
                                count=200,
@@ -48,6 +42,22 @@ def get_tweets():
     return tweet_urls
 
 
+def get_twitter_api():
+    auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_key_secret)
+    auth.set_access_token(twitter_access_token, twitter_access_token_secret)
+
+    api = tweepy.API(auth)
+
+    try:
+        api.verify_credentials()
+    except Exception as e:
+        print("Authentication FAILED!")
+        print(e)
+        sys.exit(1)
+
+    return api
+
+
 def post_to_discord(discord_webhook_url, discord_json):
     result = requests.post(discord_webhook_url, json=discord_json)
     try:
@@ -61,7 +71,8 @@ def post_to_discord(discord_webhook_url, discord_json):
 
 
 if __name__ == "__main__":
-    tweet_urls = get_tweets()
+    api = get_twitter_api()
+    tweet_urls = get_tweets(api)
     if tweet_urls:
         for url in tweet_urls:
             discord_json = {"content": url}
