@@ -29,7 +29,7 @@ def get_tweets(api):
                                )
 
     time_period = pytz.UTC.localize(
-        datetime.datetime.utcnow() - datetime.timedelta(hours=6))
+        datetime.datetime.utcnow() - datetime.timedelta(hours=8))
 
     tweet_urls = []
     for tweet in tweets:

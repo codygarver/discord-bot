@@ -2,7 +2,7 @@ name: Check Twitter and post to Discord if necessary
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: "0 0/6 * * *"
+    - cron: "0 0/8 * * *"
   workflow_dispatch:
 
 jobs:
