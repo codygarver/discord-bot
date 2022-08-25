@@ -36,7 +36,7 @@ jobs:
       - name: WoW PrimeGaming
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WOW_WEBHOOK_URL }}
-          TWEET_REGEX: ".*primegaming.*"
+          TWEET_REGEX: ".*prime.*"
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           TWITTER_ACCOUNT_SCANNED: "Warcraft"
