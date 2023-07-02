@@ -2,7 +2,7 @@ name: Scrape Mystery Gifts and post to Discord if necessary
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: "0 0/8 * * *"
+    - cron: "0 0/12 * * *"
   workflow_dispatch:
 
 jobs:
