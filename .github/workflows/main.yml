@@ -1,4 +1,4 @@
-name: Check Twitter and post to Discord if necessary
+name: Scrape Mystery Gifts and post to Discord if necessary
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string

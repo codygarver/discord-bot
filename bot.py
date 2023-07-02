@@ -59,24 +59,33 @@ def post_to_discord(discord_webhook_url, discord_json):
 
 
 if __name__ == "__main__":
+    # The URL of the page to scrape
     page_url = "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-mystery-gift-codes-list"
 
+    # Get the page
     page = requests.get(page_url)
 
+    # Parse the page
     soup = BeautifulSoup(page.content, "html.parser")
 
+    # The name of the file where to store the codes
     codes_file_name = "mysterygifts.json"
 
+    # A dictionary to store the new codes
     new_codes = {}
 
+    # Read the dictionary from file
     if pathlib.Path(codes_file_name).exists():
         codes = read_json_file_to_dict(codes_file_name)
     else:
         codes = {}
 
+    # Get the table
     table = get_table(soup)
 
+    # Get the rows
     rows = get_rows(table)
+    # Iterate over the rows
     for row in rows[1:]:
         # Get the code
         code = get_code(get_columns(row))
@@ -109,14 +118,15 @@ if __name__ == "__main__":
         if code not in codes:
             new_codes[code] = code_dict
 
+        # Update the dictionary
         codes[code] = code_dict
 
-    discord_messages = []
-    for code in new_codes:
-        discord_messages.append(f":gift: New Pokemon Scarlet & Violet Mystery Gift code!: `{code}` - {codes[code]['gift']} - Expires {codes[code]['expires']}")
+    # Post new Mystery Gifts to Discord
+    if new_codes:
+        for code in new_codes:
+            discord_message = f"New Pokemon Scarlet & Violet Mystery Gift :gift: code: `{code}` - {codes[code]['gift']} - Expires {codes[code]['expires']}"
+            discord_json = { "content": discord_message }
+            post_to_discord(discord_webhook_url, discord_json)
 
-    for discord_message in discord_messages:
-        discord_json = { "content": discord_message }
-        post_to_discord(discord_webhook_url, discord_json)
-
+    # Write the dictionary to file
     write_dict_to_json_file(codes, codes_file_name)
