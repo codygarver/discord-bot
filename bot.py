@@ -1,62 +1,50 @@
 #!/usr/bin/env python3
 
+from bs4 import BeautifulSoup
 import datetime
+import json
 import os
-import pytz
-import re
+import pathlib
 import requests
 import sys
-import tweepy
 
 discord_webhook_url = os.environ["DISCORD_WEBHOOK_URL"]
-tweet_regex = os.environ["TWEET_REGEX"]
-twitter_access_token = os.environ["TWITTER_ACCESS_TOKEN"]
-twitter_access_token_secret = os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
-twitter_account_scanned = os.environ["TWITTER_ACCOUNT_SCANNED"]
-twitter_api_key = os.environ["TWITTER_API_KEY"]
-twitter_api_key_secret = os.environ["TWITTER_API_KEY_SECRET"]
 
 
-def get_tweets(api):
-    tweets = api.user_timeline(screen_name=twitter_account_scanned,
-                               # 200 is the maximum allowed count
-                               count=200,
-                               exclude_replies=True,
-                               include_rts=False,
-                               # Necessary to keep full_text
-                               # otherwise only the first 140 words are extracted
-                               tweet_mode="extended"
-                               )
+def get_table(soup):
+    table = soup.find("table")
+    return table
 
-    time_period = pytz.UTC.localize(
-        datetime.datetime.utcnow() - datetime.timedelta(hours=8))
+def get_rows(table):
+    rows = table.find_all("tr")
+    return rows
 
-    tweet_urls = []
-    for tweet in tweets:
-        if tweet.created_at > time_period and re.search(tweet_regex, tweet.full_text, re.IGNORECASE):
-            # print(tweet.full_text)
-            tweet_url = "https://twitter.com/" + \
-                twitter_account_scanned + "/status/" + tweet.id_str
-            tweet_urls = tweet_urls + [tweet_url]
+def get_columns(row):
+    columns = row.find_all("td")
+    return columns
 
-    return tweet_urls
+def get_code(columns):
+    code = columns[0].text.strip()
+    return code
 
+def get_gift(columns):
+    pokemon = columns[1].text.strip()
+    return pokemon
 
-def get_twitter_api():
-    auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_key_secret)
-    auth.set_access_token(twitter_access_token, twitter_access_token_secret)
+def get_date(columns):
+    date = columns[2].text.strip()
+    return date
 
-    api = tweepy.API(auth)
+def read_json_file_to_dict(file_name):
+    # Read the file into a dictionary
+    with open(file_name, "r") as file:
+        dictionary = json.loads(file.read())
+    return dictionary
 
-    try:
-        api.verify_credentials()
-    except Exception as e:
-        print("Authentication FAILED!")
-        print(e)
-        sys.exit(1)
-
-    return api
-
+def write_dict_to_json_file(dictionary, file_name):
+    # Write the dictionary to a file
+    with open(file_name, "w") as file:
+        file.write(json.dumps(dictionary, indent=4))
 
 def post_to_discord(discord_webhook_url, discord_json):
     result = requests.post(discord_webhook_url, json=discord_json)
@@ -71,9 +59,64 @@ def post_to_discord(discord_webhook_url, discord_json):
 
 
 if __name__ == "__main__":
-    api = get_twitter_api()
-    tweet_urls = get_tweets(api)
-    if tweet_urls:
-        for url in tweet_urls:
-            discord_json = {"content": url}
-            post_to_discord(discord_webhook_url, discord_json)
+    page_url = "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-mystery-gift-codes-list"
+
+    page = requests.get(page_url)
+
+    soup = BeautifulSoup(page.content, "html.parser")
+
+    codes_file_name = "mysterygifts.json"
+
+    new_codes = {}
+
+    if pathlib.Path(codes_file_name).exists():
+        codes = read_json_file_to_dict(codes_file_name)
+    else:
+        codes = {}
+
+    table = get_table(soup)
+
+    rows = get_rows(table)
+    for row in rows[1:]:
+        # Get the code
+        code = get_code(get_columns(row))
+
+        # Get the gift
+        gift = get_gift(get_columns(row))
+        # Convert newlines to commas
+        gift = gift.replace("\n", ", ")
+
+        # Get the date
+        date = get_date(get_columns(row))
+        # Discard the time
+        date = date.split("-")[0].strip()
+
+        # Remove the suffixes from the day
+        suffixes = "st", "nd", "rd", "th"
+        for suffix in suffixes:
+            date = date.replace(suffix, "")
+
+        # Convert the date to a datetime object
+        try:
+            date = datetime.datetime.strptime(date, "%d %b %Y")
+        except ValueError:
+            date = datetime.datetime.strptime(date, "%d %B %Y")
+        # Convert the date to YYYY-MM-DD
+        date = date.strftime("%Y-%m-%d")
+
+        # Update the dictionary
+        code_dict = {"gift": gift, "expires": date}
+        if code not in codes:
+            new_codes[code] = code_dict
+
+        codes[code] = code_dict
+
+    discord_messages = []
+    for code in new_codes:
+        discord_messages.append(f":gift: New Pokemon Scarlet & Violet Mystery Gift code!: `{code}` - {codes[code]['gift']} - Expires {codes[code]['expires']}")
+
+    for discord_message in discord_messages:
+        discord_json = { "content": discord_message }
+        post_to_discord(discord_webhook_url, discord_json)
+
+    write_dict_to_json_file(codes, codes_file_name)

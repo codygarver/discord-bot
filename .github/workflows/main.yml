@@ -22,25 +22,11 @@ jobs:
           python --version
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-      - name: SerebiiNet codes
+      - name: Mystery Gifts
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          TWEET_REGEX: ".*code.*|.*mystery.*gift.*"
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          TWITTER_ACCOUNT_SCANNED: "SerebiiNet"
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
         run: |
           ./bot.py
-      - name: WoW PrimeGaming
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WOW_WEBHOOK_URL }}
-          TWEET_REGEX: ".*prime.*"
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          TWITTER_ACCOUNT_SCANNED: "Warcraft"
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
-        run: |
-          ./bot.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "mysterygifts.json: automatic update"
