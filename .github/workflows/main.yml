@@ -24,7 +24,12 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          ./bot.py
+          ./mysterygifts.py
+      - name: Wowhead Prime Loot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WOW_WEBHOOK_URL }}
+        run: |
+          ./wowhead.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "mysterygifts.json: automatic update"
+          commit_message: "automatic update"
