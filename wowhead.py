@@ -93,9 +93,9 @@ if __name__ == "__main__":
 
     for item in items:
         title = get_title(item)
-        title = title.strip().lower()
+        title_lower = title.strip().lower()
         loot_title = "prime gaming loot"
-        if loot_title not in title:
+        if loot_title not in title_lower:
             continue
 
         link = get_link(item)
