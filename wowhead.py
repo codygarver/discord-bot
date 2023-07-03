@@ -68,7 +68,7 @@ def post_to_discord(discord_webhook_url, discord_json):
         sys.exit(1)
     else:
         print("Post succeeded!: ".format(
-            result.status_loot))
+            result.status_code))
 
 if __name__ == "__main__":
     # The name of the file where to store the loots
