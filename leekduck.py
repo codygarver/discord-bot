@@ -29,17 +29,21 @@ for span in spans:
     cal_event.name = h2.text
 
     # Begin date
-    begin_date = soup.find("h5", class_="event-header-time-period")["data-event-start-date-check"]
+    try:
+        begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"]
+    except:
+        continue
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
     begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
     # Subtract 12 hours from begin_date_local
     begin_date_local = begin_date_local - datetime.timedelta(hours=12)
     cal_event.begin = begin_date_local
-    # DTSTAMP
-    cal_event.created = begin_date_local
 
     # End date
-    end_date = soup.find("h5", class_="event-header-time-period")["data-event-end-date"]
+    try:
+        end_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"]
+    except:
+        continue
     end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
     end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
     # Subtract 12 hours from end_date_local
@@ -49,6 +53,9 @@ for span in spans:
     # URL
     link = url + span.find('a', class_='event-item-link', href=True)['href']
     cal_event.url = link
+
+    # DTSTAMP
+    cal_event.created = begin_date_local
 
     # Add event to calendar
     cal.events.add(cal_event)
