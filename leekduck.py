@@ -34,8 +34,8 @@ for span in spans:
     cal_event.end = end_date_local
     # Subtract 12 hours from end_date_local
     end_date_local = end_date_local - datetime.timedelta(hours=12)
-    link = span.find('a', class_='event-item-link', href=True)
-    cal_event.url = url + link['href']
+    link = url + span.find('a', class_='event-item-link', href=True)['href']
+    cal_event.url = link
     cal.events.add(cal_event)
 
 with open('pokemon-go-events.ics', 'w') as cal_file:
