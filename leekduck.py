@@ -36,7 +36,7 @@ for span in spans:
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
     #begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
     # Subtract 12 hours from begin_date_local
-    begin_date_local = begin_date_local - datetime.timedelta(hours=12)
+    #begin_date_local = begin_date_local - datetime.timedelta(hours=12)
     cal_event.begin = begin_date_local
 
     # End date
@@ -47,7 +47,7 @@ for span in spans:
     end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
     #end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
     # Subtract 12 hours from end_date_local
-    end_date_local = end_date_local - datetime.timedelta(hours=12)
+    #end_date_local = end_date_local - datetime.timedelta(hours=12)
     cal_event.end = end_date_local
 
     # URL
