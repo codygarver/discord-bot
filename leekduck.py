@@ -27,6 +27,7 @@ for span in spans:
     # Event name
     h2 = span.find('h2')
     cal_event.name = h2.text
+    print("Name: " + cal_event.name)
 
     # Begin date
     try:
