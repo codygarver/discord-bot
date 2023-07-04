@@ -7,6 +7,7 @@ import requests
 
 cal = ics.Calendar()
 cal.creator = "codygarver"
+cal.method = "PUBLISH"
 cal.name = "Pokemon Go Events"
 cal.timezone = "US/Eastern"
 
