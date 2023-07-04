@@ -1,535 +1,592 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//leekduck.com//NONSGML Events//EN
+PRODID:codygarver
 BEGIN:VEVENT
-SUMMARY:Rufflet Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-04/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heatran Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/raidhour20230705/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Sableye in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-sableye-in-mega-raids-june-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heatran in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-june-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League Premier and Single-type Cup: Great League Edition | 
- Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league-premier_sing
- le-type-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Squirtle Community Day Classic
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/july-communitydayclassic2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wailmer Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-11/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/raidhour20230712/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO’s 7th Anniversary Party
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/7th-anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Blastoise in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-bat
- tles-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Retro Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_retro-cup-gr
- eat-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Catching some Z's
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/catching-some-zs/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rhyhorn Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-18/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Regieleki Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:be892238-512f-46b8-a1aa-0593027b7c05@be89.org
 URL:https://leekduck.com/events/raidhour20230719/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great League and Great League Remix | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-
- remix/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+UID:b0eaede1-656b-4c9e-95bf-21f2d7ea14ac@b0ea.org
+URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-july-2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riolu Hatch Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/riolu-hatch-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Blaziken in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regieleki in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-july-2023
- /
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Yungoos Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:8e21b6f2-4ce8-4c6e-b4e9-ce2e289cbcf2@8e21.org
 URL:https://leekduck.com/events/pokemonspotlighthour2023-07-25/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Regidrago Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/raidhour20230726/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great League and Fossil Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fossil-cup-gr
- eat-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:July Community Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/july-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Adventure Week 2023
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:fffba5e0-6665-4ee8-a05c-0086cc8abf8d@fffb.org
 URL:https://leekduck.com/events/adventure-week-2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultra League and Fossil Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-gr
- eat-league-edition/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO’s 7th Anniversary Party
+UID:2f22e598-68ba-4767-bf90-94ffa262cc82@2f22.org
+URL:https://leekduck.com/events/7th-anniversary-party/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mega Tyranitar in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-july-2023/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Hidden Gems
+UID:083493b3-bacf-4c2b-9a96-0461485061fa@0834.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_master-league/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Regidrago in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-july-2023
- /
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League Premier and Single-type Cup: Great League Edition | Hidden Gems
+UID:3174e56c-6213-4c7f-ad9c-891f49bc50f2@3174.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league-premier_single-type-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest 2023: Osaka
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-osaka-japan/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Yungoos Spotlight Hour
+UID:d64a04e8-2bbf-4863-94d8-7831d0bf2238@d64a.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-25/
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Blastoise in Mega Raids
+UID:bf2d981b-398f-43ed-8bc3-43f332063c73@bf2d.org
+URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Pokémon GO Fest 2023: London
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:a94b3b81-d1ee-456a-ba5d-8190cc6f956c@a94b.org
 URL:https://leekduck.com/events/pokemon-go-fest-2023-london-england/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-li
- ttle-edition/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+UID:05c9fb04-5d60-404f-af1c-7d3d4f9fae73@05c9.org
+URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-july-2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:August Community Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/august-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO World Championships Event
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Gyarados in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cresselia in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-20
- 23/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great League\, Ultra League\, and Master League | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_
- master-league/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest 2023: New York City
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Salamence in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-
- ultra-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest: Global - Saturday
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest: Global - Sunday
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shadow Articuno in Shadow Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-june-2023/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Mega Rayquaza in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:750bc53a-664b-41da-a2c2-62e8585aa13f@750b.org
 URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Season 11: Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:329373c5-b8e8-41f5-ac91-403608ca6b36@3293.org
 URL:https://leekduck.com/events/season-11-hidden-gems/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hidden Gems Research Breakthrough - Season 11
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/season-11-hidden-gems-research-breakthroug
- h/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hi
- dden-gems-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rufflet Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-04/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Heatran Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:36302af4-0f7c-4cc7-869c-371aecb881e5@3630.org
 URL:https://leekduck.com/events/raidhour20230705/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mega Blastoise in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-bat
- tles-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO’s 7th Anniversary Party
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/7th-anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Retro Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_retro-cup-gr
- eat-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Squirtle Community Day Classic
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/july-communitydayclassic2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wailmer Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-11/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:36a5628b-d8d6-4c5d-9546-ddc79b717693@36a5.org
 URL:https://leekduck.com/events/raidhour20230712/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mega Blaziken in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regieleki in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-july-2023
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great League and Great League Remix | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-
- remix/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Catching some Z's
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:354902c4-6214-48a7-a1e0-49fcf41e3f2a@3549.org
 URL:https://leekduck.com/events/catching-some-zs/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rhyhorn Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-18/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest: Global - Sunday
+UID:4c91807a-1ce6-44ae-be2f-5da98a8c1744@4c91.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Regieleki Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/raidhour20230719/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Squirtle Community Day Classic
+UID:a669a560-b5f7-4758-8635-b5f7a693463e@a669.org
+URL:https://leekduck.com/events/july-communitydayclassic2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great League and Fossil Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fossil-cup-gr
- eat-league-edition/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
+UID:64ec53a6-8cbc-4117-92aa-d9f24745c6c1@64ec.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riolu Hatch Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/riolu-hatch-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Tyranitar in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-july-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regidrago in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-july-2023
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yungoos Spotlight Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemonspotlighthour2023-07-25/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regidrago Raid Hour
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/raidhour20230726/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adventure Week 2023
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/adventure-week-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ultra League and Fossil Cup: Great League Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-gr
- eat-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:July Community Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/july-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-li
- ttle-edition/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Pokémon GO Fest 2023: Osaka
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:2e65ea40-4dad-4e6d-956c-25bafa379331@2e65.org
 URL:https://leekduck.com/events/pokemon-go-fest-2023-osaka-japan/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest 2023: London
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-london-england/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Tyranitar in Mega Raids
+UID:cc2d12c6-703b-4843-85fa-c2cd4dbf9daa@cc2d.org
+URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-july-2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mega Gyarados in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:July Community Day
+UID:4bfa5738-db7a-4ab8-8465-7f69d6bac63d@4bfa.org
+URL:https://leekduck.com/events/july-communityday2023/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cresselia in 5-star Raid Battles
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-20
- 23/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Wailmer Spotlight Hour
+UID:6daf7af1-41b9-40c7-8bb1-6976757bcb21@6daf.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-11/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great League\, Ultra League\, and Master League | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_
- master-league/
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regidrago Raid Hour
+UID:b5475b47-7b43-4682-bac6-3f0fcfa9f64e@b547.org
+URL:https://leekduck.com/events/raidhour20230726/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pokémon GO World Championships Event
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:August Community Day
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/august-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Rayquaza in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mega Salamence in Mega Raids
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-
- ultra-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokémon GO Fest 2023: New York City
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hi
- dden-gems-edition/
-END:VEVENT
-BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Pokémon GO Fest: Global - Saturday
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:75219b20-4de4-42ce-8eb9-231c18fbe767@7521.org
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
+UID:86a3ec25-f51f-4ad3-a105-4adceae0bb7a@86a3.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regidrago in 5-star Raid Battles
+UID:f833e62f-4f9d-4f58-86ce-bbf1bd959bfa@f833.org
+URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Shadow Articuno in Shadow Raids
+UID:be1c6393-32f9-424f-8c26-64924189ae8d@be1c.org
+URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-june-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Rhyhorn Spotlight Hour
+UID:6f01bafb-1185-4fd0-b275-813fd5a5da39@6f01.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-18/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League and Great League Remix | Hidden Gems
+UID:891c41a2-b565-430d-b770-e5f61f281c83@891c.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-remix/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regieleki Raid Hour
+UID:5a46cf25-fe3b-4389-baf6-4bb0db391352@5a46.org
+URL:https://leekduck.com/events/raidhour20230719/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Heatran in 5-star Raid Battles
+UID:f1051302-cee2-4d01-80ba-7d78b58f1ee8@f105.org
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-june-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO’s 7th Anniversary Party
+UID:1e5b37f4-6347-4c6b-9cf4-107c12607cc3@1e5b.org
+URL:https://leekduck.com/events/7th-anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO World Championships Event
+UID:c7fe1cf1-2288-4e92-9a43-2c573d2b4f19@c7fe.org
+URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:July Community Day
+UID:920aaa2e-113b-4d14-8315-47ffd968dbcb@920a.org
+URL:https://leekduck.com/events/july-communityday2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Ultra League and Fossil Cup: Great League Edition | Hidden Gems
+UID:89915508-3744-465e-9f4c-d378f519ae31@8991.org
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest 2023: New York City
+UID:ee7e997d-03c5-45c1-aa31-893456806936@ee7e.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Blaziken in Mega Raids
+UID:b7e616a2-8dde-4aab-afad-391f8c2e3a14@b7e6.org
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Rufflet Spotlight Hour
+UID:c6ba3358-631e-4236-9a4c-932d05b4c1c7@c6ba.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-04/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Gyarados in Mega Raids
+UID:87f42881-67a2-4a4c-93b8-792885789496@87f4.org
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Wailmer Spotlight Hour
+UID:7d89daff-766b-4fa9-840d-f9bc9c9a4734@7d89.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-11/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Adventure Week 2023
+UID:dcc398fa-6161-4992-9916-94e2828ebba4@dcc3.org
+URL:https://leekduck.com/events/adventure-week-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
+UID:95eb1e39-e986-4cbb-af03-1fe34c038634@95eb.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:August Community Day
+UID:1561a38e-3322-4f14-830c-bd2fdc607f7f@1561.org
+URL:https://leekduck.com/events/august-communityday2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League and Fossil Cup: Great League Edition | Hidden Gems
+UID:7c4c1870-6834-4777-ba01-d8162901f8e6@7c4c.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Heatran Raid Hour
+UID:0346c87e-ad35-4476-b45a-58cc85cd8681@0346.org
+URL:https://leekduck.com/events/raidhour20230705/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Catching some Z's
+UID:70d666f0-eb80-43e4-b78b-7bc8dfe75ca6@70d6.org
+URL:https://leekduck.com/events/catching-some-zs/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Rhyhorn Spotlight Hour
+UID:fd8299ad-3bd1-410a-8be2-3d5e964d056f@fd82.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-18/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest 2023: London
+UID:49b57955-c163-4a4d-a115-6ad14248fc29@49b5.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-london-england/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League and Fossil Cup: Great League Edition | Hidden Gems
+UID:625caa28-62a8-4836-8154-794f00f5c983@625c.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regieleki in 5-star Raid Battles
+UID:344ddd01-23da-4bec-b41b-47e5621aaf50@344d.org
+URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regidrago in 5-star Raid Battles
+UID:cc981220-d96d-4a47-a4f5-3be058b45ff5@cc98.org
+URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest 2023: Osaka
+UID:972a554b-fb68-400f-a0e9-21c368fa8771@972a.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-osaka-japan/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
+UID:24930450-b350-4e45-9b42-fee97a299ed1@2493.org
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-little-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League and Great League Remix | Hidden Gems
+UID:fa521329-93a1-4cf5-a825-2cf681be5f48@fa52.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-remix/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
 SUMMARY:Pokémon GO Fest: Global - Sunday
-DTSTART;TZID=US/Eastern:20230704T100000
-DTEND;TZID=US/Eastern:20230704T230000
+UID:647cb3e5-5ba1-4ac5-a66d-8332a24f7cd7@647c.org
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Hidden Gems Research Breakthrough - Season 11
+UID:d2b7fb5b-3f20-4e64-963e-efef51a089d0@d2b7.org
+URL:https://leekduck.com/events/season-11-hidden-gems-research-breakthrough/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Blastoise in Mega Raids
+UID:550d7e79-ad1d-4999-bff3-3e43fba7df0a@550d.org
+URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest: Global - Saturday
+UID:f0491bc2-8fee-410a-b61d-808bbb4134f1@f049.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regieleki in 5-star Raid Battles
+UID:607a66df-7c5a-4c38-90e2-27996db579a1@607a.org
+URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Squirtle Community Day Classic
+UID:3dca6111-66ad-4f73-8c2b-e3ed5173a5ca@3dca.org
+URL:https://leekduck.com/events/july-communitydayclassic2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO Fest 2023: New York City
+UID:4b63c4c5-1a47-4149-816a-e9a83ad7ea31@4b63.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Cresselia in 5-star Raid Battles
+UID:2bbf32bd-62b7-4bac-bdb0-378fc99d1453@2bbf.org
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Blaziken in Mega Raids
+UID:5520f831-84e6-45b5-ba79-6e9ea3891c8b@5520.org
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
+UID:96995d0d-5eec-492c-9405-850387ef38c7@9699.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Sableye in Mega Raids
+UID:be9fa91f-4e52-45fd-bd25-1413275f0322@be9f.org
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-june-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Retro Cup: Great League Edition | Hidden Gems
+UID:4a8bb71b-e8c6-4e2e-947b-06e528a53cda@4a8b.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_retro-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
+UID:7eb0fc00-a30d-4472-aa98-6798aca33f94@7eb0.org
+URL:https://leekduck.com/events/raidhour20230712/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Hidden Gems
+UID:82ed31aa-97b3-4b61-91f3-4e91e9eb8bde@82ed.org
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_master-league/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Regidrago Raid Hour
+UID:41605b69-f73b-432b-adc3-504d9f3762e4@4160.org
+URL:https://leekduck.com/events/raidhour20230726/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Tyranitar in Mega Raids
+UID:76f6cbe5-f1ce-4207-b2d8-9e844ae6c8a8@76f6.org
+URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-july-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:August Community Day
+UID:826c3431-2c79-4684-9e1b-b197b99a801a@826c.org
+URL:https://leekduck.com/events/august-communityday2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Cresselia in 5-star Raid Battles
+UID:9f643bfc-3119-47ec-93c8-13eb1ffa104d@9f64.org
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Ultra League and Fossil Cup: Great League Edition | Hidden Gems
+UID:21226eed-da92-431e-a505-697d75f6b3cb@2122.org
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Salamence in Mega Raids
+UID:1bb06d42-c0d5-4d9d-bad1-053b4f777f42@1bb0.org
+URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Rayquaza in Mega Raids
+UID:bdffff0e-b8fb-43f3-9169-678ecd5a2750@bdff.org
+URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Rufflet Spotlight Hour
+UID:a71f713e-6ce0-4804-953a-e6d894332968@a71f.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-07-04/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
+UID:bdeca904-9bf8-4990-9055-aed4e875230f@bdec.org
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-little-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Riolu Hatch Day
+UID:fe8c73fa-d3b8-4bc1-8cea-a64543079f56@fe8c.org
+URL:https://leekduck.com/events/riolu-hatch-day/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Master League and Retro Cup: Great League Edition | Hidden Gems
+UID:fd2cc607-f871-4bbc-af38-bfc76c82cf63@fd2c.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_retro-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Pokémon GO World Championships Event
+UID:d5c28402-6f65-4785-aa4b-6e2ff2c0b317@d5c2.org
+URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Gyarados in Mega Raids
+UID:006c0ac2-bc07-4be8-887c-114e7ad5544e@006c.org
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Riolu Hatch Day
+UID:254e8062-ef4d-427c-844b-cf89321b4846@254e.org
+URL:https://leekduck.com/events/riolu-hatch-day/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230705T030000Z
+DTSTART:20230704T140000Z
+SUMMARY:Mega Salamence in Mega Raids
+UID:25235a9b-26cd-4f26-bdd9-c0e40b3a9e26@2523.org
+URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2023/
 END:VEVENT
 END:VCALENDAR
