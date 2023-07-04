@@ -18,9 +18,20 @@ soup = BeautifulSoup(page.content, 'html.parser')
 
 spans = soup.find_all('span', class_='event-header-item-wrapper')
 
+# Read existing events from file
+existing_event_urls = []
+with open('pokemon-go-events.ics', 'r') as existing_cal_file:
+    existing_cal = ics.Calendar(existing_cal_file.read())
+    for existing_cal_event in existing_cal.events:
+        existing_event_urls.append(existing_cal_event.url)
+
 for span in spans:
-    h2 = span.find('h2')
+    link = span.find('a', class_='event-item-link', href=True)
+    if link in existing_event_urls:
+        continue
     cal_event = ics.Event()
+    cal_event.url = url + link['href']
+    h2 = span.find('h2')
     cal_event.name = h2.text
     begin_date = soup.find("h5", class_="event-header-time-period")["data-event-start-date-check"]
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
@@ -34,8 +45,7 @@ for span in spans:
     cal_event.end = end_date_local
     # Subtract 12 hours from end_date_local
     end_date_local = end_date_local - datetime.timedelta(hours=12)
-    link = span.find('a', class_='event-item-link', href=True)
-    cal_event.url = url + link['href']
+    cal_event.dtstamp = datetime.datetime.now()
     cal.events.add(cal_event)
 
 with open('pokemon-go-events.ics', 'w') as cal_file:
