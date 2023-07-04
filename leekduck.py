@@ -10,6 +10,8 @@ cal.creator = "codygarver"
 cal.name = "Pokemon Go Events"
 cal.timezone = "US/Eastern"
 
+cal_filename = "pokemon-go-events.ics"
+
 url = "https://leekduck.com"
 
 page = requests.get(url + "/events/")
@@ -20,17 +22,17 @@ spans = soup.find_all('span', class_='event-header-item-wrapper')
 
 # Read existing events from file
 existing_event_urls = []
-with open('pokemon-go-events.ics', 'r') as existing_cal_file:
+with open(cal_filename, 'r') as existing_cal_file:
     existing_cal = ics.Calendar(existing_cal_file.read())
     for existing_cal_event in existing_cal.events:
         existing_event_urls.append(existing_cal_event.url)
 
 for span in spans:
-    link = span.find('a', class_='event-item-link', href=True)
+    link = url + span.find('a', class_='event-item-link', href=True)['href']
     if link in existing_event_urls:
         continue
     cal_event = ics.Event()
-    cal_event.url = url + link['href']
+    cal_event.url = link
     h2 = span.find('h2')
     cal_event.name = h2.text
     begin_date = soup.find("h5", class_="event-header-time-period")["data-event-start-date-check"]
@@ -48,5 +50,5 @@ for span in spans:
     cal_event.dtstamp = datetime.datetime.now()
     cal.events.add(cal_event)
 
-with open('pokemon-go-events.ics', 'w') as cal_file:
+with open(cal_filename, 'w') as cal_file:
     cal_file.writelines(cal)
