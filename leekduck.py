@@ -48,6 +48,9 @@ for span in spans:
     link = url + span.find('a', class_='event-item-link', href=True)['href']
     cal_event.url = link
 
+    # DTSTAMP
+    cal_event.created = datetime.datetime.now()
+
     # Add event to calendar
     cal.events.add(cal_event)
 
