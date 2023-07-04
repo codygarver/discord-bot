@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup
 import datetime
-import icalendar
+import ics
 import pytz
 import requests
 
-cal = icalendar.Calendar()
-cal.add('prodid', '-//leekduck.com//NONSGML Events//EN')
-cal.add('version', '2.0')
-
+cal = ics.Calendar()
+cal.creator = "codygarver"
+cal.name = "Pokemon Go Events"
+cal.timezone = "US/Eastern"
 
 url = "https://leekduck.com"
 
@@ -20,24 +20,23 @@ spans = soup.find_all('span', class_='event-header-item-wrapper')
 
 for span in spans:
     h2 = span.find('h2')
-    cal_event = icalendar.Event()
-    cal_event.add('summary', h2.text)
+    cal_event = ics.Event()
+    cal_event.name = h2.text
     begin_date = soup.find("h5", class_="event-header-time-period")["data-event-start-date-check"]
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
     begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
     # Subtract 12 hours from begin_date_local
     begin_date_local = begin_date_local - datetime.timedelta(hours=12)
-    cal_event.add('dtstart', begin_date_local)
+    cal_event.begin = begin_date_local
     end_date = soup.find("h5", class_="event-header-time-period")["data-event-end-date"]
     end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
     end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
-    cal_event.add('dtend', end_date_local)
+    cal_event.end = end_date_local
     # Subtract 12 hours from end_date_local
     end_date_local = end_date_local - datetime.timedelta(hours=12)
     link = span.find('a', class_='event-item-link', href=True)
-    cal_event.add('url', url + link['href'])
-    cal.add_component(cal_event)
+    cal_event.url = url + link['href']
+    cal.events.add(cal_event)
 
-cal_file = open('pokemon-go-events.ics', 'wb')
-cal_file.write(cal.to_ical())
-cal_file.close()
+with open('pokemon-go-events.ics', 'w') as cal_file:
+    cal_file.writelines(cal)
