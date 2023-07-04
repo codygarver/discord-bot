@@ -30,6 +30,9 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WOW_WEBHOOK_URL }}
         run: |
           ./wowhead.py
+      - name: Generate Pokemon Go calendar
+        run: |
+          ./leekduck.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "automatic update"
