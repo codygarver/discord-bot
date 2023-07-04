@@ -35,6 +35,8 @@ for span in spans:
     # Subtract 12 hours from begin_date_local
     begin_date_local = begin_date_local - datetime.timedelta(hours=12)
     cal_event.begin = begin_date_local
+    # DTSTAMP
+    cal_event.created = begin_date_local
 
     # End date
     end_date = soup.find("h5", class_="event-header-time-period")["data-event-end-date"]
@@ -47,9 +49,6 @@ for span in spans:
     # URL
     link = url + span.find('a', class_='event-item-link', href=True)['href']
     cal_event.url = link
-
-    # DTSTAMP
-    cal_event.created = datetime.datetime.now()
 
     # Add event to calendar
     cal.events.add(cal_event)
