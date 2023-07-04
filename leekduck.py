@@ -30,10 +30,10 @@ for span in spans:
 
     # Begin date
     try:
-        begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"]
+        begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"][:-5]
     except:
         continue
-    begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
+    begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S")
     begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
     print(begin_date_local)
     # Subtract 12 hours from begin_date_local
@@ -42,10 +42,10 @@ for span in spans:
 
     # End date
     try:
-        end_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"]
+        end_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"][:-5]
     except:
         continue
-    end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
+    end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S")
     end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
     print(end_date_local)
     # Subtract 12 hours from end_date_local
