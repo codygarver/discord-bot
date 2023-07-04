@@ -34,7 +34,8 @@ for span in spans:
     except:
         continue
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
-    #begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
+    begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
+    print(begin_date_local)
     # Subtract 12 hours from begin_date_local
     #begin_date_local = begin_date_local - datetime.timedelta(hours=12)
     cal_event.begin = begin_date_local
@@ -45,7 +46,8 @@ for span in spans:
     except:
         continue
     end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
-    #end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
+    end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
+    print(end_date_local)
     # Subtract 12 hours from end_date_local
     #end_date_local = end_date_local - datetime.timedelta(hours=12)
     cal_event.end = end_date_local
