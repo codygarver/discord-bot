@@ -29,23 +29,31 @@ for span in spans:
     cal_event.name = h2.text
     print("Name: " + cal_event.name)
 
+    # Determine local time
+    if span.find_all("h5", class_="event-header-time-period")[0]["data-event-local-time"] == "true":
+        display_local_time = True
+    else:
+        display_local_time = False
+
     # Begin date
     try:
-        begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-start-date-check"][:-5]
+        begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-start-date-check"]
     except:
         continue
-    begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S")
-    begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
+    begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
+    if display_local_time:
+        begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
     print(begin_date_local)
     cal_event.begin = begin_date_local
 
     # End date
     try:
-        end_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"][:-5]
+        end_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-end-date"]
     except:
         continue
-    end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S")
-    end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
+    end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
+    if display_local_time:
+        end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
     print(end_date_local)
     cal_event.end = end_date_local
 
