@@ -40,9 +40,14 @@ for span in spans:
         begin_date = span.find_all("h5", class_="event-header-time-period")[0]["data-event-start-date-check"]
     except:
         continue
+    # Replace -0800 with -0700
+    #begin_date = begin_date.replace("-0800", "-0700")
+    print("Before: " + begin_date)
     begin_date_local = datetime.datetime.strptime(begin_date, "%Y-%m-%dT%H:%M:%S%z")
     if display_local_time:
         begin_date_local = begin_date_local.astimezone(pytz.timezone('US/Eastern'))
+    else:
+        begin_date_local = begin_date_local.astimezone(pytz.timezone('UTC'))
     print(begin_date_local)
     cal_event.begin = begin_date_local
 
@@ -52,8 +57,11 @@ for span in spans:
     except:
         continue
     end_date_local = datetime.datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%S%z")
+    print(end_date_local)
     if display_local_time:
         end_date_local = end_date_local.astimezone(pytz.timezone('US/Eastern'))
+    else:
+        end_date_local = end_date_local.astimezone(pytz.timezone('UTC'))
     print(end_date_local)
     cal_event.end = end_date_local
 
