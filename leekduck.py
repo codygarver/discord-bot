@@ -9,7 +9,7 @@ cal = ics.Calendar()
 cal.creator = "codygarver"
 cal.method = "PUBLISH"
 cal.name = "Pokemon Go Events"
-cal.timezone = "US/Eastern"
+#cal.timezone = "US/Eastern"
 
 url = "https://leekduck.com"
 
