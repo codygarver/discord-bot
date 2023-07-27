@@ -105,6 +105,9 @@ if __name__ == "__main__":
         for suffix in suffixes:
             date = date.replace(suffix, "")
 
+        # Replace Sept with Sep
+        date = date.replace("Sept", "Sep")
+
         # Convert the date to a datetime object
         try:
             date = datetime.datetime.strptime(date, "%d %b %Y")
