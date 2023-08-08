@@ -2,203 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20230816T220000Z
-DTEND:20230816T230000Z
-DTSTART:20230816T220000Z
-SUMMARY:Xerneas Raid Hour
-UID:a595df17-67ab-4f36-98ee-7d23085b88ae@a595.org
-URL:https://leekduck.com/events/raidhour20230816/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T140000Z
+DTSTAMP:20230827T140000Z
 DTEND:20230901T140000Z
-DTSTART:20230801T140000Z
-SUMMARY:Daily Streak Bonus - Hidden Gems
-UID:9d929e33-564c-4cae-88ea-85a78f1992b9@9d92.org
-URL:https://leekduck.com/events/august-2023-streak-bonus/
+DTSTART:20230827T140000Z
+SUMMARY:Xerneas and Yveltal in 5-star Raid Battles
+UID:a3a18c74-19b9-4696-8f3f-608d51085ffd@a3a1.org
+URL:https://leekduck.com/events/xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230809T220000Z
-DTEND:20230809T230000Z
-DTSTART:20230809T220000Z
-SUMMARY:Cresselia Raid Hour
-UID:e94dfc1c-d112-4c6a-ae00-f2fba6d8ed1a@e94d.org
-URL:https://leekduck.com/events/raidhour20230809/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230813T180000Z
-DTEND:20230813T210000Z
-DTSTART:20230813T180000Z
-SUMMARY:Froakie Community Day
-UID:84777404-ddd8-4a0a-9084-742a61d359c3@8477.org
-URL:https://leekduck.com/events/august-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230822T220000Z
-DTEND:20230822T230000Z
-DTSTART:20230822T220000Z
-SUMMARY:Venonat Spotlight Hour
-UID:eba53cb1-2fb6-4b35-8c68-fc2d1bcd13fa@eba5.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-22/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230830T220000Z
-DTEND:20230830T230000Z
-DTSTART:20230830T220000Z
-SUMMARY:Yveltal Raid Hour
-UID:e90d0135-f07a-4861-add4-5621bef3b43e@e90d.org
-URL:https://leekduck.com/events/raidhour20230830/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230811T140000Z
-DTEND:20230816T000000Z
-DTSTART:20230811T140000Z
-SUMMARY:Pokémon GO World Championships Event
-UID:58e29aea-7533-46f1-8b4b-95763ba01ed2@58e2.org
-URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230808T220000Z
-DTEND:20230808T230000Z
-DTSTART:20230808T220000Z
-SUMMARY:Paras Spotlight Hour
-UID:6d7a5ea6-7f91-43ac-be1a-7bdea7e30180@6d7a.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-08/
+DTSTAMP:20230815T220000Z
+DTEND:20230815T230000Z
+DTSTART:20230815T220000Z
+SUMMARY:Stufful Spotlight Hour
+UID:f8484803-acc4-461e-8b94-271f02694a25@f848.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-08-15/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230827T140000Z
 DTEND:20230827T220000Z
 DTSTART:20230827T140000Z
 SUMMARY:Pokémon GO Fest: Global - Sunday
-UID:3583dd70-2b16-4b37-affa-441ac713a027@3583.org
+UID:ea0500c1-c57c-45a0-b030-11b12c1a8de8@ea05.org
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230817T200000Z
-DTEND:20230824T200000Z
-DTSTART:20230817T200000Z
-SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
-UID:38eca250-29a3-4177-847f-a645b647a9de@38ec.org
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition/
+DTSTAMP:20230826T140000Z
+DTEND:20230826T220000Z
+DTSTART:20230826T140000Z
+SUMMARY:Pokémon GO Fest: Global - Saturday
+UID:bbd9be9a-6dc8-46f9-a2cb-f5c216c3d1bd@bbd9.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T200000Z
-DTEND:20230810T200000Z
-DTSTART:20230803T200000Z
-SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
-UID:e4425384-7a96-4cdb-9b6d-a54fda65d0e7@e442.org
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-little-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T140000Z
+DTSTAMP:20230801T140000Z
 DTEND:20230901T140000Z
-DTSTART:20230827T140000Z
-SUMMARY:Xerneas and Yveltal in 5-star Raid Battles
-UID:89b4b907-e0f2-4213-97c9-42768c20a5b3@89b4.org
-URL:https://leekduck.com/events/xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
+DTSTART:20230801T140000Z
+SUMMARY:Daily Streak Bonus - Hidden Gems
+UID:044d0208-0f50-430b-b514-2da976fc9d52@044d.org
+URL:https://leekduck.com/events/august-2023-streak-bonus/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230816T140000Z
 DTEND:20230823T140000Z
 DTSTART:20230816T140000Z
 SUMMARY:Mega Salamence in Mega Raids
-UID:fe40f1e3-bfcb-424c-8fbb-c9c88cd6464a@fe40.org
+UID:cc86031e-ec9e-4f45-9675-3985bbddf7d7@cc86.org
 URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230823T220000Z
-DTEND:20230823T230000Z
-DTSTART:20230823T220000Z
-SUMMARY:Primal Kyogre Raid Hour
-UID:baf5021a-3798-49b6-9ed4-7b72eb76cca3@baf5.org
-URL:https://leekduck.com/events/raidhour20230823/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230610T140000Z
-DTEND:20230828T000000Z
-DTSTART:20230610T140000Z
-SUMMARY:Shadow Articuno in Shadow Raids
-UID:14a8b8fb-d9dd-47c5-b8e0-e6a95b304d1b@14a8.org
-URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-june-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230804T140000Z
-DTEND:20230816T140000Z
-DTSTART:20230804T140000Z
-SUMMARY:Cresselia in 5-star Raid Battles
-UID:5ffaeead-d6f0-4702-b322-4e4e328b70b6@5ffa.org
-URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230823T140000Z
-DTEND:20230826T140000Z
-DTSTART:20230823T140000Z
-SUMMARY:Primal Kyogre and Primal Groudon in Primal Raids
-UID:36513f30-87d6-477f-869f-24a26291fcc4@3651.org
-URL:https://leekduck.com/events/primal-kyogre-and-primal-groudon-in-primal-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230710T200000Z
-DTEND:20230823T000000Z
-DTSTART:20230710T200000Z
-SUMMARY:Limited-time Partner Research: Amazon Prime Gaming
-UID:0c67ff26-0b72-4d87-b4c9-6a9eb18ed27a@0c67.org
-URL:https://leekduck.com/events/amazon-prime-partner-research-hidden-gems/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T140000Z
-DTEND:20230823T000000Z
-DTSTART:20230819T140000Z
-SUMMARY:Noxious Swamp
-UID:30083304-f91c-499a-9be8-5d37e91c3b6e@3008.org
-URL:https://leekduck.com/events/noxious-swamp/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T130000Z
-DTEND:20230820T220000Z
-DTSTART:20230818T130000Z
-SUMMARY:Pokémon GO Fest 2023: New York City
-UID:73703ecb-6d86-49f7-9126-632eca31dbfe@7370.org
-URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230804T140000Z
-DTEND:20230828T000000Z
-DTSTART:20230804T140000Z
-SUMMARY:GO Fest: Mega Rayquaza in Mega Raids
-UID:623d17f9-7a50-4cb9-9743-97d4fd9cfd2b@623d.org
-URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T140000Z
-DTEND:20231105T220000Z
-DTSTART:20231104T140000Z
-SUMMARY:Mexico City\, Mexico - Pokémon GO City Safari
-UID:7f8ed1ed-8303-448b-8973-883cfa5bf225@7f8e.org
-URL:https://leekduck.com/events/citysafari-mexico-city-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230804T140000Z
-DTEND:20230816T140000Z
-DTSTART:20230804T140000Z
-SUMMARY:Mega Gyarados in Mega Raids
-UID:7d7d7e80-3793-482c-8735-2bc1666e8632@7d7d.org
-URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230824T200000Z
-DTEND:20230901T200000Z
-DTSTART:20230824T200000Z
-SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
-UID:a7bb3fd7-43a0-4023-84a6-ecedd1384c43@a7bb.org
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230824T220000Z
 DTEND:20230824T230000Z
 DTSTART:20230824T220000Z
 SUMMARY:Primal Groudon Raid Hour
-UID:12826a57-516c-477b-93be-3d0ee1bda56d@1282.org
+UID:21110d01-9c69-43c8-b044-b9b65424e832@2111.org
 URL:https://leekduck.com/events/raidhour20230824/
 END:VEVENT
 BEGIN:VEVENT
@@ -206,80 +62,224 @@ DTSTAMP:20230810T200000Z
 DTEND:20230817T200000Z
 DTSTART:20230810T200000Z
 SUMMARY:Great League\, Ultra League\, and Master League | Hidden Gems
-UID:aa59c67c-9023-4120-8d70-cb515ae85282@aa59.org
+UID:60d7f49a-034d-443b-9027-9e30925ede84@60d7.org
 URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_master-league/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230805T140000Z
-DTEND:20230809T000000Z
-DTSTART:20230805T140000Z
-SUMMARY:Glittering Garden
-UID:493f3a2f-3a1a-4ac9-a702-45090945a2fb@493f.org
-URL:https://leekduck.com/events/glittering-garden/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231013T140000Z
 DTEND:20231014T220000Z
 DTSTART:20231013T140000Z
 SUMMARY:Barcelona\, Spain - Pokémon GO City Safari
-UID:c3a6f141-9422-44ba-befb-0cf2308b09d0@c3a6.org
+UID:9bd02f9d-86e4-4a42-900b-71b2d4b2b2fc@9bd0.org
 URL:https://leekduck.com/events/citysafari-barcelona-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230601T140000Z
-DTEND:20230901T140000Z
-DTSTART:20230601T140000Z
-SUMMARY:Season 11: Hidden Gems
-UID:a4af3ac1-9eda-43d7-a438-d821f46ccbcf@a4af.org
-URL:https://leekduck.com/events/season-11-hidden-gems/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230829T220000Z
-DTEND:20230829T230000Z
-DTSTART:20230829T220000Z
-SUMMARY:Tentacool Spotlight Hour
-UID:529bd1aa-105c-4938-b8e8-bc2fe95727cf@529b.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-29/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230826T140000Z
-DTEND:20230826T220000Z
-DTSTART:20230826T140000Z
-SUMMARY:Pokémon GO Fest: Global - Saturday
-UID:7411b688-7f9c-4665-8c14-502ec8613153@7411.org
-URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230601T200000Z
-DTEND:20230901T200000Z
-DTSTART:20230601T200000Z
-SUMMARY:Hidden Gems Research Breakthrough - Season 11
-UID:f92dc4d5-120d-43e6-aef4-4d60d4069122@f92d.org
-URL:https://leekduck.com/events/season-11-hidden-gems-research-breakthrough/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T220000Z
-DTEND:20230815T230000Z
-DTSTART:20230815T220000Z
-SUMMARY:Stufful Spotlight Hour
-UID:2061b319-bfdd-46ef-bf04-18d240fe95bc@2061.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-15/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231007T140000Z
-DTEND:20231008T220000Z
-DTSTART:20231007T140000Z
-SUMMARY:Seoul\, South Korea - Pokémon GO City Safari
-UID:c55bb306-83b9-4cf5-9178-f7af7f3b4cdd@c55b.org
-URL:https://leekduck.com/events/citysafari-seoul-2023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230816T140000Z
 DTEND:20230823T140000Z
 DTSTART:20230816T140000Z
 SUMMARY:Xerneas and Yveltal in 5-star Raid Battles
-UID:d7a9d559-1f88-4f79-8118-0bec774f100e@d7a9.org
+UID:31e04310-089e-4d5a-957e-2e999c25b587@31e0.org
 URL:https://leekduck.com/events/xerneas-yveltal-in-5-star-raid-battles-august-2023-period1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230823T220000Z
+DTEND:20230823T230000Z
+DTSTART:20230823T220000Z
+SUMMARY:Primal Kyogre Raid Hour
+UID:8533c3e1-7cdd-4667-bd8b-d4759ab140aa@8533.org
+URL:https://leekduck.com/events/raidhour20230823/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230822T220000Z
+DTEND:20230822T230000Z
+DTSTART:20230822T220000Z
+SUMMARY:Venonat Spotlight Hour
+UID:24eafa90-31ca-40d0-ad1d-ecfcb21c2e16@24ea.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-08-22/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T140000Z
+DTEND:20230816T000000Z
+DTSTART:20230811T140000Z
+SUMMARY:Pokémon GO World Championships Event
+UID:915ca7ed-2b66-4356-960f-7354ec3471f7@915c.org
+URL:https://leekduck.com/events/pokemon-go-world-championship-event-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231104T140000Z
+DTEND:20231105T220000Z
+DTSTART:20231104T140000Z
+SUMMARY:Mexico City\, Mexico - Pokémon GO City Safari
+UID:1de26994-d35a-435e-a481-acd272e56512@1de2.org
+URL:https://leekduck.com/events/citysafari-mexico-city-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230601T200000Z
+DTEND:20230901T200000Z
+DTSTART:20230601T200000Z
+SUMMARY:Hidden Gems Research Breakthrough - Season 11
+UID:d2042b45-02dc-46d1-bf1f-034472c82b6c@d204.org
+URL:https://leekduck.com/events/season-11-hidden-gems-research-breakthrough/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230830T220000Z
+DTEND:20230830T230000Z
+DTSTART:20230830T220000Z
+SUMMARY:Yveltal Raid Hour
+UID:49ce60b0-380e-43be-a0f4-1e562a5380a9@49ce.org
+URL:https://leekduck.com/events/raidhour20230830/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231007T140000Z
+DTEND:20231008T220000Z
+DTSTART:20231007T140000Z
+SUMMARY:Seoul\, South Korea - Pokémon GO City Safari
+UID:ef4cbf73-c579-440b-ba5b-4407ebd6852e@ef4c.org
+URL:https://leekduck.com/events/citysafari-seoul-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230804T140000Z
+DTEND:20230816T140000Z
+DTSTART:20230804T140000Z
+SUMMARY:Cresselia in 5-star Raid Battles
+UID:66753384-61fe-42c6-b07f-71f9078bc6d7@6675.org
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230817T200000Z
+DTEND:20230824T200000Z
+DTSTART:20230817T200000Z
+SUMMARY:Master League and Fantasy Cup: Ultra League Edition| Hidden Gems
+UID:8e2b9061-5b05-40e2-b6f3-61546557703b@8e2b.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230610T140000Z
+DTEND:20230828T000000Z
+DTSTART:20230610T140000Z
+SUMMARY:Shadow Articuno in Shadow Raids
+UID:e6088815-a432-4c1b-b3c2-ced5b5e8358c@e608.org
+URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-june-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230808T220000Z
+DTEND:20230808T230000Z
+DTSTART:20230808T220000Z
+SUMMARY:Paras Spotlight Hour
+UID:744d7460-d7d9-40a6-a410-84bece665584@744d.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-08-08/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230829T220000Z
+DTEND:20230829T230000Z
+DTSTART:20230829T220000Z
+SUMMARY:Tentacool Spotlight Hour
+UID:08808644-e8f0-4728-b8c4-21ea3888e1fd@0880.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-08-29/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230809T220000Z
+DTEND:20230809T230000Z
+DTSTART:20230809T220000Z
+SUMMARY:Cresselia Raid Hour
+UID:f2497639-b262-4ea2-ad75-2c7123310f08@f249.org
+URL:https://leekduck.com/events/raidhour20230809/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230804T140000Z
+DTEND:20230816T140000Z
+DTSTART:20230804T140000Z
+SUMMARY:Mega Gyarados in Mega Raids
+UID:b5ced0c5-e936-4f5f-8d90-67c6567aa119@b5ce.org
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230601T140000Z
+DTEND:20230901T140000Z
+DTSTART:20230601T140000Z
+SUMMARY:Season 11: Hidden Gems
+UID:6a14a7ff-f32a-4740-8508-b2dc4dba0e79@6a14.org
+URL:https://leekduck.com/events/season-11-hidden-gems/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230710T200000Z
+DTEND:20230823T000000Z
+DTSTART:20230710T200000Z
+SUMMARY:Limited-time Partner Research: Amazon Prime Gaming
+UID:7151b5f9-e5b4-4439-b5c1-9a1cfdfd321e@7151.org
+URL:https://leekduck.com/events/amazon-prime-partner-research-hidden-gems/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230813T180000Z
+DTEND:20230813T210000Z
+DTSTART:20230813T180000Z
+SUMMARY:Froakie Community Day
+UID:cd7b6d8c-dd92-4ebc-b0c5-b67e02c3955e@cd7b.org
+URL:https://leekduck.com/events/august-communityday2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230805T140000Z
+DTEND:20230809T000000Z
+DTSTART:20230805T140000Z
+SUMMARY:Glittering Garden
+UID:e4712341-13e6-4f2e-8af0-a14e03748ae5@e471.org
+URL:https://leekduck.com/events/glittering-garden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230804T140000Z
+DTEND:20230828T000000Z
+DTSTART:20230804T140000Z
+SUMMARY:GO Fest: Mega Rayquaza in Mega Raids
+UID:1eb81b7d-e871-4fd3-8d38-e01b7ba8dabd@1eb8.org
+URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230819T140000Z
+DTEND:20230823T000000Z
+DTSTART:20230819T140000Z
+SUMMARY:Noxious Swamp
+UID:49f6ff43-c380-4c4c-b1a8-34984b1ac5bb@49f6.org
+URL:https://leekduck.com/events/noxious-swamp/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130000Z
+DTEND:20230820T220000Z
+DTSTART:20230818T130000Z
+SUMMARY:Pokémon GO Fest 2023: New York City
+UID:a5349504-9efd-4654-be41-ac2048647ae1@a534.org
+URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230823T140000Z
+DTEND:20230826T140000Z
+DTSTART:20230823T140000Z
+SUMMARY:Primal Kyogre and Primal Groudon in Primal Raids
+UID:55f2f6c7-f0fd-4346-8b86-5cee1b786f82@55f2.org
+URL:https://leekduck.com/events/primal-kyogre-and-primal-groudon-in-primal-raids-august-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230824T200000Z
+DTEND:20230901T200000Z
+DTSTART:20230824T200000Z
+SUMMARY:Master League and Catch Cup: Hidden Gems Edition | Hidden Gems
+UID:53445671-dfc0-427a-8c2f-d6dfc12e829f@5344.org
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230816T220000Z
+DTEND:20230816T230000Z
+DTSTART:20230816T220000Z
+SUMMARY:Xerneas Raid Hour
+UID:6e7cfa69-f5da-40d2-a87c-1217408c0b50@6e7c.org
+URL:https://leekduck.com/events/raidhour20230816/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230803T200000Z
+DTEND:20230810T200000Z
+DTSTART:20230803T200000Z
+SUMMARY:Ultra League and Jungle Cup: Little Edition | Hidden Gems
+UID:202491ec-08a9-4d85-8645-0eabba3dd7de@2024.org
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-little-edition/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
