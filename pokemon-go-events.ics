@@ -2,51 +2,139 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20231011T220000Z
-DTEND:20231011T230000Z
-DTSTART:20231011T220000Z
-SUMMARY:Guzzlord Raid Hour
-UID:baf887c4-47bd-4a43-ac0f-d8cb7836c453@baf8.org
-URL:https://leekduck.com/events/raidhour20231011/
+DTSTAMP:20231013T140000Z
+DTEND:20231014T220000Z
+DTSTART:20231013T140000Z
+SUMMARY:Barcelona\, Spain - Pokémon GO City Safari
+UID:a7c40ade-3a5e-45d0-ae6b-236216997975@a7c4.org
+URL:https://leekduck.com/events/citysafari-barcelona-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231017T220000Z
+DTEND:20231017T230000Z
+DTSTART:20231017T220000Z
+SUMMARY:Pumpkaboo Spotlight Hour
+UID:1b5da103-59ac-4b30-a3f1-d1974cc294a8@1b5d.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231023T140000Z
+DTEND:20231026T000000Z
+DTSTART:20231023T140000Z
+SUMMARY:Unannounced PokéStop Showcases
+UID:d31682b1-d6ce-4f89-bda6-9219546ac3bb@d316.org
+URL:https://leekduck.com/events/pokemon-showcase-unannounced-2023-10-23/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231006T140000Z
+DTEND:20231020T140000Z
+DTSTART:20231006T140000Z
+SUMMARY:Guzzlord in 5-star Raid Battles
+UID:66aed449-b68c-429e-bd0f-80b9c318001d@66ae.org
+URL:https://leekduck.com/events/guzzlord-in-5-star-raid-battles-october-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T210000Z
+DTEND:20231201T210000Z
+DTSTART:20231124T210000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
+UID:feb007e7-d7af-44c7-9ca3-4e9e37fd8a54@feb0.org
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231006T200000Z
+DTEND:20231013T200000Z
+DTSTART:20231006T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
+UID:67fc2844-2c50-4d14-b4ae-f6cb0df74d2d@67fc.org
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231025T220000Z
+DTEND:20231025T230000Z
+DTSTART:20231025T220000Z
+SUMMARY:Darkrai Raid Hour
+UID:1610af7b-350e-4ff6-be29-57c2b8e06892@1610.org
+URL:https://leekduck.com/events/raidhour20231025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T140000Z
+DTEND:20231030T000000Z
+DTSTART:20231001T140000Z
+SUMMARY:Shadow Moltres in Shadow Raids
+UID:b37f6c0a-10e7-4cda-bd5e-6e73f83c0729@b37f.org
+URL:https://leekduck.com/events/shadow-moltres-in-shadow-raids-adventures-abound/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231013T200000Z
 DTEND:20231020T200000Z
 DTSTART:20231013T200000Z
 SUMMARY:Great League and Sunshine Cup: Great League Edition | Adventures Abound
-UID:1096b438-142f-4182-9a1f-9aa569d5ae5d@1096.org
+UID:951b2bee-485c-463b-be59-c57934e633c0@951b.org
 URL:https://leekduck.com/events/gbl-adventures_abound-great_league-sunshine_cup_great_league_edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231024T220000Z
+DTEND:20231024T230000Z
+DTSTART:20231024T220000Z
+SUMMARY:Phantump Spotlight Hour
+UID:b17eb6be-79b5-4da4-a5a2-64c64b75a5e6@b17e.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-24/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T140000Z
+DTEND:20231103T140000Z
+DTSTART:20231020T140000Z
+SUMMARY:Mega Banette in Mega Raids
+UID:e909ef4e-9908-447f-8789-2698e6fc9e26@e909.org
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231021T180000Z
+DTEND:20231021T210000Z
+DTSTART:20231021T180000Z
+SUMMARY:Incense Day
+UID:a9803257-1762-4b3f-aa88-47dc8db6d2e9@a980.org
+URL:https://leekduck.com/events/incense-day-october-21-season-12/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231005T140000Z
 DTEND:20231010T000000Z
 DTSTART:20231005T140000Z
-SUMMARY:Pikachu PokéStop Showcases
-UID:8d74ef89-b896-4b59-bb67-574d0ddbdd94@8d74.org
-URL:https://leekduck.com/events/pokemon-showcase-pikachu-2023-10-05/
+SUMMARY:Detective Pikachu Returns
+UID:873840e7-41ec-41da-9046-3d41d66b69d7@8738.org
+URL:https://leekduck.com/events/detective-pikachu-returns-event/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231016T140000Z
+DTSTAMP:20231111T180000Z
+DTEND:20231111T210000Z
+DTSTART:20231111T180000Z
+SUMMARY:Unannounced Event - November 11
+UID:4fef9dec-b7f1-4800-ab5a-4d70ad13f295@4fef.org
+URL:https://leekduck.com/events/unannounced-event-november-11-season-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231012T140000Z
 DTEND:20231018T000000Z
-DTSTART:20231016T140000Z
-SUMMARY:Pumpkaboo and Gourgeist PokéStop Showcases
-UID:514a10b8-250c-456d-8576-62624cf5b29f@514a.org
-URL:https://leekduck.com/events/pokemon-showcase-pumpkaboo-gourgeist-2023-10-16/
+DTSTART:20231012T140000Z
+SUMMARY:Harvest Festival
+UID:bb0a68a4-beb5-42ce-b49a-f8e710675a61@bb0a.org
+URL:https://leekduck.com/events/harvest-festival/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230901T140000Z
-DTEND:20231201T140000Z
-DTSTART:20230901T140000Z
-SUMMARY:Adventures Abound
-UID:f9655024-32d6-4330-8457-b517fa709030@f965.org
-URL:https://leekduck.com/events/season-12-adventures-abound/
+DTSTAMP:20231020T140000Z
+DTEND:20231023T000000Z
+DTSTART:20231020T140000Z
+SUMMARY:Shuppet and Banette PokéStop Showcases
+UID:7fb906b9-9577-42ae-bcbb-e066ac437e1f@7fb9.org
+URL:https://leekduck.com/events/pokemon-showcase-shuppet-banette-2023-10-20/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231015T180000Z
 DTEND:20231015T210000Z
 DTSTART:20231015T180000Z
 SUMMARY:Timburr Community Day
-UID:022073f6-6d32-4513-ba3d-be478ec6898d@0220.org
+UID:69fc9178-9e45-49f4-beb6-4d4385fa3e2b@69fc.org
 URL:https://leekduck.com/events/october-communityday2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -54,312 +142,224 @@ DTSTAMP:20231015T180000Z
 DTEND:20231015T210000Z
 DTSTART:20231015T180000Z
 SUMMARY:Timburr and Conkeldurr PokéStop Showcases
-UID:9b95610b-83a9-437e-be78-dc38e093ff8b@9b95.org
+UID:8d15cd20-7c18-49bd-8fbb-21475db2b91c@8d15.org
 URL:https://leekduck.com/events/pokemon-showcase-timburr-conkeldurr-2023-10-15/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230901T200000Z
-DTEND:20231201T210000Z
-DTSTART:20230901T200000Z
-SUMMARY:Adventures Abound Research Breakthrough
-UID:45625819-00db-4f17-8c6d-ba2185e986e0@4562.org
-URL:https://leekduck.com/events/season-12-adventures-abound-research-breakthrough/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231013T140000Z
-DTEND:20231014T220000Z
-DTSTART:20231013T140000Z
-SUMMARY:Barcelona\, Spain - Pokémon GO City Safari
-UID:a30b79ca-043b-43f7-acd0-a2e2a5c26e2c@a30b.org
-URL:https://leekduck.com/events/citysafari-barcelona-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231001T040000Z
-DTEND:20231101T035959Z
-DTSTART:20231001T040000Z
-SUMMARY:Ticket of Treats
-UID:c8964983-2662-490e-9675-13d6e02a3517@c896.org
-URL:https://leekduck.com/events/ticket-of-treats/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231105T180000Z
-DTEND:20231105T210000Z
-DTSTART:20231105T180000Z
-SUMMARY:November Community Day
-UID:0286078a-3cdc-4134-b0c7-66e1f61ab979@0286.org
-URL:https://leekduck.com/events/november-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231023T140000Z
-DTEND:20231026T000000Z
-DTSTART:20231023T140000Z
-SUMMARY:Unannounced PokéStop Showcases
-UID:fd290384-aa89-407c-9b3a-c178e2908ea5@fd29.org
-URL:https://leekduck.com/events/pokemon-showcase-unannounced-2023-10-23/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231021T180000Z
-DTEND:20231021T210000Z
-DTSTART:20231021T180000Z
-SUMMARY:Incense Day
-UID:757320ae-c3b8-4c27-92a2-9435573371b9@7573.org
-URL:https://leekduck.com/events/incense-day-october-21-season-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231026T040000Z
-DTEND:20231101T035959Z
-DTSTART:20231026T040000Z
-SUMMARY:Team GO Rocket Takeover
-UID:0ea66d7a-5897-41d1-b4f3-e55083b81eb9@0ea6.org
-URL:https://leekduck.com/events/team-go-rocket-takeover-october-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231018T220000Z
-DTEND:20231018T230000Z
-DTSTART:20231018T220000Z
-SUMMARY:Guzzlord Raid Hour
-UID:4035e1cd-59be-48e3-a57c-bdf8a8167aca@4035.org
-URL:https://leekduck.com/events/raidhour20231018/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231110T210000Z
-DTEND:20231117T210000Z
-DTSTART:20231110T210000Z
-SUMMARY:Ultra League and Electric Cup: Great League Edition | Adventures Abound
-UID:554dade3-62f2-4e66-9f77-3e7cd1b67b81@554d.org
-URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-electric_cup_great_league_edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231111T180000Z
-DTEND:20231111T210000Z
-DTSTART:20231111T180000Z
-SUMMARY:Unannounced Event - November 11
-UID:4bef1905-8f24-4c45-aaf5-de8d80910f9c@4bef.org
-URL:https://leekduck.com/events/unannounced-event-november-11-season-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231020T200000Z
-DTEND:20231027T200000Z
-DTSTART:20231020T200000Z
-SUMMARY:Ultra League and Halloween Cup: Great League Edition | Adventures Abound
-UID:5c9a1cd6-b8c6-4f63-b429-075cc701cb84@5c9a.org
-URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T200000Z
-DTEND:20231103T200000Z
-DTSTART:20231027T200000Z
-SUMMARY:Master League and Halloween Cup: Great League Edition | Adventures Abound
-UID:33a2e5b4-e71a-4131-b0d8-7188ac1a78a4@33a2.org
-URL:https://leekduck.com/events/gbl-adventures_abound-master_league-halloween_cup_great_league_edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231006T200000Z
-DTEND:20231013T200000Z
-DTSTART:20231006T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
-UID:2fca7dad-a852-4895-b06e-4b04356ff885@2fca.org
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231019T140000Z
-DTEND:20231027T000000Z
-DTSTART:20231019T140000Z
-SUMMARY:Pokémon GO Halloween 2023 - Part I
-UID:38e71d50-d850-4158-a785-02f8a7ed9a0a@38e7.org
-URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-1/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231010T220000Z
-DTEND:20231010T230000Z
-DTSTART:20231010T220000Z
-SUMMARY:Shroomish Spotlight Hour
-UID:19aaad52-4d34-4338-8d50-0219b2025eb9@19aa.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-10-10/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231125T180000Z
-DTEND:20231125T210000Z
-DTSTART:20231125T180000Z
-SUMMARY:November Community Day Classic
-UID:d17b8b59-6257-4d8a-962b-e6459a367137@d17b.org
-URL:https://leekduck.com/events/november-communitydayclassic2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231031T220000Z
-DTEND:20231031T230000Z
-DTSTART:20231031T220000Z
-SUMMARY:Yamask Spotlight Hour
-UID:be656c3c-da32-4d02-b244-debadf54df71@be65.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-10-31/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231103T200000Z
-DTEND:20231110T210000Z
-DTSTART:20231103T200000Z
-SUMMARY:Great League and Electric Cup: Great League Edition | Adventures Abound
-UID:06354e2f-44c0-4e08-add2-61741a44a03b@0635.org
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-electric_cup_great_league_edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231124T210000Z
-DTEND:20231201T210000Z
-DTSTART:20231124T210000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
-UID:a472a251-76c4-4d03-99bd-576dcc29c93a@a472.org
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231020T140000Z
-DTEND:20231103T140000Z
-DTSTART:20231020T140000Z
-SUMMARY:Mega Banette in Mega Raids
-UID:d2cde213-79c4-40f6-bc4d-8287da09144f@d2cd.org
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T140000Z
-DTEND:20231105T220000Z
-DTSTART:20231104T140000Z
-SUMMARY:Mexico City\, Mexico - Pokémon GO City Safari
-UID:b23bc7c9-0003-4141-adf5-a6b16aecc33e@b23b.org
-URL:https://leekduck.com/events/citysafari-mexico-city-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231005T140000Z
-DTEND:20231010T000000Z
-DTSTART:20231005T140000Z
-SUMMARY:Detective Pikachu Returns
-UID:ec8cfe53-352f-4cbc-bbf1-08a866a81696@ec8c.org
-URL:https://leekduck.com/events/detective-pikachu-returns-event/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231012T140000Z
-DTEND:20231014T000000Z
-DTSTART:20231012T140000Z
-SUMMARY:Smoliv PokéStop Showcases
-UID:822df473-2430-4fbe-a82f-3feb70e4fcf3@822d.org
-URL:https://leekduck.com/events/pokemon-showcase-smolive-2023-10-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231026T140000Z
-DTEND:20231029T000000Z
-DTSTART:20231026T140000Z
-SUMMARY:Phantump PokéStop Showcases
-UID:a406a801-e26d-4022-9632-792f78b0214d@a406.org
-URL:https://leekduck.com/events/pokemon-showcase-phantump-2023-10-26/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231026T140000Z
-DTEND:20231101T000000Z
-DTSTART:20231026T140000Z
-SUMMARY:Pokémon GO Halloween 2023 - Part II
-UID:88b8059f-dc68-4b37-a477-c43e8e4eb1b0@88b8.org
-URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231001T140000Z
-DTEND:20231030T000000Z
-DTSTART:20231001T140000Z
-SUMMARY:Shadow Moltres in Shadow Raids
-UID:8e9dc2f0-d647-4184-a9eb-8cd32c1ce354@8e9d.org
-URL:https://leekduck.com/events/shadow-moltres-in-shadow-raids-adventures-abound/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231020T140000Z
-DTEND:20231023T000000Z
-DTSTART:20231020T140000Z
-SUMMARY:Shuppet and Banette PokéStop Showcases
-UID:5912a736-9d12-4cce-841c-5691ab057a73@5912.org
-URL:https://leekduck.com/events/pokemon-showcase-shuppet-banette-2023-10-20/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231012T140000Z
-DTEND:20231018T000000Z
-DTSTART:20231012T140000Z
-SUMMARY:Harvest Festival
-UID:d43d98f5-d3d4-440f-ab62-40434aab0876@d43d.org
-URL:https://leekduck.com/events/harvest-festival/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231006T140000Z
-DTEND:20231020T140000Z
-DTSTART:20231006T140000Z
-SUMMARY:Mega Gengar in Mega Raids
-UID:abf29ab8-e62d-4111-8a3d-9d94a1fe2cad@abf2.org
-URL:https://leekduck.com/events/mega-gengar-in-mega-raids-october-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231007T010000Z
-DTEND:20231008T090000Z
-DTSTART:20231007T010000Z
-SUMMARY:Seoul\, South Korea - Pokémon GO City Safari
-UID:5bbd71b2-a098-453f-aff6-8484faa61e59@5bbd.org
-URL:https://leekduck.com/events/citysafari-seoul-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231024T220000Z
-DTEND:20231024T230000Z
-DTSTART:20231024T220000Z
-SUMMARY:Phantump Spotlight Hour
-UID:10139082-94e5-40b7-a500-5085650bad6f@1013.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-10-24/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231007T040000Z
-DTEND:20231009T035959Z
-DTSTART:20231007T040000Z
-SUMMARY:GO Battle Weekend: Geeta
-UID:6ecb9223-d762-417f-897c-664a92cc3db5@6ecb.org
-URL:https://leekduck.com/events/go-battle-weekend-adventures-abound/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231117T210000Z
 DTEND:20231124T210000Z
 DTSTART:20231117T210000Z
 SUMMARY:Catch Cup: Adventures Abound Edition | Adventures Abound
-UID:974987b2-d64b-4630-81dc-caf085413a43@9749.org
+UID:5e732d13-ff0a-4991-8fd2-55bd9c43a21e@5e73.org
 URL:https://leekduck.com/events/gbl-adventures_abound-catch_cup_adventures_abound_edition/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231025T220000Z
-DTEND:20231025T230000Z
-DTSTART:20231025T220000Z
-SUMMARY:Darkrai Raid Hour
-UID:9bdb9719-2ed1-4444-9160-d7e8efa90e46@9bdb.org
-URL:https://leekduck.com/events/raidhour20231025/
+DTSTAMP:20231031T220000Z
+DTEND:20231031T230000Z
+DTSTART:20231031T220000Z
+SUMMARY:Yamask Spotlight Hour
+UID:cfbeb41a-a391-4997-b2b2-f4a53b45b179@cfbe.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-31/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231007T010000Z
+DTEND:20231008T090000Z
+DTSTART:20231007T010000Z
+SUMMARY:Seoul\, South Korea - Pokémon GO City Safari
+UID:b04f1b0d-b66c-4932-b919-831861e91791@b04f.org
+URL:https://leekduck.com/events/citysafari-seoul-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231105T180000Z
+DTEND:20231105T210000Z
+DTSTART:20231105T180000Z
+SUMMARY:November Community Day
+UID:af2c3811-4a3c-471b-9b15-b37da1e24240@af2c.org
+URL:https://leekduck.com/events/november-communityday2023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231020T140000Z
 DTEND:20231103T140000Z
 DTSTART:20231020T140000Z
 SUMMARY:Darkrai in 5-star Raid Battles
-UID:d093cea4-b53f-40a7-af89-d62070fdc2ff@d093.org
+UID:6f42eeb6-299e-4d9c-acb3-af4d68459abf@6f42.org
 URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-october-2023/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231006T140000Z
-DTEND:20231020T140000Z
-DTSTART:20231006T140000Z
-SUMMARY:Guzzlord in 5-star Raid Battles
-UID:ce39a582-4dbd-4599-bb7c-7b804ee03e2c@ce39.org
-URL:https://leekduck.com/events/guzzlord-in-5-star-raid-battles-october-2023/
+DTSTAMP:20231012T140000Z
+DTEND:20231014T000000Z
+DTSTART:20231012T140000Z
+SUMMARY:Smoliv PokéStop Showcases
+UID:aa8b8f3e-21d9-4281-93cd-83d01ba46db2@aa8b.org
+URL:https://leekduck.com/events/pokemon-showcase-smolive-2023-10-12/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231029T140000Z
 DTEND:20231101T000000Z
 DTSTART:20231029T140000Z
 SUMMARY:Gastly and Gengar PokéStop Showcases
-UID:2bb51c10-9c41-4c24-8c67-ee021d395bb1@2bb5.org
+UID:604eaed7-1e8d-4f3d-94a4-b21dfbde8837@604e.org
 URL:https://leekduck.com/events/pokemon-showcase-gastly-gengar-2023-10-29/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231017T220000Z
-DTEND:20231017T230000Z
-DTSTART:20231017T220000Z
-SUMMARY:Pumpkaboo Spotlight Hour
-UID:5a58df68-60c0-48e2-8652-1b252800b6f2@5a58.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-10-17/
+DTSTAMP:20231125T180000Z
+DTEND:20231125T210000Z
+DTSTART:20231125T180000Z
+SUMMARY:November Community Day Classic
+UID:788aa153-2dbb-4382-a262-2147174b14eb@788a.org
+URL:https://leekduck.com/events/november-communitydayclassic2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231027T200000Z
+DTEND:20231103T200000Z
+DTSTART:20231027T200000Z
+SUMMARY:Master League and Halloween Cup: Great League Edition | Adventures Abound
+UID:2ad5ff83-2ef6-4fda-816e-4891f9221155@2ad5.org
+URL:https://leekduck.com/events/gbl-adventures_abound-master_league-halloween_cup_great_league_edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231011T220000Z
+DTEND:20231011T230000Z
+DTSTART:20231011T220000Z
+SUMMARY:Guzzlord Raid Hour
+UID:caa6edc1-2aa8-4abb-979a-596191e09bba@caa6.org
+URL:https://leekduck.com/events/raidhour20231011/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231110T210000Z
+DTEND:20231117T210000Z
+DTSTART:20231110T210000Z
+SUMMARY:Ultra League and Electric Cup: Great League Edition | Adventures Abound
+UID:19c12d5e-d0c7-4b12-9072-c3470a96e2cf@19c1.org
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-electric_cup_great_league_edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231010T220000Z
+DTEND:20231010T230000Z
+DTSTART:20231010T220000Z
+SUMMARY:Shroomish Spotlight Hour
+UID:3688f289-9713-4988-9308-510c7339bbe4@3688.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231019T140000Z
+DTEND:20231027T000000Z
+DTSTART:20231019T140000Z
+SUMMARY:Pokémon GO Halloween 2023 - Part I
+UID:5cae2018-b57a-4ee8-88ed-59a3c91fc9ee@5cae.org
+URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231026T040000Z
+DTEND:20231101T035959Z
+DTSTART:20231026T040000Z
+SUMMARY:Team GO Rocket Takeover
+UID:f4d4da5a-9da4-4966-a00d-bc33cdc35adb@f4d4.org
+URL:https://leekduck.com/events/team-go-rocket-takeover-october-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231104T140000Z
+DTEND:20231105T220000Z
+DTSTART:20231104T140000Z
+SUMMARY:Mexico City\, Mexico - Pokémon GO City Safari
+UID:56a0fd9e-50b8-43ca-96f2-cdb8c558a2aa@56a0.org
+URL:https://leekduck.com/events/citysafari-mexico-city-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T200000Z
+DTEND:20231201T210000Z
+DTSTART:20230901T200000Z
+SUMMARY:Adventures Abound Research Breakthrough
+UID:581a5024-13bf-46c1-8234-c33023fb056c@581a.org
+URL:https://leekduck.com/events/season-12-adventures-abound-research-breakthrough/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T140000Z
+DTEND:20231201T140000Z
+DTSTART:20230901T140000Z
+SUMMARY:Adventures Abound
+UID:e8e8e63a-d2d6-4981-97fb-c37da9f4d52f@e8e8.org
+URL:https://leekduck.com/events/season-12-adventures-abound/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231026T140000Z
+DTEND:20231101T000000Z
+DTSTART:20231026T140000Z
+SUMMARY:Pokémon GO Halloween 2023 - Part II
+UID:6a1f5d40-d735-4db3-87c4-2d2af0c32737@6a1f.org
+URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231026T140000Z
+DTEND:20231029T000000Z
+DTSTART:20231026T140000Z
+SUMMARY:Phantump PokéStop Showcases
+UID:12c4bfb2-0e02-4f47-b86c-adfec24c74fb@12c4.org
+URL:https://leekduck.com/events/pokemon-showcase-phantump-2023-10-26/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231018T220000Z
+DTEND:20231018T230000Z
+DTSTART:20231018T220000Z
+SUMMARY:Guzzlord Raid Hour
+UID:19263fff-37f0-45aa-9bee-1f51347a24e8@1926.org
+URL:https://leekduck.com/events/raidhour20231018/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231007T040000Z
+DTEND:20231009T035959Z
+DTSTART:20231007T040000Z
+SUMMARY:GO Battle Weekend: Geeta
+UID:d3bb5b97-8c21-44a4-a707-b1f01b1ac844@d3bb.org
+URL:https://leekduck.com/events/go-battle-weekend-adventures-abound/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T040000Z
+DTEND:20231101T035959Z
+DTSTART:20231001T040000Z
+SUMMARY:Ticket of Treats
+UID:220bedc1-7c17-4eee-b30b-a3c65aba0a86@220b.org
+URL:https://leekduck.com/events/ticket-of-treats/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231006T140000Z
+DTEND:20231020T140000Z
+DTSTART:20231006T140000Z
+SUMMARY:Mega Gengar in Mega Raids
+UID:f15355b0-4a91-42fe-82b1-36b79d9c4d2e@f153.org
+URL:https://leekduck.com/events/mega-gengar-in-mega-raids-october-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231005T140000Z
+DTEND:20231010T000000Z
+DTSTART:20231005T140000Z
+SUMMARY:Pikachu PokéStop Showcases
+UID:04ee1ab4-e707-44b9-9c0a-2c284a8bedcf@04ee.org
+URL:https://leekduck.com/events/pokemon-showcase-pikachu-2023-10-05/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T200000Z
+DTEND:20231027T200000Z
+DTSTART:20231020T200000Z
+SUMMARY:Ultra League and Halloween Cup: Great League Edition | Adventures Abound
+UID:f789d11f-e4d0-4d38-9c30-61a8ebdd14c8@f789.org
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231016T140000Z
+DTEND:20231018T000000Z
+DTSTART:20231016T140000Z
+SUMMARY:Pumpkaboo and Gourgeist PokéStop Showcases
+UID:7b8bdc44-aa13-4eae-b52d-ddff0e13d3da@7b8b.org
+URL:https://leekduck.com/events/pokemon-showcase-pumpkaboo-gourgeist-2023-10-16/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231103T200000Z
+DTEND:20231110T210000Z
+DTSTART:20231103T200000Z
+SUMMARY:Great League and Electric Cup: Great League Edition | Adventures Abound
+UID:8b657ded-8e3a-4808-962b-b01d424f9af6@8b65.org
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-electric_cup_great_league_edition/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
