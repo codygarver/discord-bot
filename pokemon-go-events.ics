@@ -2,147 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20231122T140000Z
-DTEND:20231125T000000Z
-DTSTART:20231122T140000Z
-SUMMARY:Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
-UID:fe33ae38-4a76-4b14-bf8c-cb48534edbe0@fe33.org
-URL:https://leekduck.com/events/pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-22/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T140000Z
-DTEND:20231127T000000Z
-DTSTART:20231104T140000Z
-SUMMARY:Shadow Articuno in Shadow Raids
-UID:66af12e3-f2d8-4984-b5bb-9e65a136de05@66af.org
-URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-november-2023-copy/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231122T140000Z
-DTEND:20231128T000000Z
-DTSTART:20231122T140000Z
-SUMMARY:Party Up!
-UID:3492e9c5-bb1f-4557-9f7f-01e434ab730f@3492.org
-URL:https://leekduck.com/events/party-up-event/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230901T140000Z
-DTEND:20231201T140000Z
-DTSTART:20230901T140000Z
-SUMMARY:Adventures Abound
-UID:fd225cc9-e0fb-49dd-89da-9f526dae9e1e@fd22.org
-URL:https://leekduck.com/events/season-12-adventures-abound/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20231209T180000Z
 DTEND:20231209T210000Z
 DTSTART:20231209T180000Z
 SUMMARY:Unannounced Event - December 9
-UID:e1311ce8-1eb9-4273-b79d-40b31246e0a4@e131.org
-URL:https://leekduck.com/events/unannounced-december-9-season-17/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231124T210000Z
-DTEND:20231201T210000Z
-DTSTART:20231124T210000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
-UID:ebba3091-af3f-4ba8-ae09-2f218c7a8f4e@ebba.org
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231129T220000Z
-DTEND:20231129T230000Z
-DTSTART:20231129T220000Z
-SUMMARY:Terrakion Raid Hour
-UID:e662da4b-a448-4c1b-a7ff-4c27fc5c4409@e662.org
-URL:https://leekduck.com/events/raidhour20231129/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240106T180000Z
-DTEND:20240106T210000Z
-DTSTART:20240106T180000Z
-SUMMARY:January Community Day
-UID:858594f0-98fd-4df4-8858-1bceefce1a5c@8585.org
-URL:https://leekduck.com/events/january-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T140000Z
-DTEND:20231130T140000Z
-DTSTART:20231123T140000Z
-SUMMARY:Terrakion in 5-star Raid Battles
-UID:ef9e78c7-38f7-4c6a-a96b-c33a27c5cbec@ef9e.org
-URL:https://leekduck.com/events/terrakion-in-5-star-raid-battles-november-2023/
+UID:ebdab8fd-9afe-48bf-9fc7-3f4003771e01@ebda.org
+URL:https://leekduck.com/events/unannounced-december-23-season-17-copy/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240114T180000Z
 DTEND:20240114T210000Z
 DTSTART:20240114T180000Z
 SUMMARY:Unannounced Event - January 14
-UID:4d7ad01d-bb65-4657-8f7b-9c723ad4b4c5@4d7a.org
+UID:4be4b465-471b-4258-a334-4faae9d7f1f0@4be4.org
 URL:https://leekduck.com/events/unannounced-february-11-season-17/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231116T140000Z
-DTEND:20231130T140000Z
-DTSTART:20231116T140000Z
-SUMMARY:Mega Kangaskhan in Mega Raids
-UID:e982e4f4-d22d-4555-8530-b177df5a908a@e982.org
-URL:https://leekduck.com/events/mega-kangaskhan-in-mega-raids-november-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231216T140000Z
-DTEND:20231218T000000Z
-DTSTART:20231216T140000Z
-SUMMARY:December Community Day
-UID:c6ade440-e72a-4070-8538-2c885434c49c@c6ad.org
-URL:https://leekduck.com/events/december-communityday2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T210000Z
-DTEND:20231124T210000Z
-DTSTART:20231117T210000Z
-SUMMARY:Catch Cup: Adventures Abound Edition | Adventures Abound
-UID:3effd9e7-dad5-4837-9021-9df46d0f3d0e@3eff.org
-URL:https://leekduck.com/events/gbl-adventures_abound-catch_cup_adventures_abound_edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240120T180000Z
-DTEND:20240120T210000Z
-DTSTART:20240120T180000Z
-SUMMARY:January Community Day Classic
-UID:eeb2ae5d-dcf8-4939-a1b7-a0e52376305e@eeb2.org
-URL:https://leekduck.com/events/january-communitydayclassic2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231122T220000Z
-DTEND:20231122T230000Z
-DTSTART:20231122T220000Z
-SUMMARY:Cobalion Raid Hour
-UID:4ada0cdc-dc04-457e-a12e-e8c87da24741@4ada.org
-URL:https://leekduck.com/events/raidhour20231122/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240204T180000Z
 DTEND:20240204T210000Z
 DTSTART:20240204T180000Z
 SUMMARY:February Community Day
-UID:9f13bd87-6e0b-4ba2-beb8-770ebeb598a7@9f13.org
+UID:5bc1a63f-3176-49d1-a45b-9f675d9c4e36@5bc1.org
 URL:https://leekduck.com/events/february-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231209T180000Z
+DTEND:20231209T210000Z
+DTSTART:20231209T180000Z
+SUMMARY:Unannounced Event - December 9
+UID:3f3aa007-194f-4d93-bedd-7416a633d970@3f3a.org
+URL:https://leekduck.com/events/unannounced-december-9-season-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T210000Z
+DTEND:20231124T210000Z
+DTSTART:20231117T210000Z
+SUMMARY:Catch Cup: Adventures Abound Edition | Adventures Abound
+UID:ea166d9e-d9a2-47dc-ab5b-23571efefd9a@ea16.org
+URL:https://leekduck.com/events/gbl-adventures_abound-catch_cup_adventures_abound_edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T140000Z
+DTEND:20240129T000000Z
+DTSTART:20240127T140000Z
+SUMMARY:Unannounced Event - January 27-28
+UID:b92b4f3a-81d2-43f3-ada2-24941f056100@b92b.org
+URL:https://leekduck.com/events/unannounced-january-27-28-season-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231116T140000Z
+DTEND:20231123T140000Z
+DTSTART:20231116T140000Z
+SUMMARY:Cobalion in 5-star Raid Battles
+UID:09e57756-dbab-4b7f-9593-c8a4e7b4b3ec@09e5.org
+URL:https://leekduck.com/events/cobalion-in-5-star-raid-battles-november-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231122T220000Z
+DTEND:20231122T230000Z
+DTSTART:20231122T220000Z
+SUMMARY:Cobalion Raid Hour
+UID:85f348f3-094c-4a82-998d-73a25ee7ee2e@85f3.org
+URL:https://leekduck.com/events/raidhour20231122/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231125T180000Z
+DTEND:20231125T210000Z
+DTSTART:20231125T180000Z
+SUMMARY:Mareep and Ampharos PokéStop Showcases
+UID:b3c88e1c-ec84-416e-9088-0e74e166cf44@b3c8.org
+URL:https://leekduck.com/events/pokemon-showcase-mareep-ampharos-2023-11-25/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T210000Z
+DTEND:20231201T210000Z
+DTSTART:20231124T210000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Adventures Abound
+UID:d8818b72-d989-4958-a5fa-16ed3d03036d@d881.org
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_league-master-league-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231216T140000Z
+DTEND:20231218T000000Z
+DTSTART:20231216T140000Z
+SUMMARY:December Community Day
+UID:3ac541fc-1f98-4157-95c6-72e0b56b50c8@3ac5.org
+URL:https://leekduck.com/events/december-communityday2023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231125T180000Z
 DTEND:20231125T210000Z
 DTSTART:20231125T180000Z
 SUMMARY:Mareep Community Day Classic
-UID:4a452495-69d0-4158-8ed4-af3d8fb7814d@4a45.org
+UID:a5099c5a-1875-4f48-b294-66c3f6acb28f@a509.org
 URL:https://leekduck.com/events/november-communitydayclassic2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231116T140000Z
+DTEND:20231130T140000Z
+DTSTART:20231116T140000Z
+SUMMARY:Mega Kangaskhan in Mega Raids
+UID:de903e1c-ba6f-41ce-a726-b95d10c80a35@de90.org
+URL:https://leekduck.com/events/mega-kangaskhan-in-mega-raids-november-2023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230901T200000Z
 DTEND:20231201T210000Z
 DTSTART:20230901T200000Z
 SUMMARY:Adventures Abound Research Breakthrough
-UID:680a90a8-d3df-4783-90be-3b170042a095@680a.org
+UID:a7d278e1-40f9-4936-8907-fd5ec85d0070@a7d2.org
 URL:https://leekduck.com/events/season-12-adventures-abound-research-breakthrough/
 END:VEVENT
 BEGIN:VEVENT
@@ -150,80 +118,112 @@ DTSTAMP:20231128T140000Z
 DTEND:20231129T000000Z
 DTSTART:20231128T140000Z
 SUMMARY:Lechonk PokéStop Showcases
-UID:ac137952-b947-482f-bdbc-999adc6bbf23@ac13.org
+UID:b8120194-8abc-41fd-93ab-323186800802@b812.org
 URL:https://leekduck.com/events/pokemon-showcase-lechonk-2023-11-28/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240127T140000Z
-DTEND:20240129T000000Z
-DTSTART:20240127T140000Z
-SUMMARY:Unannounced Event - January 27-28
-UID:b608f338-e99e-497a-a8dc-81c38ce4e7f8@b608.org
-URL:https://leekduck.com/events/unannounced-january-27-28-season-17/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240114T180000Z
-DTEND:20240114T210000Z
-DTSTART:20240114T180000Z
-SUMMARY:Unannounced Event - January 14
-UID:0bffafe2-ac60-4232-8d2e-40c99f77cf3b@0bff.org
-URL:https://leekduck.com/events/unannounced-january-14-season-17/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231116T140000Z
-DTEND:20231123T140000Z
-DTSTART:20231116T140000Z
-SUMMARY:Cobalion in 5-star Raid Battles
-UID:a2f82324-384a-4497-90a3-59954b538302@a2f8.org
-URL:https://leekduck.com/events/cobalion-in-5-star-raid-battles-november-2023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231125T180000Z
-DTEND:20231125T210000Z
-DTSTART:20231125T180000Z
-SUMMARY:Mareep and Ampharos PokéStop Showcases
-UID:eb0cebc7-ccde-4a4c-a6b4-5335ac31cb50@eb0c.org
-URL:https://leekduck.com/events/pokemon-showcase-mareep-ampharos-2023-11-25/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231126T140000Z
 DTEND:20231128T000000Z
 DTSTART:20231126T140000Z
 SUMMARY:Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
-UID:fdb59aaf-9ecf-45f9-964d-b06dff594c0b@fdb5.org
+UID:31bfbf4c-1400-4eb7-8150-6b759a5f60e1@31bf.org
 URL:https://leekduck.com/events/pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-26/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231121T220000Z
-DTEND:20231121T230000Z
-DTSTART:20231121T220000Z
-SUMMARY:Dunsparce Spotlight Hour
-UID:5b2f4897-e8b3-43e6-94a7-e71c6fdef792@5b2f.org
-URL:https://leekduck.com/events/pokemonspotlighthour2023-11-21/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231209T180000Z
-DTEND:20231209T210000Z
-DTSTART:20231209T180000Z
-SUMMARY:Unannounced Event - December 9
-UID:1b00f368-55d1-42e7-b47a-f3131def336a@1b00.org
-URL:https://leekduck.com/events/unannounced-december-23-season-17-copy/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231203T180000Z
-DTEND:20231203T210000Z
-DTSTART:20231203T180000Z
-SUMMARY:Unannounced Event - December 3
-UID:52bea1d6-a14f-4aae-a16b-5439f34be319@52be.org
-URL:https://leekduck.com/events/unannounced-december-3-season-17/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231128T220000Z
 DTEND:20231128T230000Z
 DTSTART:20231128T220000Z
 SUMMARY:Lechonk Spotlight Hour
-UID:08e3d65d-6fec-4d2b-b06a-e51a34850975@08e3.org
+UID:1c58197d-9439-4f40-b0b8-870ceaee16c2@1c58.org
 URL:https://leekduck.com/events/pokemonspotlighthour2023-11-28/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231122T140000Z
+DTEND:20231128T000000Z
+DTSTART:20231122T140000Z
+SUMMARY:Party Up!
+UID:91247d7b-1e8a-43f9-a31c-ca47fdac5509@9124.org
+URL:https://leekduck.com/events/party-up-event/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231123T140000Z
+DTEND:20231130T140000Z
+DTSTART:20231123T140000Z
+SUMMARY:Terrakion in 5-star Raid Battles
+UID:72b60996-aa44-4aaf-b724-10f4978de06f@72b6.org
+URL:https://leekduck.com/events/terrakion-in-5-star-raid-battles-november-2023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240114T180000Z
+DTEND:20240114T210000Z
+DTSTART:20240114T180000Z
+SUMMARY:Unannounced Event - January 14
+UID:1f4fe95f-3dc2-4475-8d78-17f4796cfb1c@1f4f.org
+URL:https://leekduck.com/events/unannounced-january-14-season-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240120T180000Z
+DTEND:20240120T210000Z
+DTSTART:20240120T180000Z
+SUMMARY:January Community Day Classic
+UID:3b2facaf-1a4e-4d88-b585-167d51a737da@3b2f.org
+URL:https://leekduck.com/events/january-communitydayclassic2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231122T140000Z
+DTEND:20231125T000000Z
+DTSTART:20231122T140000Z
+SUMMARY:Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
+UID:7adfc7f4-92d8-49d0-b7e4-8908158db78e@7adf.org
+URL:https://leekduck.com/events/pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-22/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231203T180000Z
+DTEND:20231203T210000Z
+DTSTART:20231203T180000Z
+SUMMARY:Unannounced Event - December 3
+UID:41f1f2c6-18bf-44b5-a9b8-4f8973248680@41f1.org
+URL:https://leekduck.com/events/unannounced-december-3-season-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231104T140000Z
+DTEND:20231127T000000Z
+DTSTART:20231104T140000Z
+SUMMARY:Shadow Articuno in Shadow Raids
+UID:fb8b0943-1626-4c1f-86ef-7b6d8d19c2b2@fb8b.org
+URL:https://leekduck.com/events/shadow-articuno-in-shadow-raids-november-2023-copy/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T140000Z
+DTEND:20231201T140000Z
+DTSTART:20230901T140000Z
+SUMMARY:Adventures Abound
+UID:4dc1b923-2e4d-450f-90cb-a92109fffae6@4dc1.org
+URL:https://leekduck.com/events/season-12-adventures-abound/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240106T180000Z
+DTEND:20240106T210000Z
+DTSTART:20240106T180000Z
+SUMMARY:January Community Day
+UID:1af09348-3d4a-4303-814d-ede4955f8e74@1af0.org
+URL:https://leekduck.com/events/january-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231129T220000Z
+DTEND:20231129T230000Z
+DTSTART:20231129T220000Z
+SUMMARY:Terrakion Raid Hour
+UID:3b3931fb-56e7-4d78-b7ea-cc1a9bdef06a@3b39.org
+URL:https://leekduck.com/events/raidhour20231129/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231121T220000Z
+DTEND:20231121T230000Z
+DTSTART:20231121T220000Z
+SUMMARY:Dunsparce Spotlight Hour
+UID:dd25aea1-b8e4-475c-9935-1b94ae19068c@dd25.org
+URL:https://leekduck.com/events/pokemonspotlighthour2023-11-21/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
