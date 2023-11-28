@@ -108,22 +108,20 @@ if __name__ == "__main__":
         # Replace Sept with Sep
         date = date.replace("Sept", "Sep")
 
-        date = str(date)
-
         # Convert the date to a datetime object
         try:
             date = datetime.datetime.strptime(date, "%d %b %Y")
-        except ValueError:
+        except:
             pass
 
         try:
             date = datetime.datetime.strptime(date, "%d %B %Y")
-        except ValueError:
+        except:
             pass
 
         try:
             date = datetime.datetime.strptime(date, "%d %b, %Y")
-        except ValueError:
+        except:
             print(f"Error: {date} is not a readable date")
             sys.exit(1)
 
