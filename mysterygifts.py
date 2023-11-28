@@ -117,7 +117,7 @@ if __name__ == "__main__":
                 date_stripped = datetime.datetime.strptime(date, date_format)
                 break
             except:
-                print(f"Error: {date} is not a readable date")
+                print(f"Error: {date} is not a suitable date for {date_format}")
                 pass
 
         # Convert the date to YYYY-MM-DD
