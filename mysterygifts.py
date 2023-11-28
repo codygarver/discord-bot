@@ -115,6 +115,7 @@ if __name__ == "__main__":
         for date_format in date_formats:
             try:
                 date_stripped = datetime.datetime.strptime(date, date_format)
+                print(f"Success: {date} is a suitable date for {date_format}")
                 break
             except:
                 print(f"Error: {date} is not a suitable date for {date_format}")
