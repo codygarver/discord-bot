@@ -112,7 +112,19 @@ if __name__ == "__main__":
         try:
             date = datetime.datetime.strptime(date, "%d %b %Y")
         except ValueError:
+            pass
+
+        try:
             date = datetime.datetime.strptime(date, "%d %B %Y")
+        except ValueError:
+            pass
+
+        try:
+            date = datetime.datetime.strptime(date, "%d %b, %y")
+        except ValueError:
+            print(f"Error: {date} is not a readable date")
+            sys.exit(1)
+
         # Convert the date to YYYY-MM-DD
         date = date.strftime("%Y-%m-%d")
 
