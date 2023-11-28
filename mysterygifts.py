@@ -108,36 +108,27 @@ if __name__ == "__main__":
         # Replace Sept with Sep
         date = date.replace("Sept", "Sep")
 
-        failed = False
+        date_formats = "%d %b %Y", "%d %B %Y", "%d %b, %Y"
 
-        # Convert the date to a datetime object
-        try:
-            date = datetime.datetime.strptime(date, "%d %b %Y")
-        except:
-            failed = True
-            pass
-
-        if failed:
+        date_stripped = None
+        # Try to convert the date to a datetime object
+        for date_format in date_formats:
             try:
-                date = datetime.datetime.strptime(date, "%d %B %Y")
-                failed = False
-            except:
-                failed = True
-                pass
-
-        if failed:
-            try:
-                date = datetime.datetime.strptime(date, "%d %b, %Y")
-                failed = False
+                date_stripped = datetime.datetime.strptime(date, date_format)
+                break
             except:
                 print(f"Error: {date} is not a readable date")
-                sys.exit(1)
+                pass
 
         # Convert the date to YYYY-MM-DD
-        date = date.strftime("%Y-%m-%d")
+        if date_stripped:
+            date = date_stripped.strftime("%Y-%m-%d")
+        else:
+            print(f"Error: {date_stripped} is not a valid date")
+            sys.exit(1)
 
         # Update the dictionary
-        code_dict = {"gift": gift, "expires": date}
+        code_dict = {"gift": gift, "expires": date_stripped}
         if code not in codes:
             new_codes[code] = code_dict
 
