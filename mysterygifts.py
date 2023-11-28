@@ -120,7 +120,7 @@ if __name__ == "__main__":
             pass
 
         try:
-            date = datetime.datetime.strptime(date, "%d %b, %y")
+            date = datetime.datetime.strptime(date, "%d %b, %Y")
         except ValueError:
             print(f"Error: {date} is not a readable date")
             sys.exit(1)
