@@ -111,6 +111,8 @@ if __name__ == "__main__":
         date_formats = "%d %b %Y", "%d %B %Y", "%d %b, %Y"
 
         date_stripped = None
+
+        print(f"Trying to convert {date}")
         # Try to convert the date to a datetime object
         for date_format in date_formats:
             try:
@@ -129,7 +131,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Update the dictionary
-        code_dict = {"gift": gift, "expires": date_stripped}
+        code_dict = {"gift": gift, "expires": date}
         if code not in codes:
             new_codes[code] = code_dict
 
