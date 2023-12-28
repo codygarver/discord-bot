@@ -118,17 +118,12 @@ if __name__ == "__main__":
             try:
                 date_stripped = datetime.datetime.strptime(date, date_format)
                 print(f"Success: {date} is a suitable date for {date_format}")
+                # Convert the date to YYYY-MM-DD
+                date = date_stripped.strftime("%Y-%m-%d")
                 break
             except:
                 print(f"Error: {date} is not a suitable date for {date_format}")
                 pass
-
-        # Convert the date to YYYY-MM-DD
-        if date_stripped:
-            date = date_stripped.strftime("%Y-%m-%d")
-        else:
-            print(f"Error: {date_stripped} is not a valid date")
-            sys.exit(1)
 
         # Update the dictionary
         code_dict = {"gift": gift, "expires": date}
