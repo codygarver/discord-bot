@@ -2,115 +2,227 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20240223T210000Z
-DTEND:20240301T210000Z
-DTSTART:20240223T210000Z
-SUMMARY:Great League\, Ultra League and Master League | Timeless Travels
-UID:52c25a05-9b8f-4e6b-80c1-d53b3a6d6d5c@52c2.org
-URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-league_master-league-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T170000Z
-DTEND:20240218T010000Z
-DTSTART:20240217T170000Z
-SUMMARY:Pokémon GO Tour: Sinnoh - Los Angeles
-UID:f4d3c199-dc68-44d9-9f32-a63897d4dc54@f4d3.org
-URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240205T140000Z
-DTEND:20240212T000000Z
-DTSTART:20240205T140000Z
-SUMMARY:Lunar New Year: Dragons Unleashed
-UID:af7a812f-5cfd-4bac-b550-8e149dafcd3d@af7a.org
-URL:https://leekduck.com/events/lunar-new-year-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240204T180000Z
-DTEND:20240204T210000Z
-DTSTART:20240204T180000Z
-SUMMARY:Chansey Community Day
-UID:f71c0cf1-f3d8-434b-8315-ca3c9d789fc5@f71c.org
-URL:https://leekduck.com/events/february-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240126T210000Z
-DTEND:20240202T210000Z
-DTSTART:20240126T210000Z
-SUMMARY:Great League and Hisui Cup: Great League Edition | Timeless Travels
-UID:bd32df63-789f-46bf-baf1-46c1e8194bf0@bd32.org
-URL:https://leekduck.com/events/gbl-timeless-travels_great-league_hisui-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240216T210000Z
-DTEND:20240223T210000Z
-DTSTART:20240216T210000Z
-SUMMARY:Catch Cup: Little Edition and Catch Cup: Great League Edition | Timeless Travels
-UID:99d197ad-6817-4ee6-ad26-c092fa6b59b0@99d1.org
-URL:https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231201T140000Z
-DTEND:20240301T140000Z
-DTSTART:20231201T140000Z
-SUMMARY:Timeless Travels
-UID:2d59f4e8-0af9-468f-9314-4b4db9311633@2d59.org
-URL:https://leekduck.com/events/season-13-timeless-travels/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240130T220000Z
-DTEND:20240130T230000Z
-DTSTART:20240130T220000Z
-SUMMARY:Foongus Spotlight Hour
-UID:66129ba1-f741-43d4-9f37-88164472bf61@6612.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-30/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240124T140000Z
-DTEND:20240131T140000Z
-DTSTART:20240124T140000Z
-SUMMARY:Landorus (Therian Forme) in 5-star Raid Battles
-UID:70fe8e75-7846-4847-a11f-33c66d3d8403@70fe.org
-URL:https://leekduck.com/events/landorus-therian-forme-in-5-star-raid-battles-january-2024/
+DTSTAMP:20240131T140000Z
+DTEND:20240215T140000Z
+DTSTART:20240131T140000Z
+SUMMARY:Mega Latias and Mega Latios in Mega Raids
+UID:b4fc26b9-cffb-4fec-98ed-08521e21fbef@b4fc.org
+URL:https://leekduck.com/events/mega-latias-mega-latios-in-mega-raid-battles-january-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240209T210000Z
 DTEND:20240216T210000Z
 DTSTART:20240209T210000Z
 SUMMARY:Master League and Evolution Cup: Great League Edition | Timeless Travels
-UID:07ae0d35-c7ff-4530-b68c-56a8831e9f31@07ae.org
+UID:05e49d40-d159-4759-8dd7-a73e447cbfca@05e4.org
 URL:https://leekduck.com/events/gbl-timeless-travels_master-league_evolution-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240202T210000Z
-DTEND:20240209T210000Z
-DTSTART:20240202T210000Z
-SUMMARY:Ultra League and Hisui Cup: Great League Edition | Timeless Travels
-UID:0d1313b3-3073-4bd1-a218-b98d13e36c9c@0d13.org
-URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition/
+DTSTAMP:20240127T140000Z
+DTEND:20240202T000000Z
+DTSTART:20240127T140000Z
+SUMMARY:Scraggy\, Pancham\, and Varoom PokéStop Showcases
+UID:f8cb1e4a-5996-4b3c-a032-3e22e72dc87a@f8cb.org
+URL:https://leekduck.com/events/pokemon-showcase-scraggy-pancham-varoom-2024-01-27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T140000Z
-DTEND:20240131T140000Z
-DTSTART:20240124T140000Z
-SUMMARY:Mega Steelix in Mega Raids
-UID:82e70ae3-822f-4a49-bcd2-e35ac5081068@82e7.org
-URL:https://leekduck.com/events/mega-steelix-in-mega-raids-january-2024/
+DTSTAMP:20240226T140000Z
+DTEND:20240301T140000Z
+DTSTART:20240226T140000Z
+SUMMARY:Cresselia and Heatran in 5-star Raid Battles
+UID:3c586578-32fb-41c1-834f-5a501c0882e9@3c58.org
+URL:https://leekduck.com/events/cresselia-heatran-in-5-star-raid-battles-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240223T220000Z
+DTEND:20240223T230000Z
+DTSTART:20240223T220000Z
+SUMMARY:Origin Forme Giratina Raid Hour
+UID:008b2728-3718-4a55-9122-0e0dd406f844@008b.org
+URL:https://leekduck.com/events/raidhour20240223/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240201T140000Z
 DTEND:20240301T000000Z
 DTSTART:20240201T140000Z
 SUMMARY:Eggs-pedition Access: February
-UID:bcb8af3d-764d-4fe4-a7e3-970e46286e73@bcb8.org
+UID:378b7cb3-dd2c-4e44-8dc9-2526e239c88b@378b.org
 URL:https://leekduck.com/events/eggspedition-access-february-ticket/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240204T180000Z
+DTEND:20240205T000000Z
+DTSTART:20240204T180000Z
+SUMMARY:Chansey and Blissey PokéStop Showcases
+UID:e90cddb7-7293-4008-accb-d203c4b1dacd@e90c.org
+URL:https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240204T180000Z
+DTEND:20240204T210000Z
+DTSTART:20240204T180000Z
+SUMMARY:Chansey Community Day
+UID:449420da-29de-4fff-9634-024380bc43a4@4494.org
+URL:https://leekduck.com/events/february-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240227T220000Z
+DTEND:20240227T230000Z
+DTSTART:20240227T220000Z
+SUMMARY:Sandshrew and Alolan Sandshrew Spotlight Hour
+UID:e6a3bf33-e189-403d-9f53-ecf20f0520b3@e6a3.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240221T140000Z
+DTEND:20240222T140000Z
+DTSTART:20240221T140000Z
+SUMMARY:Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
+UID:a12d82dc-3be4-4e4b-861b-8aa71bad09b8@a12d.org
+URL:https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T140000Z
+DTEND:20240223T140000Z
+DTSTART:20240222T140000Z
+SUMMARY:Heatran in 5-star Raid Battles
+UID:fc69a1da-e7ae-4195-bc3c-e10fd92b6587@fc69.org
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240211T180000Z
+DTEND:20240211T210000Z
+DTSTART:20240211T180000Z
+SUMMARY:Hisuian Decidueye Raid Day
+UID:53fc7160-55bb-41d4-be8f-facc0f85a63f@53fc.org
+URL:https://leekduck.com/events/hisuian-decidueye-raid-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240205T140000Z
+DTEND:20240212T000000Z
+DTSTART:20240205T140000Z
+SUMMARY:Lunar New Year: Dragons Unleashed
+UID:087975ba-c122-49d3-ab26-2dc6b1b5d163@0879.org
+URL:https://leekduck.com/events/lunar-new-year-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240210T040000Z
+DTEND:20240211T035959Z
+DTSTART:20240210T040000Z
+SUMMARY:Timeless Travels: GO Battle Day
+UID:76fd75b3-1340-4fa9-8c67-6813d1373111@76fd.org
+URL:https://leekduck.com/events/go-battle-day-timeless-travels/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240214T160000Z
+DTEND:20240214T230000Z
+DTSTART:20240214T160000Z
+SUMMARY:Enamorus in Elite Raids
+UID:3bdcdd69-6730-4beb-a972-401802840051@3bdc.org
+URL:https://leekduck.com/events/elite-raids-enamorus-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240131T220000Z
+DTEND:20240131T230000Z
+DTSTART:20240131T220000Z
+SUMMARY:Mega Latias Raid Hour
+UID:c3609807-395d-4add-92aa-0e31c2f9354d@c360.org
+URL:https://leekduck.com/events/raidhour20240131/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240213T140000Z
+DTEND:20240216T000000Z
+DTSTART:20240213T140000Z
+SUMMARY:Carnival of Love
+UID:9c4ba405-3352-42af-aaa7-f1c01806eab1@9c4b.org
+URL:https://leekduck.com/events/carnival-of-love/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T140000Z
+DTEND:20240220T140000Z
+DTSTART:20240215T140000Z
+SUMMARY:Darkrai in 5-star Raid Battles
+UID:8ed56795-e4b8-4a61-98c3-3810e9ca9e4f@8ed5.org
+URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-february-2024y/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T140000Z
+DTEND:20240224T020000Z
+DTSTART:20240219T140000Z
+SUMMARY:Road to Sinnoh
+UID:dd6858cb-c717-4989-b41f-5d22a8529d42@dd68.org
+URL:https://leekduck.com/events/road-to-sinnoh/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T140000Z
+DTEND:20240223T140000Z
+DTSTART:20240222T140000Z
+SUMMARY:Origin Forme Giratina in 5-star Raid Battles
+UID:2ea38b08-2c8c-4c69-9f33-d92619d24bde@2ea3.org
+URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battles-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T220000Z
+DTEND:20240222T230000Z
+DTSTART:20240222T220000Z
+SUMMARY:Heatran Raid Hour
+UID:13a2c4f2-aa1d-4112-a2ef-d38420ad49df@13a2.org
+URL:https://leekduck.com/events/raidhour20240222/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240223T210000Z
+DTEND:20240301T210000Z
+DTSTART:20240223T210000Z
+SUMMARY:Great League\, Ultra League and Master League | Timeless Travels
+UID:729245fa-66a7-460b-b392-a2a3fc8c5b9f@7292.org
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-league_master-league-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240126T210000Z
+DTEND:20240202T210000Z
+DTSTART:20240126T210000Z
+SUMMARY:Great League and Hisui Cup: Great League Edition | Timeless Travels
+UID:09a0d36c-d4dd-4a97-8ea1-dafb1def62ca@09a0.org
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_hisui-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T140000Z
+DTEND:20240225T220000Z
+DTSTART:20240224T140000Z
+SUMMARY:Pokémon GO Tour: Sinnoh - Global
+UID:a02a22e2-42ac-4baa-af65-dfb23a87fbe3@a02a.org
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231201T140000Z
+DTEND:20240301T140000Z
+DTSTART:20231201T140000Z
+SUMMARY:Timeless Travels
+UID:9ab62e9d-dd30-45ef-8c7c-6d8005e57259@9ab6.org
+URL:https://leekduck.com/events/season-13-timeless-travels/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240124T140000Z
+DTEND:20240131T140000Z
+DTSTART:20240124T140000Z
+SUMMARY:Landorus (Therian Forme) in 5-star Raid Battles
+UID:21fb2d42-f522-4ecf-9054-2ee40aaf5818@21fb.org
+URL:https://leekduck.com/events/landorus-therian-forme-in-5-star-raid-battles-january-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T220000Z
+DTEND:20240207T230000Z
+DTSTART:20240207T220000Z
+SUMMARY:Mega Latios Raid Hour
+UID:0b632ece-f930-4d1c-b08b-66adaeac7fb7@0b63.org
+URL:https://leekduck.com/events/raidhour20240207/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240127T040000Z
 DTEND:20240202T035959Z
 DTSTART:20240127T040000Z
 SUMMARY:Taken Treasures
-UID:c0bde06d-7e45-4abc-a7d3-4f1aaf646f2d@c0bd.org
+UID:980dcc88-e137-46ae-9d55-50c32f4b9cb2@980d.org
 URL:https://leekduck.com/events/taken-treasures/
 END:VEVENT
 BEGIN:VEVENT
@@ -118,64 +230,144 @@ DTSTAMP:20231201T140000Z
 DTEND:20240301T140000Z
 DTSTART:20231201T140000Z
 SUMMARY:Timeless Travels Research Breakthrough
-UID:4c13adf0-168d-44dd-b32f-fb7e858b09f6@4c13.org
+UID:32625562-4990-4749-8d9f-3345879c8e0d@3262.org
 URL:https://leekduck.com/events/season-13-timeless-travels-research-breakthrough/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240211T180000Z
-DTEND:20240211T210000Z
-DTSTART:20240211T180000Z
-SUMMARY:Unannounced Event - February 11
-UID:9ca2c5c4-d444-4a8a-8628-a60b7f51f717@9ca2.org
-URL:https://leekduck.com/events/unannounced-february-11-season-17/
+DTSTAMP:20240221T220000Z
+DTEND:20240221T230000Z
+DTSTART:20240221T220000Z
+SUMMARY:Uxie\, Mesprit\, and Azelf Raid Hour
+UID:ebc9be31-5a82-416c-b5c8-b3f1e85002c8@ebc9.org
+URL:https://leekduck.com/events/raidhour20240221/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240210T040000Z
-DTEND:20240211T035959Z
-DTSTART:20240210T040000Z
-SUMMARY:Timeless Travels: GO Battle Day
-UID:a5b9612e-f909-46e0-8784-d44485fb6f14@a5b9.org
-URL:https://leekduck.com/events/go-battle-day-timeless-travels/
+DTSTAMP:20240213T220000Z
+DTEND:20240213T230000Z
+DTSTART:20240213T220000Z
+SUMMARY:Munna Spotlight Hour
+UID:bbe2b849-f7ce-4ded-869a-a994a124e6d3@bbe2.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-13/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240217T170000Z
+DTEND:20240218T010000Z
+DTSTART:20240217T170000Z
+SUMMARY:Pokémon GO Tour: Sinnoh - Los Angeles
+UID:0a893b8d-bd9d-462b-8d73-b05085cdee04@0a89.org
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240124T140000Z
+DTEND:20240131T140000Z
+DTSTART:20240124T140000Z
+SUMMARY:Mega Steelix in Mega Raids
+UID:def08e7d-714d-4195-99b7-c8a7787376ac@def0.org
+URL:https://leekduck.com/events/mega-steelix-in-mega-raids-january-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240224T140000Z
 DTEND:20240225T220000Z
 DTSTART:20240224T140000Z
-SUMMARY:Pokémon GO Tour: Sinnoh - Global
-UID:51eeb672-afd3-4b0b-9de1-bd450240dc77@51ee.org
-URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
+SUMMARY:Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme Palkia in 5-star Raid Battles
+UID:5c5f6fcf-d76c-41c4-86d2-45a678795d7f@5c5f.org
+URL:https://leekduck.com/events/dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-battles-february-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T140000Z
-DTEND:20240202T000000Z
-DTSTART:20240127T140000Z
-SUMMARY:Scraggy\, Pancham\, and Varoom PokéStop Showcases
-UID:a204a676-0697-4697-b634-63021c5aa3aa@a204.org
-URL:https://leekduck.com/events/pokemon-showcase-scraggy-pancham-varoom-2024-01-27/
+DTSTAMP:20240203T100000Z
+DTEND:20240225T020000Z
+DTSTART:20240203T100000Z
+SUMMARY:Shadow Articuno in Shadow Raids
+UID:3796b34c-fca6-4417-9ba3-fc235d9c0784@3796.org
+URL:https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-travels/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240202T210000Z
+DTEND:20240209T210000Z
+DTSTART:20240202T210000Z
+SUMMARY:Ultra League and Hisui Cup: Great League Edition | Timeless Travels
+UID:7457b515-60b9-4947-b6a0-fed64a4f2d83@7457.org
+URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240216T210000Z
+DTEND:20240223T210000Z
+DTSTART:20240216T210000Z
+SUMMARY:Catch Cup: Little Edition and Catch Cup: Great League Edition | Timeless Travels
+UID:6b8ae9a3-beb3-4b6f-bce4-bf007ba67e5a@6b8a.org
+URL:https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T220000Z
+DTEND:20240219T230000Z
+DTSTART:20240219T220000Z
+SUMMARY:Cresselia Raid Hour
+UID:36105aa2-b17c-4b83-82e2-00157d34ad66@3610.org
+URL:https://leekduck.com/events/raidhour20240220/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T140000Z
+DTEND:20240221T140000Z
+DTSTART:20240220T140000Z
+SUMMARY:Cresselia in 5-star Raid Battles
+UID:b9e5d667-1a38-4d43-9fbd-4b1daf19b2be@b9e5.org
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240228T220000Z
+DTEND:20240228T230000Z
+DTSTART:20240228T220000Z
+SUMMARY:Cresselia and Heatran Raid Hour
+UID:29b0562c-ee73-420f-8988-7bec9e0a8504@29b0.org
+URL:https://leekduck.com/events/raidhour20240228/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T140000Z
+DTEND:20240301T140000Z
+DTSTART:20240222T140000Z
+SUMMARY:Mega Garchomp in Mega Raids
+UID:bcf85932-301a-4b6a-b172-40fee13770ac@bcf8.org
+URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240130T220000Z
+DTEND:20240130T230000Z
+DTSTART:20240130T220000Z
+SUMMARY:Foongus Spotlight Hour
+UID:efdacb3f-3b43-4054-970f-2c99ebc0a0f5@efda.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-30/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240101T140000Z
 DTEND:20240201T000000Z
 DTSTART:20240101T140000Z
 SUMMARY:Eggs-pedition Access: January
-UID:bd36a636-5875-4df1-bb34-ff435b08b4ef@bd36.org
+UID:adbc60a5-1815-4f1b-b70c-fc22ecdd00e4@adbc.org
 URL:https://leekduck.com/events/eggspedition-access-january-ticket/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240219T140000Z
-DTEND:20240224T020000Z
-DTSTART:20240219T140000Z
-SUMMARY:Road to Sinnoh
-UID:e3817c32-58d3-4398-a46b-8f1a19dce4d1@e381.org
-URL:https://leekduck.com/events/road-to-sinnoh/
+DTSTAMP:20240215T140000Z
+DTEND:20240222T140000Z
+DTSTART:20240215T140000Z
+SUMMARY:Mega Absol in Mega Raids
+UID:0a12ddf9-cede-4827-be3b-7378f67ec8ca@0a12.org
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T180000Z
-DTEND:20240205T000000Z
-DTSTART:20240204T180000Z
-SUMMARY:Chansey and Blissey PokéStop Showcases
-UID:33737ee1-315c-4dea-a16d-ebbdbe711926@3373.org
-URL:https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04/
+DTSTAMP:20240206T220000Z
+DTEND:20240206T230000Z
+DTSTART:20240206T220000Z
+SUMMARY:Dratini Spotlight Hour
+UID:d9698247-e58e-4f92-b967-e0434d536847@d969.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T220000Z
+DTEND:20240219T230000Z
+DTSTART:20240219T220000Z
+SUMMARY:Darkrai Raid Hour
+UID:b1d325b8-f2ad-4492-87c5-32bb568efce2@b1d3.org
+URL:https://leekduck.com/events/raidhour20240219/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
