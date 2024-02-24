@@ -2,99 +2,139 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20240303T180000Z
-DTEND:20240303T210000Z
-DTSTART:20240303T180000Z
-SUMMARY:Unannounced Event on March 3
-UID:3519272c-88d1-496c-8a8b-adeff6ae99a4@3519.org
-URL:https://leekduck.com/events/unannounced-season18-event-march-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T140000Z
-DTEND:20240224T020000Z
-DTSTART:20240219T140000Z
-SUMMARY:Road to Sinnoh
-UID:3380c78a-5006-4e4d-9158-fba292066404@3380.org
-URL:https://leekduck.com/events/road-to-sinnoh/
+DTSTAMP:20240227T220000Z
+DTEND:20240227T230000Z
+DTSTART:20240227T220000Z
+SUMMARY:Sandshrew and Alolan Sandshrew Spotlight Hour
+UID:60bbd6c8-a90d-4b21-bed5-c9732d1e3cdb@60bb.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240224T140000Z
 DTEND:20240225T220000Z
 DTSTART:20240224T140000Z
-SUMMARY:Pokémon GO Tour: Sinnoh - Global
-UID:d1fd37f3-49dd-4790-a9b8-824f0713f7c4@d1fd.org
-URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
+SUMMARY:Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme Palkia in 5-star Raid Battles
+UID:16e51519-1017-4df2-9ee7-c5c9e9ed6cae@16e5.org
+URL:https://leekduck.com/events/dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-battles-february-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240223T140000Z
 DTEND:20240226T140000Z
 DTSTART:20240223T140000Z
 SUMMARY:Origin Forme Giratina in 5-star Raid Battles
-UID:bd5934d7-7e9f-43fd-9634-0820ca40c7b9@bd59.org
+UID:3bbd4638-979e-4b8e-860f-277311606d47@3bbd.org
 URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battles-february-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240511T180000Z
-DTEND:20240511T210000Z
-DTSTART:20240511T180000Z
-SUMMARY:Unannounced Event on May 11
-UID:eba4d26f-4270-4df7-9fbc-046e5717499f@eba4.org
-URL:https://leekduck.com/events/unannounced-season18-event-may-11/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T140000Z
-DTEND:20240225T220000Z
-DTSTART:20240219T140000Z
-SUMMARY:Masterwork Research: Glimmers of Gratitude (Global)
-UID:ae8b7bec-e48c-4743-862a-9cec2da1d1fa@ae8b.org
-URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240215T140000Z
-DTEND:20240225T220000Z
-DTSTART:20240215T140000Z
-SUMMARY:GO Tour 2024: Road to Sinnoh
-UID:2e6d6484-006d-48b0-ac5b-66c3d7367fbc@2e6d.org
-URL:https://leekduck.com/events/go-tour-2024-road-to-sinnoh-special-research/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231201T140000Z
+DTSTAMP:20240226T140000Z
 DTEND:20240301T140000Z
-DTSTART:20231201T140000Z
-SUMMARY:Timeless Travels
-UID:7b737d37-2790-46c0-a992-9956bd1413b6@7b73.org
-URL:https://leekduck.com/events/season-13-timeless-travels/
+DTSTART:20240226T140000Z
+SUMMARY:Cresselia and Heatran in 5-star Raid Battles
+UID:c1d82bd5-4671-4eeb-b39b-1ad8132a8cea@c1d8.org
+URL:https://leekduck.com/events/cresselia-heatran-in-5-star-raid-battles-february-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240216T210000Z
-DTEND:20240223T210000Z
-DTSTART:20240216T210000Z
-SUMMARY:Catch Cup: Little Edition and Catch Cup: Great League Edition | Timeless Travels
-UID:dd348fbd-c9a0-49bf-a711-6094472f525c@dd34.org
-URL:https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edition/
+DTSTAMP:20240203T100000Z
+DTEND:20240225T020000Z
+DTSTART:20240203T100000Z
+SUMMARY:Shadow Articuno in Shadow Raids
+UID:f8ed3734-95c0-4c8f-ac0d-77df6aa91de7@f8ed.org
+URL:https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-travels/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240413T180000Z
+DTEND:20240413T210000Z
+DTSTART:20240413T180000Z
+SUMMARY:Unannounced Event on April 13
+UID:57540d7f-1b97-4219-abd6-033e1d5a031d@5754.org
+URL:https://leekduck.com/events/unannounced-season18-event-april-13/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T140000Z
+DTEND:20240301T140000Z
+DTSTART:20240220T140000Z
+SUMMARY:Mega Garchomp in Mega Raids
+UID:92882798-00b9-4d6e-896e-581157f5e9ea@9288.org
+URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240224T140000Z
 DTEND:20240225T000000Z
 DTSTART:20240224T140000Z
 SUMMARY:Origin Forme Dialga and Origin Forme Palkia PokéStop Showcases
-UID:24d80d3f-a01f-4b87-87ce-1d5b4c78dc5d@24d8.org
+UID:db22170d-9bb1-41d1-94af-00677421e90f@db22.org
 URL:https://leekduck.com/events/pokemon-showcase-origin-forme-dialga-origin-forme-palkia-2024-02-24/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T140000Z
+DTEND:20240225T220000Z
+DTSTART:20240219T140000Z
+SUMMARY:Masterwork Research: Glimmers of Gratitude (Global)
+UID:1c40a60f-aecf-4522-9069-50251c0cc91b@1c40.org
+URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231201T140000Z
 DTEND:20240301T140000Z
 DTSTART:20231201T140000Z
-SUMMARY:Timeless Travels Research Breakthrough
-UID:0e8cc28e-84b9-4f99-8bf6-624e4766cb51@0e8c.org
-URL:https://leekduck.com/events/season-13-timeless-travels-research-breakthrough/
+SUMMARY:Timeless Travels
+UID:344230a0-5a73-4bb5-a568-d13fc403ef6e@3442.org
+URL:https://leekduck.com/events/season-13-timeless-travels/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T140000Z
+DTEND:20240224T020000Z
+DTSTART:20240219T140000Z
+SUMMARY:Road to Sinnoh
+UID:11ee5280-b0e0-4cef-bc8d-190061b4cd8b@11ee.org
+URL:https://leekduck.com/events/road-to-sinnoh/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T140000Z
+DTEND:20240301T000000Z
+DTSTART:20240201T140000Z
+SUMMARY:Eggs-pedition Access: February
+UID:4d21cba6-5ca0-4bcd-8d6e-01dbfa47dc4c@4d21.org
+URL:https://leekduck.com/events/eggspedition-access-february-ticket/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T140000Z
+DTEND:20240225T220000Z
+DTSTART:20240215T140000Z
+SUMMARY:GO Tour 2024: Road to Sinnoh
+UID:c831d8bc-b48e-4272-98fb-769b45a0a5e9@c831.org
+URL:https://leekduck.com/events/go-tour-2024-road-to-sinnoh-special-research/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240511T180000Z
+DTEND:20240511T210000Z
+DTSTART:20240511T180000Z
+SUMMARY:Unannounced Event on May 11
+UID:3da678fd-34df-4e29-abc0-c7d1e6027b48@3da6.org
+URL:https://leekduck.com/events/unannounced-season18-event-may-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240316T180000Z
+DTEND:20240316T210000Z
+DTSTART:20240316T180000Z
+SUMMARY:March Community Day
+UID:5cb17898-f3ba-4fb2-be8e-77f57486c185@5cb1.org
+URL:https://leekduck.com/events/march-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T140000Z
+DTEND:20240225T220000Z
+DTSTART:20240224T140000Z
+SUMMARY:Pokémon GO Tour: Sinnoh - Global
+UID:85cb264a-3c71-46ce-b744-552e826af87b@85cb.org
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240407T180000Z
 DTEND:20240407T210000Z
 DTSTART:20240407T180000Z
 SUMMARY:April Community Day Classic
-UID:4cdb463e-0344-422f-a742-fc9172b62698@4cdb.org
+UID:36e89e2a-9d97-4dde-b7b4-99824bba9663@36e8.org
 URL:https://leekduck.com/events/april-communitydayclassic2024/
 END:VEVENT
 BEGIN:VEVENT
@@ -102,112 +142,56 @@ DTSTAMP:20240519T180000Z
 DTEND:20240519T210000Z
 DTSTART:20240519T180000Z
 SUMMARY:May Community Day
-UID:eb0bdb9a-8b31-421e-bc44-6709764b499f@eb0b.org
+UID:d852c8b2-79fc-45de-ab45-e9664010d296@d852.org
 URL:https://leekduck.com/events/may-communityday2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240223T220000Z
-DTEND:20240223T230000Z
-DTSTART:20240223T220000Z
-SUMMARY:Origin Forme Giratina Raid Hour
-UID:c47da012-b056-4b92-a6d0-d80541954019@c47d.org
-URL:https://leekduck.com/events/raidhour20240223/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240316T180000Z
-DTEND:20240316T210000Z
-DTSTART:20240316T180000Z
-SUMMARY:March Community Day
-UID:0283fc7b-66ea-45ab-abdd-c3670f360bd0@0283.org
-URL:https://leekduck.com/events/march-communityday2024/
+DTSTAMP:20231201T140000Z
+DTEND:20240301T140000Z
+DTSTART:20231201T140000Z
+SUMMARY:Timeless Travels Research Breakthrough
+UID:94ef3f9d-b295-4df6-a781-ceefa05aea64@94ef.org
+URL:https://leekduck.com/events/season-13-timeless-travels-research-breakthrough/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240420T180000Z
 DTEND:20240420T210000Z
 DTSTART:20240420T180000Z
 SUMMARY:April Community Day
-UID:a8472ac7-39f1-4d24-879c-990a444e74d0@a847.org
+UID:d20b3b7b-38c8-4be3-8c54-19fb7dbb5f57@d20b.org
 URL:https://leekduck.com/events/april-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240203T100000Z
-DTEND:20240225T020000Z
-DTSTART:20240203T100000Z
-SUMMARY:Shadow Articuno in Shadow Raids
-UID:65c0994f-f47b-4dee-b04d-7c7437b52001@65c0.org
-URL:https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-travels/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240428T180000Z
 DTEND:20240428T210000Z
 DTSTART:20240428T180000Z
 SUMMARY:Unannounced Event on April 28
-UID:d18e81f8-a481-4629-84e6-c5360fc83723@d18e.org
+UID:e35aa8e4-a488-45d7-889a-ae84c4745ef9@e35a.org
 URL:https://leekduck.com/events/unannounced-season18-event-april-28/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240413T180000Z
-DTEND:20240413T210000Z
-DTSTART:20240413T180000Z
-SUMMARY:Unannounced Event on April 13
-UID:56d21522-2d2d-488d-adbd-bf9ec72fa126@56d2.org
-URL:https://leekduck.com/events/unannounced-season18-event-april-13/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240227T220000Z
-DTEND:20240227T230000Z
-DTSTART:20240227T220000Z
-SUMMARY:Sandshrew and Alolan Sandshrew Spotlight Hour
-UID:3bf30da8-99d3-445d-8bd7-0ef6d7d7ddc7@3bf3.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240226T140000Z
-DTEND:20240301T140000Z
-DTSTART:20240226T140000Z
-SUMMARY:Cresselia and Heatran in 5-star Raid Battles
-UID:c2f8ed84-a46f-4c22-829d-ae9a0313e979@c2f8.org
-URL:https://leekduck.com/events/cresselia-heatran-in-5-star-raid-battles-february-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240228T220000Z
-DTEND:20240228T230000Z
-DTSTART:20240228T220000Z
-SUMMARY:Cresselia and Heatran Raid Hour
-UID:78c1b451-9301-4e65-b84c-5a2a5d2246a8@78c1.org
-URL:https://leekduck.com/events/raidhour20240228/
+DTSTAMP:20240303T180000Z
+DTEND:20240303T210000Z
+DTSTART:20240303T180000Z
+SUMMARY:Unannounced Event on March 3
+UID:d3f708fa-93b9-449c-aafd-07ac6062fda4@d3f7.org
+URL:https://leekduck.com/events/unannounced-season18-event-march-3/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240223T210000Z
 DTEND:20240301T210000Z
 DTSTART:20240223T210000Z
 SUMMARY:Great League\, Ultra League and Master League | Timeless Travels
-UID:b9abc341-b39a-4e68-a75e-aa0509ba5b47@b9ab.org
+UID:815cd89b-a01a-4463-bd3b-00eaeff4c6bb@815c.org
 URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-league_master-league-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240220T140000Z
-DTEND:20240301T140000Z
-DTSTART:20240220T140000Z
-SUMMARY:Mega Garchomp in Mega Raids
-UID:091f8180-2c7c-45f8-9768-06d3d7fe9927@091f.org
-URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240224T140000Z
-DTEND:20240225T220000Z
-DTSTART:20240224T140000Z
-SUMMARY:Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme Palkia in 5-star Raid Battles
-UID:20db174a-2885-4376-ad22-0c2219c49549@20db.org
-URL:https://leekduck.com/events/dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-battles-february-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240201T140000Z
-DTEND:20240301T000000Z
-DTSTART:20240201T140000Z
-SUMMARY:Eggs-pedition Access: February
-UID:9d08960f-edbc-4c75-8bc6-3d11439a277f@9d08.org
-URL:https://leekduck.com/events/eggspedition-access-february-ticket/
+DTSTAMP:20240228T220000Z
+DTEND:20240228T230000Z
+DTSTART:20240228T220000Z
+SUMMARY:Cresselia and Heatran Raid Hour
+UID:075f35ce-341d-47e5-a3ba-ce6a2710f083@075f.org
+URL:https://leekduck.com/events/raidhour20240228/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
