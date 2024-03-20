@@ -2,187 +2,227 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20240315T200000Z
-DTEND:20240322T200000Z
-DTSTART:20240315T200000Z
-SUMMARY:Master League and Spring Cup: Great League Edition | World of Wonders
-UID:48776ffa-8fc6-4390-a146-efcdc9db9511@4877.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_spring-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240327T220000Z
-DTEND:20240327T230000Z
-DTSTART:20240327T220000Z
-SUMMARY:Tapu Lele Raid Hour
-UID:642eebbb-ab0b-4869-b85a-498f08e936ea@642e.org
-URL:https://leekduck.com/events/raidhour20240327/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T140000Z
-DTEND:20240331T220000Z
-DTSTART:20240219T140000Z
-SUMMARY:Masterwork Research: Glimmers of Gratitude (Global)
-UID:669b46ba-5e8c-47c1-86a9-263cc0c92184@669b.org
-URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240403T220000Z
-DTEND:20240403T230000Z
-DTSTART:20240403T220000Z
-SUMMARY:Tapu Lele Raid Hour
-UID:4f129114-d824-4549-87b5-34ca1c71cd62@4f12.org
-URL:https://leekduck.com/events/raidhour20240403/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240329T200000Z
-DTEND:20240405T200000Z
-DTSTART:20240329T200000Z
-SUMMARY:Great League and Ultra Premier | World of Wonders
-UID:efd87d98-cb0c-42eb-a253-5f2766f485e2@efd8.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-premier/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240301T140000Z
-DTEND:20240601T140000Z
-DTSTART:20240301T140000Z
-SUMMARY:World of Wonders
-UID:9c022272-f7fe-4118-bc6b-4922e1ac8376@9c02.org
-URL:https://leekduck.com/events/season-14-world-of-wonders/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240321T140000Z
-DTEND:20240404T140000Z
-DTSTART:20240321T140000Z
-SUMMARY:Tapu Lele in 5-star Raid Battles
-UID:4e66a786-fdf1-4028-9326-bb41446b37c1@4e66.org
-URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-march-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240517T200000Z
-DTEND:20240524T200000Z
-DTSTART:20240517T200000Z
-SUMMARY:Catch Cup: Little Edition and Catch Cup: Great League Edition | World of Wonders
-UID:8e621657-e93b-4488-8b5c-2fa2adf2e7b3@8e62.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240420T180000Z
-DTEND:20240420T210000Z
-DTSTART:20240420T180000Z
-SUMMARY:April Community Day
-UID:fba6a00a-7640-40f3-95ab-cb23e80ba0e8@fba6.org
-URL:https://leekduck.com/events/april-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240326T220000Z
-DTEND:20240326T230000Z
-DTSTART:20240326T220000Z
-SUMMARY:Hoppip Spotlight Hour
-UID:c72c53dc-c090-4137-bc65-f58fa96ed23e@c72c.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-03-26/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240314T140000Z
-DTEND:20240321T140000Z
-DTSTART:20240314T140000Z
-SUMMARY:Regice in 5-star Raid Battles
-UID:878e5e31-c0be-4cd0-9b6c-66f31103fbdc@878e.org
-URL:https://leekduck.com/events/regice-in-5-star-raid-battles-march-2024/
+DTSTAMP:20240330T100000Z
+DTEND:20240401T020000Z
+DTSTART:20240330T100000Z
+SUMMARY:Shadow Mewtwo in Shadow Raids
+UID:7cad5b6b-afce-4c1f-bd36-1a41180ffcdc@7cad.org
+URL:https://leekduck.com/events/shadow-mewtwo-in-shadow-raids-world-of-wonder/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240327T140000Z
 DTEND:20240401T000000Z
 DTSTART:20240327T140000Z
 SUMMARY:World of Wonders: Taken Over
-UID:89ceac38-3862-49cd-bbc5-67d701dfa638@89ce.org
+UID:3f5ec673-b051-48f5-aa71-2977a997ef1d@3f5e.org
 URL:https://leekduck.com/events/world-of-wonders-taken-over/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240301T140000Z
-DTEND:20240601T140000Z
-DTSTART:20240301T140000Z
-SUMMARY:World of Wonders Research Breakthrough
-UID:68112411-051a-449f-84f7-a847188947b5@6811.org
-URL:https://leekduck.com/events/season-14-world-of-wonders-research-breakthrough/
+DTSTAMP:20240713T140000Z
+DTEND:20240714T220000Z
+DTSTART:20240713T140000Z
+SUMMARY:Pokémon GO Fest 2024: Global
+UID:48e2539c-a6d9-4bc7-bf2d-e5bf22ef4002@48e2.org
+URL:https://leekduck.com/events/pokemon-go-fest-2024-global/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240302T100000Z
-DTEND:20240325T020000Z
-DTSTART:20240302T100000Z
-SUMMARY:Shadow Raikou in Shadow Raids
-UID:71e9d2b9-9410-4dc7-b690-24704cf8803b@71e9.org
-URL:https://leekduck.com/events/shadow-raikou-in-shadow-raids-world-of-wonder/
+DTSTAMP:20240405T200000Z
+DTEND:20240412T200000Z
+DTSTART:20240405T200000Z
+SUMMARY:Ultra League and Jungle Cup: Great League | World of Wonders
+UID:122af6ae-f21b-4a89-a94c-66105561004e@122a.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_jungle-cup-great-league/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240308T200000Z
-DTEND:20240415T000000Z
-DTSTART:20240308T200000Z
-SUMMARY:Limited-time Partner Research: Amazon Prime Gaming
-UID:f94e4a37-aa76-406a-bd66-77019d4f2b49@f94e.org
-URL:https://leekduck.com/events/amazon-prime-partner-research-world-of-wonders/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240301T140000Z
-DTEND:20240615T000000Z
-DTSTART:20240301T140000Z
-SUMMARY:The Wonder Ticket
-UID:41c19b7d-4869-472c-aa96-7096030fce1b@41c1.org
-URL:https://leekduck.com/events/the-wonder-ticket/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T220000Z
-DTEND:20240319T230000Z
-DTSTART:20240319T220000Z
-SUMMARY:Vulpix\, Poliwag\, Snorunt\, and Hippopotas Spotlight Hour
-UID:164cfc68-b39b-40b6-853b-c4d64f5fcd49@164c.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-03-19/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240530T003000Z
-DTEND:20240602T093000Z
-DTSTART:20240530T003000Z
-SUMMARY:Pokémon GO Fest 2024: Sendai\, Japan
-UID:48ac75ad-1037-4dda-9314-6257fc403a7a@48ac.org
-URL:https://leekduck.com/events/pokemon-go-fest-2024-sendai-japan/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240504T040000Z
-DTEND:20240506T035900Z
-DTSTART:20240504T040000Z
-SUMMARY:GO Battle Week: World of Wonder
-UID:cb340b1d-f633-4d46-af3b-e654b85ec64a@cb34.org
-URL:https://leekduck.com/events/go-battle-week-world-of-wonder/
+DTSTAMP:20240511T180000Z
+DTEND:20240511T210000Z
+DTSTART:20240511T180000Z
+SUMMARY:Unannounced Event on May 11
+UID:2b815bd1-3505-42a8-b74b-ed4999baa324@2b81.org
+URL:https://leekduck.com/events/unannounced-season18-event-may-11/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240320T220000Z
 DTEND:20240320T230000Z
 DTSTART:20240320T220000Z
 SUMMARY:Regice Raid Hour
-UID:b43dc652-1570-4f64-b709-f3bf79383516@b43d.org
+UID:b29a6f96-e348-4ece-949d-c33ff749cb7f@b29a.org
 URL:https://leekduck.com/events/raidhour20240320/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240326T220000Z
+DTEND:20240326T230000Z
+DTSTART:20240326T220000Z
+SUMMARY:Hoppip Spotlight Hour
+UID:8ff51cda-8804-43e6-877b-0cbe8105c1e9@8ff5.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-03-26/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240301T140000Z
+DTEND:20240615T000000Z
+DTSTART:20240301T140000Z
+SUMMARY:The Wonder Ticket
+UID:76feaaa9-6404-43c5-ab18-64b4c9e1a0f6@76fe.org
+URL:https://leekduck.com/events/the-wonder-ticket/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240323T180000Z
+DTEND:20240323T210000Z
+DTSTART:20240323T180000Z
+SUMMARY:Primal Groudon Raid Day
+UID:ee59df7a-fd9f-451a-a43c-b975d501722d@ee59.org
+URL:https://leekduck.com/events/primal-groudon-raid-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240504T040000Z
+DTEND:20240506T035900Z
+DTSTART:20240504T040000Z
+SUMMARY:GO Battle Week: World of Wonder
+UID:66252659-c691-4146-bb67-74a6b3f8fa81@6625.org
+URL:https://leekduck.com/events/go-battle-week-world-of-wonder/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240517T200000Z
+DTEND:20240524T200000Z
+DTSTART:20240517T200000Z
+SUMMARY:Catch Cup: Little Edition and Catch Cup: Great League Edition | World of Wonders
+UID:f9746957-2acc-478c-a7a3-6d313dcd3a70@f974.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240407T180000Z
+DTEND:20240407T210000Z
+DTSTART:20240407T180000Z
+SUMMARY:Bagon Community Day Classic
+UID:9026efff-756d-4e75-a099-c5d9cff2eae0@9026.org
+URL:https://leekduck.com/events/april-communitydayclassic2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240530T003000Z
+DTEND:20240602T093000Z
+DTSTART:20240530T003000Z
+SUMMARY:Pokémon GO Fest 2024: Sendai\, Japan
+UID:5184c8f0-63e8-48f3-b439-63723996d1bb@5184.org
+URL:https://leekduck.com/events/pokemon-go-fest-2024-sendai-japan/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240301T140000Z
+DTEND:20240601T140000Z
+DTSTART:20240301T140000Z
+SUMMARY:World of Wonders
+UID:ebc72aa1-7cb9-4fa6-ad6e-ebfdf62e4ff0@ebc7.org
+URL:https://leekduck.com/events/season-14-world-of-wonders/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240321T140000Z
+DTEND:20240404T140000Z
+DTSTART:20240321T140000Z
+SUMMARY:Mega Venusaur in Mega Raids
+UID:619ea1d5-7080-43ec-ab1c-ad1cf9437f11@619e.org
+URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-march-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240413T180000Z
+DTEND:20240413T210000Z
+DTSTART:20240413T180000Z
+SUMMARY:Unannounced Event on April 13
+UID:605cfb2f-3c59-4d9a-9dbc-40bf41865928@605c.org
+URL:https://leekduck.com/events/unannounced-season18-event-april-13/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240412T200000Z
 DTEND:20240419T200000Z
 DTSTART:20240412T200000Z
 SUMMARY:Master League and Jungle Cup: Great League | World of Wonders
-UID:a53cbbcb-cbb2-43f5-99c8-1c6fa760aad2@a53c.org
+UID:797721cd-cb57-4ef2-b969-67fbfaf5c983@7977.org
 URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_jungle-cup-great-league/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240330T100000Z
-DTEND:20240401T020000Z
-DTSTART:20240330T100000Z
-SUMMARY:Shadow Mewtwo in Shadow Raids
-UID:c535db18-67e0-4d78-870e-0f20762925df@c535.org
-URL:https://leekduck.com/events/shadow-mewtwo-in-shadow-raids-world-of-wonder/
+DTSTAMP:20240705T160000Z
+DTEND:20240708T020000Z
+DTSTART:20240705T160000Z
+SUMMARY:Pokémon GO Fest 2024: New York City\, USA
+UID:da4636c3-8ef2-4d17-b8e9-eb81137e5752@da46.org
+URL:https://leekduck.com/events/pokemon-go-fest-2024-new-york-city-usa/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240327T220000Z
+DTEND:20240327T230000Z
+DTSTART:20240327T220000Z
+SUMMARY:Tapu Lele Raid Hour
+UID:c141fcf9-d4b4-4436-9280-11d5b989b94b@c141.org
+URL:https://leekduck.com/events/raidhour20240327/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240320T140000Z
+DTEND:20240323T000000Z
+DTSTART:20240320T140000Z
+SUMMARY:Flabébé PokéStop Showcases
+UID:60729aac-940c-4fe8-a64b-634a841f9dec@6072.org
+URL:https://leekduck.com/events/pokemon-showcase-flabebe-2024-03-20/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240301T140000Z
+DTEND:20240601T140000Z
+DTSTART:20240301T140000Z
+SUMMARY:World of Wonders Research Breakthrough
+UID:70ea832f-258b-494b-91b0-197b941ce100@70ea.org
+URL:https://leekduck.com/events/season-14-world-of-wonders-research-breakthrough/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240322T200000Z
+DTEND:20240329T200000Z
+DTSTART:20240322T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
+UID:37e25872-1f68-4432-adf5-5f22f8cfe810@37e2.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240302T100000Z
+DTEND:20240325T020000Z
+DTSTART:20240302T100000Z
+SUMMARY:Shadow Raikou in Shadow Raids
+UID:61e35c13-07a1-4792-b977-9b46c3e9c2c0@61e3.org
+URL:https://leekduck.com/events/shadow-raikou-in-shadow-raids-world-of-wonder/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240403T220000Z
+DTEND:20240403T230000Z
+DTSTART:20240403T220000Z
+SUMMARY:Tapu Lele Raid Hour
+UID:108e728e-ebce-4ce4-b122-acc66fb79838@108e.org
+URL:https://leekduck.com/events/raidhour20240403/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240524T200000Z
+DTEND:20240531T200000Z
+DTSTART:20240524T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
+UID:6bec5505-6606-4af5-8f72-d5b1c1a89522@6bec.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league-split-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240419T200000Z
+DTEND:20240426T200000Z
+DTSTART:20240419T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
+UID:bc51fea2-3363-4b52-bcf1-4d6e105997bb@bc51.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240314T140000Z
+DTEND:20240321T140000Z
+DTSTART:20240314T140000Z
+SUMMARY:Regice in 5-star Raid Battles
+UID:9bb28201-d279-42ce-8501-2a77121d8409@9bb2.org
+URL:https://leekduck.com/events/regice-in-5-star-raid-battles-march-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240426T200000Z
 DTEND:20240503T200000Z
 DTSTART:20240426T200000Z
 SUMMARY:Great League and Master Premier | World of Wonders
-UID:f1e75eeb-b2e9-4275-8b69-985d0d0e9fe4@f1e7.org
+UID:78410ff2-2940-44c6-a425-896876915d51@7841.org
 URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_master-premier/
 END:VEVENT
 BEGIN:VEVENT
@@ -190,152 +230,112 @@ DTSTAMP:20240403T040000Z
 DTEND:20240408T035900Z
 DTSTART:20240403T040000Z
 SUMMARY:2024 Pokémon Europe International Championships Bonus
-UID:ab2590a4-9bc9-4d7d-bfa2-361e91eda254@ab25.org
+UID:438e7384-da51-4466-8e9e-04a2361d6cd8@438e.org
 URL:https://leekduck.com/events/2024-04-03-2024-pokemon-europe-international-bonusmd/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240405T200000Z
-DTEND:20240412T200000Z
-DTSTART:20240405T200000Z
-SUMMARY:Ultra League and Jungle Cup: Great League | World of Wonders
-UID:52caa271-35fb-43c3-9fe5-77590510a89b@52ca.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_jungle-cup-great-league/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240322T200000Z
-DTEND:20240329T200000Z
-DTSTART:20240322T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
-UID:0267895c-3022-4447-b720-54738269be36@0267.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240321T140000Z
-DTEND:20240404T140000Z
-DTSTART:20240321T140000Z
-SUMMARY:Mega Venusaur in Mega Raids
-UID:e4e91f6e-e4bd-441f-8b2d-014834221968@e4e9.org
-URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-march-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240323T180000Z
-DTEND:20240323T210000Z
-DTSTART:20240323T180000Z
-SUMMARY:Primal Groudon Raid Day
-UID:4443841b-8a3e-4973-9f80-7f15d531809f@4443.org
-URL:https://leekduck.com/events/primal-groudon-raid-day/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240413T180000Z
-DTEND:20240413T210000Z
-DTSTART:20240413T180000Z
-SUMMARY:Unannounced Event on April 13
-UID:05824c6f-6ad8-4095-970a-a08afb374503@0582.org
-URL:https://leekduck.com/events/unannounced-season18-event-april-13/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240713T140000Z
-DTEND:20240714T220000Z
-DTSTART:20240713T140000Z
-SUMMARY:Pokémon GO Fest 2024: Global
-UID:0492c8dd-bec5-4faa-8613-4b1d1693f919@0492.org
-URL:https://leekduck.com/events/pokemon-go-fest-2024-global/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240419T200000Z
-DTEND:20240426T200000Z
-DTSTART:20240419T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
-UID:b13a94a4-626a-4f84-a915-ba74179eeaaa@b13a.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240519T180000Z
-DTEND:20240519T210000Z
-DTSTART:20240519T180000Z
-SUMMARY:May Community Day
-UID:974c4c5a-c5a0-4cc4-81c4-e721e299885d@974c.org
-URL:https://leekduck.com/events/may-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240503T200000Z
-DTEND:20240510T200000Z
-DTSTART:20240503T200000Z
-SUMMARY:Ultra League and Great League Remix | World of Wonders
-UID:26001495-1182-4513-815d-f4a30db3169f@2600.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_great-league-remix/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240314T140000Z
 DTEND:20240321T140000Z
 DTSTART:20240314T140000Z
 SUMMARY:Mega Tyranitar in Mega Raids
-UID:79d23310-7c51-44b1-8670-06858f5ac3b1@79d2.org
+UID:90be9a66-2ce9-408c-ba7f-13f5420e143d@90be.org
 URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-march-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240705T160000Z
-DTEND:20240708T020000Z
-DTSTART:20240705T160000Z
-SUMMARY:Pokémon GO Fest 2024: New York City\, USA
-UID:d7a7f983-f306-4775-8c13-006b2da0286f@d7a7.org
-URL:https://leekduck.com/events/pokemon-go-fest-2024-new-york-city-usa/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240407T180000Z
-DTEND:20240407T210000Z
-DTSTART:20240407T180000Z
-SUMMARY:Bagon Community Day Classic
-UID:66694fcc-4b02-459c-b1c6-0edc1d1d75ba@6669.org
-URL:https://leekduck.com/events/april-communitydayclassic2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240511T180000Z
-DTEND:20240511T210000Z
-DTSTART:20240511T180000Z
-SUMMARY:Unannounced Event on May 11
-UID:0a408d0b-ea7b-4610-9b2a-54e46851226a@0a40.org
-URL:https://leekduck.com/events/unannounced-season18-event-may-11/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240614T070000Z
-DTEND:20240616T170000Z
-DTSTART:20240614T070000Z
-SUMMARY:Pokémon GO Fest 2024: Madrid\, Spain
-UID:cd33b720-e975-4d70-9e42-982cab898529@cd33.org
-URL:https://leekduck.com/events/pokemon-go-fest-2024-madrid-spain/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240510T200000Z
 DTEND:20240517T200000Z
 DTSTART:20240510T200000Z
 SUMMARY:Master League and Great League Remix | World of Wonders
-UID:ea0ee8af-90d5-4a4d-8a94-209777047d10@ea0e.org
+UID:7c443c8a-52d7-41dd-b2ea-579894656bd8@7c44.org
 URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_great-league-remix-copy/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240519T180000Z
+DTEND:20240519T210000Z
+DTSTART:20240519T180000Z
+SUMMARY:May Community Day
+UID:3d8402a2-4dd2-469a-9839-9ddb5762721e@3d84.org
+URL:https://leekduck.com/events/may-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T070000Z
+DTEND:20240616T170000Z
+DTSTART:20240614T070000Z
+SUMMARY:Pokémon GO Fest 2024: Madrid\, Spain
+UID:db9fbac8-798f-4206-b640-23ece89e2340@db9f.org
+URL:https://leekduck.com/events/pokemon-go-fest-2024-madrid-spain/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240315T200000Z
+DTEND:20240322T200000Z
+DTSTART:20240315T200000Z
+SUMMARY:Master League and Spring Cup: Great League Edition | World of Wonders
+UID:d3fda7e6-1030-4fe9-88ba-3962947b7f62@d3fd.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_spring-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240219T140000Z
+DTEND:20240331T220000Z
+DTSTART:20240219T140000Z
+SUMMARY:Masterwork Research: Glimmers of Gratitude (Global)
+UID:bd8cb161-1b0c-449a-b33d-b07441493764@bd8c.org
+URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240428T180000Z
 DTEND:20240428T210000Z
 DTSTART:20240428T180000Z
 SUMMARY:Unannounced Event on April 28
-UID:cd87ffc8-0a5b-4108-862a-d41c2e79560c@cd87.org
+UID:fed6424a-4d41-42f2-98dd-237010440cdc@fed6.org
 URL:https://leekduck.com/events/unannounced-season18-event-april-28/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240524T200000Z
-DTEND:20240531T200000Z
-DTSTART:20240524T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | World of Wonders
-UID:c7887ea5-a3df-41e6-b2f8-ae0c066bda29@c788.org
-URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-league_master-league-split-3/
+DTSTAMP:20240329T200000Z
+DTEND:20240405T200000Z
+DTSTART:20240329T200000Z
+SUMMARY:Great League and Ultra Premier | World of Wonders
+UID:eb6a8f4d-cb21-4ae0-a544-761c34d45a3d@eb6a.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-premier/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240321T140000Z
 DTEND:20240326T000000Z
 DTSTART:20240321T140000Z
 SUMMARY:Verdant Wonders Event & Zarude Ticketed Research
-UID:925cb137-3d54-4078-95d0-a8e8dcb7be6e@925c.org
+UID:bc174ea3-27aa-45a8-bfa8-4c371164e68c@bc17.org
 URL:https://leekduck.com/events/verdant-wonders-zarude-ticketed-event/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240503T200000Z
+DTEND:20240510T200000Z
+DTSTART:20240503T200000Z
+SUMMARY:Ultra League and Great League Remix | World of Wonders
+UID:7511f11d-0718-4c00-871d-6ff171dbf5dc@7511.org
+URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_great-league-remix/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240420T180000Z
+DTEND:20240420T210000Z
+DTSTART:20240420T180000Z
+SUMMARY:April Community Day
+UID:fc879647-71de-4503-8171-a98671308d8f@fc87.org
+URL:https://leekduck.com/events/april-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240321T140000Z
+DTEND:20240404T140000Z
+DTSTART:20240321T140000Z
+SUMMARY:Tapu Lele in 5-star Raid Battles
+UID:3b490f4e-81d8-4730-9109-282a7654d1e4@3b49.org
+URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-march-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240308T200000Z
+DTEND:20240415T000000Z
+DTSTART:20240308T200000Z
+SUMMARY:Limited-time Partner Research: Amazon Prime Gaming
+UID:44f78903-fdf8-4df4-8113-1e2de6a1ca04@44f7.org
+URL:https://leekduck.com/events/amazon-prime-partner-research-world-of-wonders/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
