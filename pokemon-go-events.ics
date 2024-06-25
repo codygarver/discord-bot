@@ -2,19 +2,99 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
+DTSTAMP:20240621T140000Z
+DTEND:20240626T000000Z
+DTSTART:20240621T140000Z
+SUMMARY:Scorching Steps
+UID:e32d7e5a-1785-4f7f-a736-4c14fbe02dbc@e32d.org
+URL:https://leekduck.com/events/scorching-steps/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240809T200000Z
+DTEND:20240816T200000Z
+DTSTART:20240809T200000Z
+SUMMARY:Master League and Fossil Cup: Great League Edition | Shared Skies
+UID:96971c1f-0fea-4f6e-8324-65398a511d26@9697.org
+URL:https://leekduck.com/events/gbl-shared-skies_master-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240831T180000Z
+DTEND:20240831T210000Z
+DTSTART:20240831T180000Z
+SUMMARY:August Community Day
+UID:644f629b-c891-4900-873a-feea547b7235@644f.org
+URL:https://leekduck.com/events/august-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240712T200000Z
+DTEND:20240719T200000Z
+DTSTART:20240712T200000Z
+SUMMARY:Master League and Great League Remix | Shared Skies
+UID:174fba37-c4dc-49e6-a892-e2464e7ddf2a@174f.org
+URL:https://leekduck.com/events/gbl-shared-skies_master-league_great-league-remix/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240601T140000Z
+DTEND:20240903T140000Z
+DTSTART:20240601T140000Z
+SUMMARY:Shared Skies
+UID:05c12215-c5b7-484f-a7da-1b0c484d1e4d@05c1.org
+URL:https://leekduck.com/events/season-15-shared-skies/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240601T140000Z
+DTEND:20240903T140000Z
+DTSTART:20240601T140000Z
+SUMMARY:Shared Skies Research Breakthrough
+UID:a8191837-739a-4b63-b77f-092f035e02e6@a819.org
+URL:https://leekduck.com/events/season-15-shared-skies-research-breakthrough/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T160000Z
+DTEND:20240629T220000Z
+DTSTART:20240629T160000Z
+SUMMARY:Mega Rayquaza in Elite Raids
+UID:55b778e4-2190-4095-b147-b7400b712efb@55b7.org
+URL:https://leekduck.com/events/elite-raid-mega-rayquaza-june/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T200000Z
+DTEND:20240802T200000Z
+DTSTART:20240726T200000Z
+SUMMARY:Great League and Fantasy Cup: Great League Edition | Shared Skies
+UID:208eca8b-f807-41a9-b385-5346b88fc770@208e.org
+URL:https://leekduck.com/events/gbl-shared-skies_great-league_fantasy-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240713T140000Z
 DTEND:20240714T220000Z
 DTSTART:20240713T140000Z
 SUMMARY:Pokémon GO Fest 2024: Global
-UID:c2580dbc-138c-4015-8036-8c8985c818f6@c258.org
+UID:5f34206f-5867-4673-a4ea-f8b0c8e92ea3@5f34.org
 URL:https://leekduck.com/events/pokemon-go-fest-2024-global/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240802T200000Z
+DTEND:20240809T200000Z
+DTSTART:20240802T200000Z
+SUMMARY:Ultra League and Fossil Cup: Great League Edition | Shared Skies
+UID:1b1007d0-7bf5-44fd-8716-38aa0911ace3@1b10.org
+URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T220000Z
+DTEND:20240626T230000Z
+DTSTART:20240626T220000Z
+SUMMARY:Yveltal Raid Hour
+UID:e6944758-3632-4fcb-9fa3-030a61ffa087@e694.org
+URL:https://leekduck.com/events/raidhour20240626/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240705T200000Z
 DTEND:20240712T200000Z
 DTSTART:20240705T200000Z
 SUMMARY:Ultra League and Great League Remix | Shared Skies
-UID:051de69f-5aff-45fa-bb9c-c0fcc09b975f@051d.org
+UID:c110ca3b-aa9f-4625-87ba-8d8dacceb1fe@c110.org
 URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_great-league-remix/
 END:VEVENT
 BEGIN:VEVENT
@@ -22,55 +102,39 @@ DTSTAMP:20240823T200000Z
 DTEND:20240903T200000Z
 DTSTART:20240823T200000Z
 SUMMARY:Great League\, Ultra League\, and Master League | Shared Skies
-UID:6acb10e5-65ac-4d07-8c34-c182f52d2fb3@6acb.org
+UID:4ff028df-d6ce-419e-9e45-8a2d432054bb@4ff0.org
 URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240712T200000Z
-DTEND:20240719T200000Z
-DTSTART:20240712T200000Z
-SUMMARY:Master League and Great League Remix | Shared Skies
-UID:e1b2f5df-346c-4f39-90c2-56a3bdfdc70d@e1b2.org
-URL:https://leekduck.com/events/gbl-shared-skies_master-league_great-league-remix/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240621T140000Z
-DTEND:20240626T000000Z
-DTSTART:20240621T140000Z
-SUMMARY:Scorching Steps
-UID:f6050e9e-cdd0-4de0-8ac2-886f55629173@f605.org
-URL:https://leekduck.com/events/scorching-steps/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240601T140000Z
-DTEND:20240903T140000Z
-DTSTART:20240601T140000Z
-SUMMARY:Shared Skies Research Breakthrough
-UID:53ebe894-9dd3-478f-9686-d54d267e9f4b@53eb.org
-URL:https://leekduck.com/events/season-15-shared-skies-research-breakthrough/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240705T160000Z
 DTEND:20240708T020000Z
 DTSTART:20240705T160000Z
 SUMMARY:Pokémon GO Fest 2024: New York City\, USA
-UID:4adff24d-d571-4dec-b07e-e6e395becd8d@4adf.org
+UID:42dfbbf4-a555-4db8-ac85-703c0b7d8e14@42df.org
 URL:https://leekduck.com/events/pokemon-go-fest-2024-new-york-city-usa/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240726T200000Z
-DTEND:20240802T200000Z
-DTSTART:20240726T200000Z
-SUMMARY:Great League and Fantasy Cup: Great League Edition | Shared Skies
-UID:04aceca8-24e7-47a8-b57d-92098670fa75@04ac.org
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_fantasy-cup-great-league-edition/
+DTSTAMP:20240816T200000Z
+DTEND:20240823T200000Z
+DTSTART:20240816T200000Z
+SUMMARY:Great League\, Ultra League\, Master League\, and the Catch Cup: Great League Edition | Shared Skies
+UID:16058533-00b5-4260-a951-0bf284f2a051@1605.org
+URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240628T140000Z
+DTEND:20240704T000000Z
+DTSTART:20240628T140000Z
+SUMMARY:8th Anniversary Party
+UID:ce454bac-da26-4e17-a89d-cf49f0186dc4@ce45.org
+URL:https://leekduck.com/events/pokemon-go-8th-anniversary-party/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240625T220000Z
 DTEND:20240625T230000Z
 DTSTART:20240625T220000Z
 SUMMARY:Morelull Spotlight Hour
-UID:8b73959e-7897-409b-acf2-ee0804fac209@8b73.org
+UID:d721b74f-653f-485e-a623-43a5cf8753ec@d721.org
 URL:https://leekduck.com/events/pokemonspotlighthour2024-06-25/
 END:VEVENT
 BEGIN:VEVENT
@@ -78,127 +142,87 @@ DTSTAMP:20240601T100000Z
 DTEND:20240701T020000Z
 DTSTART:20240601T100000Z
 SUMMARY:Shadow Raikou in Shadow Raids
-UID:a8e734e3-2212-412c-83ca-94e48649da07@a8e7.org
+UID:a2c34a78-fc6d-41bf-93ae-3704d81e890d@a2c3.org
 URL:https://leekduck.com/events/shadow-raikou-in-shadow-raids-shared-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240816T200000Z
-DTEND:20240823T200000Z
-DTSTART:20240816T200000Z
-SUMMARY:Great League\, Ultra League\, Master League\, and the Catch Cup: Great League Edition | Shared Skies
-UID:b34615f1-0580-4ac4-8aa4-6842e1b8c656@b346.org
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T140000Z
-DTEND:20240708T140000Z
-DTSTART:20240628T140000Z
-SUMMARY:Ho-Oh in 5-star Raid Battles
-UID:64264d43-bf38-4254-9be1-27fd7d95999d@6426.org
-URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-june-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T140000Z
-DTEND:20240708T140000Z
-DTSTART:20240628T140000Z
-SUMMARY:Mega Tyranitar in Mega Raids
-UID:8360bc97-0155-4a84-bed1-28a110f531e1@8360.org
-URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-june-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240624T140000Z
 DTEND:20240626T000000Z
 DTSTART:20240624T140000Z
 SUMMARY:Fire-type PokéStop Showcases
-UID:6dfd6207-48cc-4462-8a42-311f0fe79b37@6dfd.org
+UID:8cbac239-702a-4653-82dc-5492f99e5a25@8cba.org
 URL:https://leekduck.com/events/pokemon-showcase-fire-type-2024-06-24/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240831T180000Z
-DTEND:20240831T210000Z
-DTSTART:20240831T180000Z
-SUMMARY:August Community Day
-UID:d7f8fea5-852e-478c-a65b-8e29a29e4573@d7f8.org
-URL:https://leekduck.com/events/august-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240619T140000Z
-DTEND:20240628T140000Z
-DTSTART:20240619T140000Z
-SUMMARY:Yveltal in 5-star Raid Battles
-UID:8d0176b9-42e2-4f21-a881-b04bbe534fa0@8d01.org
-URL:https://leekduck.com/events/yveltal-in-5-star-raid-battles-june-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240721T180000Z
-DTEND:20240721T210000Z
-DTSTART:20240721T180000Z
-SUMMARY:July Community Day
-UID:70433444-1274-4c9d-8674-fcdc597e25c7@7043.org
-URL:https://leekduck.com/events/july-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240802T200000Z
-DTEND:20240809T200000Z
-DTSTART:20240802T200000Z
-SUMMARY:Ultra League and Fossil Cup: Great League Edition | Shared Skies
-UID:5793be00-fb59-45fb-b054-333c342ad58d@5793.org
-URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_fossil-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240727T140000Z
 DTEND:20240728T000000Z
 DTSTART:20240727T140000Z
 SUMMARY:Unannounced Event
-UID:17710af7-8c28-4cb7-b3dc-9c8ebd150282@1771.org
+UID:35f15c5a-1446-4c6d-b573-9eb717f6b3b4@35f1.org
 URL:https://leekduck.com/events/unannounced-season15-event/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T220000Z
-DTEND:20240703T230000Z
-DTSTART:20240703T220000Z
-SUMMARY:Ho-Oh Raid Hour
-UID:eba4e32f-9327-46ac-9511-1af613901496@eba4.org
-URL:https://leekduck.com/events/raidhour20240703/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T220000Z
-DTEND:20240626T230000Z
-DTSTART:20240626T220000Z
-SUMMARY:Yveltal Raid Hour
-UID:35e7055a-c35e-4fd4-9e6b-d84fcc4db1a7@35e7.org
-URL:https://leekduck.com/events/raidhour20240626/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240809T200000Z
-DTEND:20240816T200000Z
-DTSTART:20240809T200000Z
-SUMMARY:Master League and Fossil Cup: Great League Edition | Shared Skies
-UID:4d876ab4-262e-4d5e-9180-f46dd1f6f9cc@4d87.org
-URL:https://leekduck.com/events/gbl-shared-skies_master-league_fossil-cup-great-league-edition/
+DTSTAMP:20240816T040000Z
+DTEND:20240821T035900Z
+DTSTART:20240816T040000Z
+SUMMARY:GO Battle Weekend: Shared Skies
+UID:8da1e050-3c2b-4b03-851b-d95b52dcb0a9@8da1.org
+URL:https://leekduck.com/events/go-battle-week-shared-skies/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240628T140000Z
-DTEND:20240704T000000Z
+DTEND:20240708T140000Z
 DTSTART:20240628T140000Z
-SUMMARY:8th Anniversary Party
-UID:d322eb3e-3328-4192-abf0-477f133ba43c@d322.org
-URL:https://leekduck.com/events/pokemon-go-8th-anniversary-party/
+SUMMARY:Mega Tyranitar in Mega Raids
+UID:b01f15a8-b582-4525-af80-cf66e43b7e06@b01f.org
+URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-june-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240629T160000Z
-DTEND:20240629T220000Z
-DTSTART:20240629T160000Z
-SUMMARY:Mega Rayquaza in Elite Raids
-UID:6121d6f9-3daf-4e46-9617-236be321819e@6121.org
-URL:https://leekduck.com/events/elite-raid-mega-rayquaza-june/
+DTSTAMP:20240619T140000Z
+DTEND:20240628T140000Z
+DTSTART:20240619T140000Z
+SUMMARY:Mega Charizard Y in Mega Raids
+UID:ce396f00-9daf-4b89-9ef9-f0a0abfd5c44@ce39.org
+URL:https://leekduck.com/events/mega-charizard-y-in-mega-raids-june-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240719T200000Z
+DTEND:20240726T200000Z
+DTSTART:20240719T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Shared Skies
+UID:960ef4fa-fcae-4294-acbb-bdbf96b13937@960e.org
+URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240628T140000Z
+DTEND:20240708T140000Z
+DTSTART:20240628T140000Z
+SUMMARY:Ho-Oh in 5-star Raid Battles
+UID:b1a6da6e-e783-454d-84b6-cb76ddb5fd5f@b1a6.org
+URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-june-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240721T180000Z
+DTEND:20240721T210000Z
+DTSTART:20240721T180000Z
+SUMMARY:Tynamo Community Day
+UID:f35dbd39-7ffb-4f78-92c5-504c1a1b5d6c@f35d.org
+URL:https://leekduck.com/events/july-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240628T200000Z
+DTEND:20240705T200000Z
+DTSTART:20240628T200000Z
+SUMMARY:Great League and Master Premier | Shared Skies
+UID:7cea2abb-cfaf-46f0-a31a-a0f322a47c8a@7cea.org
+URL:https://leekduck.com/events/gbl-shared-skies_great-league_master-premier/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240621T200000Z
 DTEND:20240628T200000Z
 DTSTART:20240621T200000Z
 SUMMARY:Great League\, Ultra League\, and Master League | Shared Skies
-UID:f226d65e-b92f-4d2e-9a01-1a9d56338305@f226.org
+UID:5978a1b0-4968-40e1-bd1d-6db0711fc09d@5978.org
 URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league_master-league/
 END:VEVENT
 BEGIN:VEVENT
@@ -206,48 +230,24 @@ DTSTAMP:20240810T100000Z
 DTEND:20240812T020000Z
 DTSTART:20240810T100000Z
 SUMMARY:Unannounced Shadow Raid Weekend
-UID:3de22e81-26b7-4c42-9e5f-ade8057f1032@3de2.org
+UID:5b450166-b950-47ce-8624-55b76fb8cf28@5b45.org
 URL:https://leekduck.com/events/unannounced-shadow-raid-weekend-season15/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240601T140000Z
-DTEND:20240903T140000Z
-DTSTART:20240601T140000Z
-SUMMARY:Shared Skies
-UID:ba6dcf19-b0ed-4b83-af2f-40a81a4b9732@ba6d.org
-URL:https://leekduck.com/events/season-15-shared-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240719T200000Z
-DTEND:20240726T200000Z
-DTSTART:20240719T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Shared Skies
-UID:1666a986-2625-455d-9044-ba36dd349c6f@1666.org
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240816T040000Z
-DTEND:20240821T035900Z
-DTSTART:20240816T040000Z
-SUMMARY:GO Battle Weekend: Shared Skies
-UID:0a1297cd-c77b-4107-a740-9702b3ef37c6@0a12.org
-URL:https://leekduck.com/events/go-battle-week-shared-skies/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240619T140000Z
 DTEND:20240628T140000Z
 DTSTART:20240619T140000Z
-SUMMARY:Mega Charizard Y in Mega Raids
-UID:732ed61c-701e-4059-9ee2-a6c0e86a4651@732e.org
-URL:https://leekduck.com/events/mega-charizard-y-in-mega-raids-june-2024/
+SUMMARY:Yveltal in 5-star Raid Battles
+UID:2b6d3b09-604f-467a-8515-080b40a72343@2b6d.org
+URL:https://leekduck.com/events/yveltal-in-5-star-raid-battles-june-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240628T200000Z
-DTEND:20240705T200000Z
-DTSTART:20240628T200000Z
-SUMMARY:Great League and Master Premier | Shared Skies
-UID:b52819a2-817c-4a89-8089-7746a27c1cce@b528.org
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_master-premier/
+DTSTAMP:20240703T220000Z
+DTEND:20240703T230000Z
+DTSTART:20240703T220000Z
+SUMMARY:Ho-Oh Raid Hour
+UID:045a8eda-4978-4327-bbb2-356b37cc9202@045a.org
+URL:https://leekduck.com/events/raidhour20240703/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
