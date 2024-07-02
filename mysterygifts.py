@@ -7,20 +7,57 @@ import os
 import pathlib
 import requests
 import sys
+import time
+from functools import wraps
 
 discord_webhook_url = os.environ["DISCORD_WEBHOOK_URL"]
 
+def retry(retries=3, delay=1):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            for attempt in range(retries):
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    if attempt < retries - 1:
+                        time.sleep(delay)
+                        continue
+                    else:
+                        raise e
+        return wrapper
+    return decorator
+
+@retry(retries=3, delay=1)
+def fetch_page(url):
+    return requests.get(url)
+
+@retry(retries=3, delay=1)
+def parse_html(content):
+    return BeautifulSoup(content, "html.parser")
+
+@retry(retries=3, delay=1)
+def post_to_discord(discord_webhook_url, discord_json):
+    result = requests.post(discord_webhook_url, json=discord_json)
+    result.raise_for_status()
+    print("Post succeeded!: ".format(result.status_code))
 
 def get_table(soup):
     table = soup.find("table")
+    if not table:
+        raise ValueError("Table not found in the HTML content")
     return table
 
 def get_rows(table):
     rows = table.find_all("tr")
+    if not rows:
+        raise ValueError("No rows found in the table")
     return rows
 
 def get_columns(row):
     columns = row.find_all("td")
+    if not columns:
+        raise ValueError("No columns found in the row")
     return columns
 
 def get_code(columns):
@@ -46,27 +83,15 @@ def write_dict_to_json_file(dictionary, file_name):
     with open(file_name, "w") as file:
         file.write(json.dumps(dictionary, indent=4))
 
-def post_to_discord(discord_webhook_url, discord_json):
-    result = requests.post(discord_webhook_url, json=discord_json)
-    try:
-        result.raise_for_status()
-    except requests.exceptions.HTTPError as err:
-        print(err)
-        sys.exit(1)
-    else:
-        print("Post succeeded!: ".format(
-            result.status_code))
-
-
 if __name__ == "__main__":
     # The URL of the page to scrape
     page_url = "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-mystery-gift-codes-list"
 
     # Get the page
-    page = requests.get(page_url)
+    page = fetch_page(page_url)
 
     # Parse the page
-    soup = BeautifulSoup(page.content, "html.parser")
+    soup = parse_html(page.content)
 
     # The name of the file where to store the codes
     codes_file_name = "mysterygifts.json"
@@ -80,64 +105,77 @@ if __name__ == "__main__":
     else:
         codes = {}
 
-    # Get the table
-    table = get_table(soup)
+    try:
+        # Get the table
+        table = get_table(soup)
 
-    # Get the rows
-    rows = get_rows(table)
+        # Get the rows
+        rows = get_rows(table)
+    except ValueError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+
     # Iterate over the rows
     for row in rows[1:]:
-        # Get the code
-        code = get_code(get_columns(row))
+        try:
+            # Get the columns
+            columns = get_columns(row)
 
-        # Get the gift
-        gift = get_gift(get_columns(row))
-        # Convert newlines to commas
-        gift = gift.replace("\n", ", ")
+            # Get the code
+            code = get_code(columns)
 
-        # Get the date
-        date = get_date(get_columns(row))
-        # Discard the time
-        date = date.split("-")[0].strip()
+            # Get the gift
+            gift = get_gift(columns)
+            # Convert newlines to commas
+            gift = gift.replace("\n", ", ")
 
-        # Remove the suffixes from the day
-        suffixes = "st", "nd", "rd", "th"
-        for suffix in suffixes:
-            date = date.replace(suffix, "")
+            # Get the date
+            date = get_date(columns)
+            # Discard the time
+            date = date.split("-")[0].strip()
 
-        # Replace Sept with Sep
-        date = date.replace("Sept", "Sep")
+            # Remove the suffixes from the day
+            suffixes = "st", "nd", "rd", "th"
+            for suffix in suffixes:
+                date = date.replace(suffix, "")
 
-        date_formats = "%d %b %Y", "%d %B %Y", "%d %b, %Y"
+            # Replace Sept with Sep
+            date = date.replace("Sept", "Sep")
 
-        date_stripped = None
+            date_formats = "%d %b %Y", "%d %B %Y", "%d %b, %Y"
 
-        print(f"Trying to convert {date}")
-        # Try to convert the date to a datetime object
-        for date_format in date_formats:
-            try:
-                date_stripped = datetime.datetime.strptime(date, date_format)
-                print(f"Success: {date} is a suitable date for {date_format}")
-                # Convert the date to YYYY-MM-DD
-                date = date_stripped.strftime("%Y-%m-%d")
-                break
-            except:
-                print(f"Error: {date} is not a suitable date for {date_format}")
-                pass
+            date_stripped = None
 
-        # Update the dictionary
-        code_dict = {"gift": gift, "expires": date}
-        if code not in codes:
-            new_codes[code] = code_dict
+            print(f"Trying to convert {date}")
+            # Try to convert the date to a datetime object
+            for date_format in date_formats:
+                try:
+                    date_stripped = datetime.datetime.strptime(date, date_format)
+                    print(f"Success: {date} is a suitable date for {date_format}")
+                    # Convert the date to YYYY-MM-DD
+                    date = date_stripped.strftime("%Y-%m-%d")
+                    break
+                except:
+                    print(f"Error: {date} is not a suitable date for {date_format}")
+                    pass
 
-        # Update the dictionary
-        codes[code] = code_dict
+            # Update the dictionary
+            code_dict = {"gift": gift, "expires": date}
+            if code not in codes:
+                new_codes[code] = code_dict
+
+            # Update the dictionary
+            codes[code] = code_dict
+
+        except ValueError as e:
+            print(f"Error processing row: {e}")
+            continue
 
     # Post new Mystery Gifts to Discord
     if new_codes:
         for code in new_codes:
             discord_message = f"New Pokemon Scarlet & Violet Mystery Gift :gift: code: `{code}` - {codes[code]['gift']} - Expires {codes[code]['expires']}"
-            discord_json = { "content": discord_message }
+            discord_json = {"content": discord_message}
             post_to_discord(discord_webhook_url, discord_json)
 
     # Write the dictionary to file
