@@ -21,6 +21,7 @@ def retry(retries=3, delay=1):
                     return func(*args, **kwargs)
                 except Exception as e:
                     if attempt < retries - 1:
+                        print(f"Error: {e}. Retrying in {delay} seconds...")
                         time.sleep(delay)
                         continue
                     else:
@@ -30,7 +31,10 @@ def retry(retries=3, delay=1):
 
 @retry(retries=3, delay=1)
 def fetch_page(url):
-    return requests.get(url)
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise ValueError(f"Failed to fetch the page, status code: {response.status_code}")
+    return response
 
 @retry(retries=3, delay=1)
 def parse_html(content):
@@ -176,7 +180,10 @@ if __name__ == "__main__":
         for code in new_codes:
             discord_message = f"New Pokemon Scarlet & Violet Mystery Gift :gift: code: `{code}` - {codes[code]['gift']} - Expires {codes[code]['expires']}"
             discord_json = {"content": discord_message}
-            post_to_discord(discord_webhook_url, discord_json)
+            try:
+                post_to_discord(discord_webhook_url, discord_json)
+            except Exception as e:
+                print(f"Error posting to Discord: {e}")
 
     # Write the dictionary to file
     write_dict_to_json_file(codes, codes_file_name)
