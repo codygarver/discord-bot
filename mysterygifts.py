@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
-import datetime
 import json
 import os
 import pathlib
@@ -9,6 +8,7 @@ import requests
 import sys
 import time
 from functools import wraps
+from dateutil import parser
 
 discord_webhook_url = os.environ["DISCORD_WEBHOOK_URL"]
 
@@ -69,8 +69,8 @@ def get_code(columns):
     return code
 
 def get_gift(columns):
-    pokemon = columns[1].text.strip()
-    return pokemon
+    gift = columns[1].text.strip()
+    return gift
 
 def get_date(columns):
     date = columns[2].text.strip()
@@ -138,30 +138,13 @@ if __name__ == "__main__":
             # Discard the time
             date = date.split("-")[0].strip()
 
-            # Remove the suffixes from the day
-            suffixes = "st", "nd", "rd", "th"
-            for suffix in suffixes:
-                date = date.replace(suffix, "")
-
-            # Replace Sept with Sep
-            date = date.replace("Sept", "Sep")
-
-            date_formats = "%d %b %Y", "%d %B %Y", "%d %b, %Y"
-
-            date_stripped = None
-
-            print(f"Trying to convert {date}")
-            # Try to convert the date to a datetime object
-            for date_format in date_formats:
+            if date != "N/A":
                 try:
-                    date_stripped = datetime.datetime.strptime(date, date_format)
-                    print(f"Success: {date} is a suitable date for {date_format}")
-                    # Convert the date to YYYY-MM-DD
+                    date_stripped = parser.parse(date, fuzzy=True)
                     date = date_stripped.strftime("%Y-%m-%d")
-                    break
-                except:
-                    print(f"Error: {date} is not a suitable date for {date_format}")
-                    pass
+                except ValueError as e:
+                    print(f"Error parsing date: {date}. Error: {e}")
+                    continue
 
             # Update the dictionary
             code_dict = {"gift": gift, "expires": date}
