@@ -2,195 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20240803T100000Z
-DTEND:20240901T020000Z
-DTSTART:20240803T100000Z
-SUMMARY:Shadow Lugia in Shadow Raids
-UID:29114eed-12df-4ebd-9f95-436cb769d2eb@2911.org
-URL:https://leekduck.com/events/shadow-lugia-in-shadow-raids-shared-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240821T140000Z
-DTEND:20240903T140000Z
-DTSTART:20240821T140000Z
-SUMMARY:Xerneas in 5-star Raid Battles
-UID:50ae06b5-0edb-4bea-b355-0093110d5461@50ae.org
-URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-august-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240827T220000Z
-DTEND:20240827T230000Z
-DTSTART:20240827T220000Z
-SUMMARY:Magnemite Spotlight Hour
-UID:ef1d14b7-67ab-4abc-96ba-ffe0100aab28@ef1d.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-08-27/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240831T180000Z
-DTEND:20240831T210000Z
-DTSTART:20240831T180000Z
-SUMMARY:Popplio Community Day
-UID:0a167c8d-2c07-453c-aa85-558b49fa2203@0a16.org
-URL:https://leekduck.com/events/august-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T140000Z
-DTEND:20240821T140000Z
-DTSTART:20240812T140000Z
-SUMMARY:Incarnate Forme Thundurus in 5-star Raid Battles
-UID:07d449ae-a10a-459e-8299-506f753bfd81@07d4.org
-URL:https://leekduck.com/events/thundurus-in-5-star-raid-battles-august-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240927T143000Z
-DTEND:20240929T233000Z
-DTSTART:20240927T143000Z
-SUMMARY:Incheon\, South Korea - Pokémon GO Safari Zone
-UID:c326e2af-c4bb-41f0-b7dd-2cc90584e168@c326.org
-URL:https://leekduck.com/events/pokemon-go-safari-zone-icheon-south-korea-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240808T040000Z
-DTEND:20240813T035959Z
-DTSTART:20240808T040000Z
-SUMMARY:Adventure Week: Taken Over
-UID:0aeaface-4202-4094-ba52-e7549061143d@0aea.org
-URL:https://leekduck.com/events/adventure-week-2024-taken-over/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240601T140000Z
-DTEND:20240903T140000Z
-DTSTART:20240601T140000Z
-SUMMARY:Shared Skies
-UID:386772ee-4259-421e-8460-20c52eda937a@3867.org
-URL:https://leekduck.com/events/season-15-shared-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T140000Z
-DTEND:20240731T000000Z
-DTSTART:20240725T140000Z
-SUMMARY:Strength of Steel (Ultra Unlock Part 2)
-UID:c24378f4-2cc8-454c-8b23-b617b34ef858@c243.org
-URL:https://leekduck.com/events/ultra-unlock-part-2-strength-of-steel/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240726T200000Z
-DTEND:20240802T200000Z
-DTSTART:20240726T200000Z
-SUMMARY:Great League and Fantasy Cup: Great League Edition | Shared Skies
-UID:41f85c72-b51a-4b55-9fd7-7674a7457e29@41f8.org
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_fantasy-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240813T220000Z
-DTEND:20240813T230000Z
-DTSTART:20240813T220000Z
-SUMMARY:Lileep Spotlight Hour
-UID:3d3e80b0-d2d6-4840-910f-46e8cacb125c@3d3e.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-08-13/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240717T140000Z
-DTEND:20240801T235959Z
-DTSTART:20240717T140000Z
-SUMMARY:Grow Together Ticket
-UID:a6c2c483-f340-406a-adad-162213d5d867@a6c2.org
-URL:https://leekduck.com/events/grow-together-ticket/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T140000Z
-DTEND:20240821T140000Z
-DTSTART:20240812T140000Z
-SUMMARY:Mega Kangaskhan in Mega Raids
-UID:6a8184f2-e137-4b54-a3b9-28c3dd180e9d@6a81.org
-URL:https://leekduck.com/events/mega-kangaskhan-in-mega-raids-august-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240821T220000Z
-DTEND:20240821T230000Z
-DTSTART:20240821T220000Z
-SUMMARY:Xerneas Raid Hour
-UID:f20a9a72-fe49-4196-92ef-3b4f952becd3@f20a.org
-URL:https://leekduck.com/events/raidhour20240821/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T220000Z
-DTEND:20240814T230000Z
-DTSTART:20240814T220000Z
-SUMMARY:Incarnate Forme Thundurus Raid Hour
-UID:501a5fcd-5ffd-40be-85d2-ea7e127e8aec@501a.org
-URL:https://leekduck.com/events/raidhour20240814/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240803T100000Z
-DTEND:20240901T020000Z
-DTSTART:20240803T100000Z
-SUMMARY:Shadow Suicune in Shadow Raids
-UID:fa97318a-a7c9-4562-9431-bb8cde7562ba@fa97.org
-URL:https://leekduck.com/events/shadow-suicune-in-shadow-raids-shared-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240807T220000Z
-DTEND:20240807T230000Z
-DTSTART:20240807T220000Z
-SUMMARY:Moltres Raid Hour
-UID:974674b3-af62-41a2-93e4-043fd2aac78c@9746.org
-URL:https://leekduck.com/events/raidhour20240807/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240803T140000Z
-DTEND:20240812T140000Z
-DTSTART:20240803T140000Z
-SUMMARY:Moltres in 5-star Raid Battles
-UID:3497acfa-aec7-4a9b-ab50-a92396d9f08d@3497.org
-URL:https://leekduck.com/events/moltres-in-5-star-raid-battles-august-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240823T140000Z
-DTEND:20240831T000000Z
-DTSTART:20240823T140000Z
-SUMMARY:Triumph Together
-UID:095cf0eb-cbda-4bda-803c-46d2db025b2d@095c.org
-URL:https://leekduck.com/events/triumph-together/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240729T140000Z
-DTEND:20240731T000000Z
-DTSTART:20240729T140000Z
-SUMMARY:Steel-type PokéStop Showcases
-UID:6fadf457-23a1-4530-bf09-e1fac4d16801@6fad.org
-URL:https://leekduck.com/events/pokemon-showcase-steel-type-2024-07-29/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240921T140000Z
-DTEND:20240922T220000Z
-DTSTART:20240921T140000Z
-SUMMARY:Jakarta\, Indonesia - Pokémon GO City Safari
-UID:2485adea-c87d-47c8-a6cb-4af73ee57c34@2485.org
-URL:https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240828T220000Z
-DTEND:20240828T230000Z
-DTSTART:20240828T220000Z
-SUMMARY:Xerneas Raid Hour
-UID:d74a0756-3e3a-4a6d-b38d-562d3a8712b5@d74a.org
-URL:https://leekduck.com/events/raidhour20240828/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240820T220000Z
-DTEND:20240820T230000Z
-DTSTART:20240820T220000Z
-SUMMARY:Mankey Spotlight Hour
-UID:0495b5ef-f149-49e3-8652-f27d38533561@0495.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-08-20/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20240816T200000Z
 DTEND:20240823T200000Z
 DTSTART:20240816T200000Z
 SUMMARY:Great League\, Ultra League\, Master League\, and the Catch Cup: Great League Edition | Shared Skies
-UID:8b27ce84-116c-4504-9186-de792d85135c@8b27.org
+UID:f0af566d-89fb-4455-90a8-b80f853d110c@f0af.org
 URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
@@ -198,120 +14,296 @@ DTSTAMP:20240723T140000Z
 DTEND:20240803T140000Z
 DTSTART:20240723T140000Z
 SUMMARY:Mega Aggron in Mega Raids
-UID:ddf03c97-9346-4653-af30-aa997ce649f6@ddf0.org
+UID:fcc7c991-2c99-4dbb-b583-5ce99d77ce00@fcc7.org
 URL:https://leekduck.com/events/mega-aggron-in-mega-raids-july-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T140000Z
-DTEND:20240803T140000Z
-DTSTART:20240723T140000Z
-SUMMARY:Incarnate Forme Tornadus in 5-star Raid Battles
-UID:7dde7be9-b2d6-4be1-8b11-a21ee372bd88@7dde.org
-URL:https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-july-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240809T200000Z
-DTEND:20240816T200000Z
-DTSTART:20240809T200000Z
-SUMMARY:Master League and Fossil Cup: Great League Edition | Shared Skies
-UID:39defbbf-52ed-42fd-95b0-ca6875be8175@39de.org
-URL:https://leekduck.com/events/gbl-shared-skies_master-league_fossil-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240730T220000Z
-DTEND:20240730T230000Z
-DTSTART:20240730T220000Z
-SUMMARY:Togedemaru Spotlight Hour
-UID:a70beb1a-75b7-493e-be0f-572958f1adb9@a70b.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-07-30/
+DTSTAMP:20240803T140000Z
+DTEND:20240812T140000Z
+DTSTART:20240803T140000Z
+SUMMARY:Moltres in 5-star Raid Battles
+UID:957b3b0c-2fe4-420f-b7e6-29c82d18fe27@957b.org
+URL:https://leekduck.com/events/moltres-in-5-star-raid-battles-august-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240821T140000Z
 DTEND:20240903T140000Z
 DTSTART:20240821T140000Z
 SUMMARY:Mega Salamence in Mega Raids
-UID:41134f69-7c38-44d0-ab5a-2e96129fd1b2@4113.org
+UID:6753974a-5702-42db-ab76-2b346f6e61a7@6753.org
 URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240802T140000Z
-DTEND:20240813T035959Z
-DTSTART:20240802T140000Z
-SUMMARY:Adventure Week 2024
-UID:1e593dab-82b6-4f88-a3f7-eb6dfcfb1989@1e59.org
-URL:https://leekduck.com/events/adventure-week-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240816T040000Z
-DTEND:20240821T035900Z
-DTSTART:20240816T040000Z
-SUMMARY:GO Battle Weekend: Shared Skies
-UID:b2529f25-48d1-42b6-b830-8b66a52fcb5f@b252.org
-URL:https://leekduck.com/events/go-battle-week-shared-skies/
+DTSTAMP:20240927T143000Z
+DTEND:20240929T233000Z
+DTSTART:20240927T143000Z
+SUMMARY:Incheon\, South Korea - Pokémon GO Safari Zone
+UID:b9ff79aa-9773-4147-ad98-0095f36be267@b9ff.org
+URL:https://leekduck.com/events/pokemon-go-safari-zone-icheon-south-korea-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240823T200000Z
 DTEND:20240903T200000Z
 DTSTART:20240823T200000Z
 SUMMARY:Great League\, Ultra League\, and Master League | Shared Skies
-UID:f46ce992-10bc-4c9c-8228-8b93069852e0@f46c.org
+UID:f6d649a6-045b-4fa1-aff5-fa715c49d343@f6d6.org
 URL:https://leekduck.com/events/gbl-shared-skies_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240806T220000Z
-DTEND:20240806T230000Z
-DTSTART:20240806T220000Z
-SUMMARY:Drilbur Spotlight Hour
-UID:cde52d3a-21ad-45b0-b2a1-9fc968acd4f0@cde5.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-08-06/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240601T140000Z
 DTEND:20240903T140000Z
 DTSTART:20240601T140000Z
 SUMMARY:Shared Skies Research Breakthrough
-UID:b847da7e-fd9d-40af-a53f-f0ed4fa33d37@b847.org
+UID:f3b449d7-a1d1-4ea4-be81-bf26234b9aa9@f3b4.org
 URL:https://leekduck.com/events/season-15-shared-skies-research-breakthrough/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240802T200000Z
-DTEND:20240809T200000Z
-DTSTART:20240802T200000Z
-SUMMARY:Ultra League and Fossil Cup: Great League Edition | Shared Skies
-UID:960155ad-ad39-4e89-b397-29f08f827a6e@9601.org
-URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_fossil-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240803T170000Z
-DTEND:20240803T224500Z
-DTSTART:20240803T170000Z
-SUMMARY:Mega Rayquaza in Elite Raids - Makeup
-UID:14991346-e4af-4e63-a50f-e66711eb7d52@1499.org
-URL:https://leekduck.com/events/elite-raids-rayquaza-makeup/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240731T220000Z
-DTEND:20240731T230000Z
-DTSTART:20240731T220000Z
-SUMMARY:Incarnate Forme Tornadus Raid Hour
-UID:7d185d77-3be0-45c1-9ac9-292088d24bfc@7d18.org
-URL:https://leekduck.com/events/raidhour20240731/
+DTSTAMP:20240813T220000Z
+DTEND:20240813T230000Z
+DTSTART:20240813T220000Z
+SUMMARY:Lileep Spotlight Hour
+UID:a9b29173-818c-4b2b-a5a2-46678fc721fe@a9b2.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-13/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240803T140000Z
 DTEND:20240812T140000Z
 DTSTART:20240803T140000Z
 SUMMARY:Mega Aerodactyl in Mega Raids
-UID:db519a7c-4b67-41e5-8247-9ea66c4412a7@db51.org
+UID:0dbd8872-a279-4d28-93ea-ea6b7f3b8e14@0dbd.org
 URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-august-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240820T220000Z
+DTEND:20240820T230000Z
+DTSTART:20240820T220000Z
+SUMMARY:Mankey Spotlight Hour
+UID:d7d42f62-6d11-46ba-aca7-517d0cd4e7dd@d7d4.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-20/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240803T150000Z
+DTEND:20240803T230000Z
+DTSTART:20240803T150000Z
+SUMMARY:Mega Rayquaza Special Raid Event - Makeup
+UID:12e14abc-ce83-4dad-83e9-adf231467cd1@12e1.org
+URL:https://leekduck.com/events/special-raid-event-rayquaza-makeup/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240803T100000Z
+DTEND:20240901T020000Z
+DTSTART:20240803T100000Z
+SUMMARY:Shadow Suicune in Shadow Raids
+UID:a6514d2a-c709-4874-9690-19e126d2a613@a651.org
+URL:https://leekduck.com/events/shadow-suicune-in-shadow-raids-shared-skies/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240810T100000Z
 DTEND:20240812T020000Z
 DTSTART:20240810T100000Z
-SUMMARY:Unannounced Shadow Raid Weekend
-UID:86f84543-12b7-43bd-a6a4-b2bcf232904d@86f8.org
-URL:https://leekduck.com/events/unannounced-shadow-raid-weekend-season15/
+SUMMARY:Shadow Lugia in Shadow Raids
+UID:64310928-33b8-4769-9e6e-35d1e7028396@6431.org
+URL:https://leekduck.com/events/shadow-lugia-in-shadow-raids-shared-skies/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240809T200000Z
+DTEND:20240816T200000Z
+DTSTART:20240809T200000Z
+SUMMARY:Master League and Fossil Cup: Great League Edition | Shared Skies
+UID:9fdef0dd-aa34-4ec2-bfa3-3cdd107bac77@9fde.org
+URL:https://leekduck.com/events/gbl-shared-skies_master-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240831T180000Z
+DTEND:20240831T210000Z
+DTSTART:20240831T180000Z
+SUMMARY:Popplio Community Day
+UID:15259a21-a2a3-40df-b24f-03bdca046737@1525.org
+URL:https://leekduck.com/events/august-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T140000Z
+DTEND:20240731T000000Z
+DTSTART:20240729T140000Z
+SUMMARY:Steel-type PokéStop Showcases
+UID:ade29d69-46b7-4f60-8b6b-c25ee8a23194@ade2.org
+URL:https://leekduck.com/events/pokemon-showcase-steel-type-2024-07-29/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T140000Z
+DTEND:20240803T140000Z
+DTSTART:20240723T140000Z
+SUMMARY:Incarnate Forme Tornadus in 5-star Raid Battles
+UID:bbe2b56f-7eaf-4c72-a4eb-184669a65804@bbe2.org
+URL:https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-july-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T220000Z
+DTEND:20240806T230000Z
+DTSTART:20240806T220000Z
+SUMMARY:Drilbur Spotlight Hour
+UID:6d4e570f-f2e7-41fc-a7ca-0378160b6dde@6d4e.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-06/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240823T140000Z
+DTEND:20240831T000000Z
+DTSTART:20240823T140000Z
+SUMMARY:Triumph Together
+UID:ae47cbd9-e5fb-444e-9807-157bbb1e903a@ae47.org
+URL:https://leekduck.com/events/triumph-together/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240802T140000Z
+DTEND:20240813T035959Z
+DTSTART:20240802T140000Z
+SUMMARY:Adventure Week 2024
+UID:5e6294ef-bb2e-4a1d-a16a-8365a080eb2e@5e62.org
+URL:https://leekduck.com/events/adventure-week-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240821T220000Z
+DTEND:20240821T230000Z
+DTSTART:20240821T220000Z
+SUMMARY:Xerneas Raid Hour
+UID:32482586-dd03-4cf6-9cc6-252f6fa8de18@3248.org
+URL:https://leekduck.com/events/raidhour20240821/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240827T220000Z
+DTEND:20240827T230000Z
+DTSTART:20240827T220000Z
+SUMMARY:Magnemite Spotlight Hour
+UID:536a84e3-df4a-480b-9b50-ad02feca50a3@536a.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-27/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240601T140000Z
+DTEND:20240903T140000Z
+DTSTART:20240601T140000Z
+SUMMARY:Shared Skies
+UID:4b618cbd-2745-463c-9094-1d8be9a409b9@4b61.org
+URL:https://leekduck.com/events/season-15-shared-skies/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240812T140000Z
+DTEND:20240821T140000Z
+DTSTART:20240812T140000Z
+SUMMARY:Mega Kangaskhan in Mega Raids
+UID:7bf3a037-0fb6-4c28-9ff9-9df6f4ffef66@7bf3.org
+URL:https://leekduck.com/events/mega-kangaskhan-in-mega-raids-august-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240828T220000Z
+DTEND:20240828T230000Z
+DTSTART:20240828T220000Z
+SUMMARY:Xerneas Raid Hour
+UID:cd2e8817-b0ec-4134-a7a1-c6cca3170791@cd2e.org
+URL:https://leekduck.com/events/raidhour20240828/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240814T220000Z
+DTEND:20240814T230000Z
+DTSTART:20240814T220000Z
+SUMMARY:Incarnate Forme Thundurus Raid Hour
+UID:0f57074f-e268-4622-9489-2954199bcaff@0f57.org
+URL:https://leekduck.com/events/raidhour20240814/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240821T140000Z
+DTEND:20240903T140000Z
+DTSTART:20240821T140000Z
+SUMMARY:Xerneas in 5-star Raid Battles
+UID:3e447e91-f5a9-4173-8f8f-48b247188f03@3e44.org
+URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-august-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240812T140000Z
+DTEND:20240821T140000Z
+DTSTART:20240812T140000Z
+SUMMARY:Incarnate Forme Thundurus in 5-star Raid Battles
+UID:249c8f74-9df8-4507-8ac5-821e1d07d220@249c.org
+URL:https://leekduck.com/events/thundurus-in-5-star-raid-battles-august-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240717T140000Z
+DTEND:20240801T235959Z
+DTSTART:20240717T140000Z
+SUMMARY:Grow Together Ticket
+UID:867b72ec-4ee3-4cb6-8ac8-592d84982cc3@867b.org
+URL:https://leekduck.com/events/grow-together-ticket/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240816T040000Z
+DTEND:20240821T035900Z
+DTSTART:20240816T040000Z
+SUMMARY:GO Battle Weekend: Shared Skies
+UID:2b94be46-8f39-466d-8cfd-80012750f6c6@2b94.org
+URL:https://leekduck.com/events/go-battle-week-shared-skies/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240921T140000Z
+DTEND:20240922T220000Z
+DTSTART:20240921T140000Z
+SUMMARY:Jakarta\, Indonesia - Pokémon GO City Safari
+UID:f550738f-f052-4cc6-8653-f031dafcfd37@f550.org
+URL:https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240807T220000Z
+DTEND:20240807T230000Z
+DTSTART:20240807T220000Z
+SUMMARY:Moltres Raid Hour
+UID:95d2078f-9c56-4112-af92-cef65917737f@95d2.org
+URL:https://leekduck.com/events/raidhour20240807/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240802T200000Z
+DTEND:20240809T200000Z
+DTSTART:20240802T200000Z
+SUMMARY:Ultra League and Fossil Cup: Great League Edition | Shared Skies
+UID:606e32d8-e718-4afd-8573-5f2c96588e4e@606e.org
+URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240808T040000Z
+DTEND:20240813T035959Z
+DTSTART:20240808T040000Z
+SUMMARY:Adventure Week: Taken Over
+UID:a2f68fcc-a110-4b3f-8728-9b7931bd97b0@a2f6.org
+URL:https://leekduck.com/events/adventure-week-2024-taken-over/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T140000Z
+DTEND:20240731T000000Z
+DTSTART:20240725T140000Z
+SUMMARY:Strength of Steel (Ultra Unlock Part 2)
+UID:43a8f40d-9d8d-4f4f-8808-63c5e5b0c46a@43a8.org
+URL:https://leekduck.com/events/ultra-unlock-part-2-strength-of-steel/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T200000Z
+DTEND:20240802T200000Z
+DTSTART:20240726T200000Z
+SUMMARY:Great League and Fantasy Cup: Great League Edition | Shared Skies
+UID:941b103a-301b-424d-bf43-bc6416c75128@941b.org
+URL:https://leekduck.com/events/gbl-shared-skies_great-league_fantasy-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240730T220000Z
+DTEND:20240730T230000Z
+DTSTART:20240730T220000Z
+SUMMARY:Togedemaru Spotlight Hour
+UID:69c61d40-c3b5-4aa8-b1ae-276069c8309e@69c6.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-30/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240731T220000Z
+DTEND:20240731T230000Z
+DTSTART:20240731T220000Z
+SUMMARY:Incarnate Forme Tornadus Raid Hour
+UID:ac1111c9-f91f-4533-8f3b-b43aa17214e0@ac11.org
+URL:https://leekduck.com/events/raidhour20240731/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
