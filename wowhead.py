@@ -95,7 +95,7 @@ if __name__ == "__main__":
         title = get_title(item)
         title_lower = title.strip().lower()
 
-        if "prime gaming" not in title_lower:
+        if "prime gaming" not in title_lower and "twitch drop" not in title_lower:
             continue
 
         link = get_link(item)
