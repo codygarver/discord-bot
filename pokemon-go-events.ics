@@ -2,59 +2,155 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20240914T180000Z
-DTEND:20240914T210000Z
-DTSTART:20240914T180000Z
-SUMMARY:Ponyta Community Day
-UID:379cc2ba-d1be-481e-a50e-57a2ca8c7a1d@379c.org
-URL:https://leekduck.com/events/september-communityday2024/
+DTSTAMP:20240903T140000Z
+DTEND:20241203T140000Z
+DTSTART:20240903T140000Z
+SUMMARY:Max Out
+UID:ef42e1b7-0179-4130-bad9-f9000ff6f52b@ef42.org
+URL:https://leekduck.com/events/season-16-max-out/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240917T220000Z
-DTEND:20240917T230000Z
-DTSTART:20240917T220000Z
-SUMMARY:Wobbuffet Spotlight Hour
-UID:41b6716a-b7da-498d-bd60-b7e6f8716a44@41b6.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-09-17/
+DTSTAMP:20240925T220000Z
+DTEND:20240925T230000Z
+DTSTART:20240925T220000Z
+SUMMARY:Groudon Raid Hour
+UID:b1015079-46c3-463f-b704-77a63a9c614f@b101.org
+URL:https://leekduck.com/events/raidhour20240925/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T140000Z
-DTEND:20241118T000000Z
-DTSTART:20241116T140000Z
-SUMMARY:Pokémon GO Wild Area: Fukuoka
-UID:8bb075d5-b1b2-46a9-aee6-0cc8b918ab6c@8bb0.org
-URL:https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/
+DTSTAMP:20240910T140000Z
+DTEND:20240916T000000Z
+DTSTART:20240910T140000Z
+SUMMARY:GO Big
+UID:ba3d92d3-1ed0-433a-b26a-76457b633739@ba3d.org
+URL:https://leekduck.com/events/go-big-dynamax/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240926T140000Z
-DTEND:20241004T140000Z
+DTEND:20241002T000000Z
 DTSTART:20240926T140000Z
-SUMMARY:Zacian in 5-star Raid Battles
-UID:acb7bb50-113a-40e2-bf9f-19da175be709@acb7.org
-URL:https://leekduck.com/events/zacian-in-5-star-raid-battles-september-2024/
+SUMMARY:Legendary Heroes
+UID:ccf88aae-7ee2-43ed-bd3e-ec65874cd2a3@ccf8.org
+URL:https://leekduck.com/events/legendary-heroes/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240922T180000Z
-DTEND:20240922T210000Z
-DTSTART:20240922T180000Z
-SUMMARY:Oranguru and Passimian Research Day
-UID:a1a40121-148b-4ee8-9d54-314bf89fc5c7@a1a4.org
-URL:https://leekduck.com/events/oranguru-and-passimian-research-day-september-2024/
+DTSTAMP:20240921T140000Z
+DTEND:20240922T220000Z
+DTSTART:20240921T140000Z
+SUMMARY:Jakarta\, Indonesia - Pokémon GO City Safari
+UID:d6ffd88f-f8f8-42a8-ab30-09ac2557a2ef@d6ff.org
+URL:https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T143000Z
+DTEND:20240929T233000Z
+DTSTART:20240927T143000Z
+SUMMARY:Incheon\, South Korea - Pokémon GO Safari Zone
+UID:ea0909d3-8068-42ad-b369-f0205613825b@ea09.org
+URL:https://leekduck.com/events/pokemon-go-safari-zone-icheon-south-korea-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T220000Z
+DTEND:20240924T230000Z
+DTSTART:20240924T220000Z
+SUMMARY:Machop Spotlight Hour
+UID:83e9a168-d521-4946-8532-d09c712cca53@83e9.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-09-24/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240917T200000Z
+DTEND:20240924T200000Z
+DTSTART:20240917T200000Z
+SUMMARY:Master League and Psychic Cup: Great League Edition | Max Out
+UID:14e8d5fc-77a5-49e0-88ce-9e3b989a126d@14e8.org
+URL:https://leekduck.com/events/gbl-max-out_master-league_psychic-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241019T180000Z
 DTEND:20241019T210000Z
 DTSTART:20241019T180000Z
 SUMMARY:Unannounced Research Day
-UID:00c5046e-4311-4f8b-8d70-8d2e8acb2793@00c5.org
+UID:a8b9894f-530c-494b-8f8f-4081498f4420@a8b9.org
 URL:https://leekduck.com/events/unannounced-research-day-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240903T140000Z
+DTEND:20240914T140000Z
+DTSTART:20240903T140000Z
+SUMMARY:Mega Absol in Mega Raids
+UID:58b8fb24-dfb7-4a53-b09d-6567ede64f4e@58b8.org
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-september-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240914T180000Z
+DTEND:20240914T210000Z
+DTSTART:20240914T180000Z
+SUMMARY:Ponyta Community Day
+UID:198cfeed-ac20-429c-b2a2-82b582188499@198c.org
+URL:https://leekduck.com/events/september-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T180000Z
+DTEND:20241005T210000Z
+DTSTART:20241005T180000Z
+SUMMARY:October Community Day
+UID:9b0b9033-3ee3-4f33-9487-650fd3945c23@9b0b.org
+URL:https://leekduck.com/events/october-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241012T180000Z
+DTEND:20241012T210000Z
+DTSTART:20241012T180000Z
+SUMMARY:Unannounced Raid Day
+UID:3d7a13e8-c603-4480-b187-15df97aa93a2@3d7a.org
+URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240922T180000Z
+DTEND:20240922T210000Z
+DTSTART:20240922T180000Z
+SUMMARY:Oranguru and Passimian Research Day
+UID:099706d1-ad4c-4bab-9a84-e830aabddb14@0997.org
+URL:https://leekduck.com/events/oranguru-and-passimian-research-day-september-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240914T140000Z
+DTEND:20240926T140000Z
+DTSTART:20240914T140000Z
+SUMMARY:Groudon in 5-star Raid Battles
+UID:7f74d910-7747-49ef-abfb-7ba3f1828565@7f74.org
+URL:https://leekduck.com/events/groudon-in-5-star-raid-battles-september-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240903T040000Z
+DTEND:20241002T155959Z
+DTSTART:20240903T040000Z
+SUMMARY:Daily PokéCoin Bounty Part 1 Ticket
+UID:9ebaa85b-aa90-4386-b78e-0a59ef6d9d42@9eba.org
+URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241110T180000Z
+DTEND:20241110T210000Z
+DTSTART:20241110T180000Z
+SUMMARY:November Community Day
+UID:5e41f095-439d-497a-843c-f42a728f6d87@5e41.org
+URL:https://leekduck.com/events/november-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240914T140000Z
+DTEND:20240926T140000Z
+DTSTART:20240914T140000Z
+SUMMARY:Mega Houndoom in Mega Raids
+UID:6f9c7b08-a829-420e-b17d-ccac9420c68e@6f9c.org
+URL:https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240918T140000Z
 DTEND:20240923T000000Z
 DTSTART:20240918T140000Z
 SUMMARY:Psychic Spectacular 2024
-UID:0411ade1-95f1-449f-a132-2a80384ee4a6@0411.org
+UID:6547dea9-b624-4405-a05a-28b19025d7a0@6547.org
 URL:https://leekduck.com/events/psychic-spectacular-2024/
 END:VEVENT
 BEGIN:VEVENT
@@ -62,168 +158,72 @@ DTSTAMP:20240910T200000Z
 DTEND:20240917T200000Z
 DTSTART:20240910T200000Z
 SUMMARY:Ultra League and Galar Cup: Little Edition | Max Out
-UID:bf65fb0f-06db-4234-adc3-de33f6c3181c@bf65.org
+UID:49be9e8d-dca4-49b5-9091-03190b914079@49be.org
 URL:https://leekduck.com/events/gbl-max-out_ultra-league_galar-cup-little-edition/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240903T040000Z
-DTEND:20241002T155959Z
-DTSTART:20240903T040000Z
-SUMMARY:Daily PokéCoin Bounty Part 1 Ticket
-UID:dfa726d1-ec21-40cd-98eb-d04ec202bfdf@dfa7.org
-URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240903T140000Z
-DTEND:20240914T140000Z
-DTSTART:20240903T140000Z
-SUMMARY:Mega Absol in Mega Raids
-UID:f57bd3f7-be1f-4fbe-aff7-8392034af006@f57b.org
-URL:https://leekduck.com/events/mega-absol-in-mega-raids-september-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240914T140000Z
-DTEND:20240926T140000Z
-DTSTART:20240914T140000Z
-SUMMARY:Mega Houndoom in Mega Raids
-UID:98265cb9-8927-4d35-b3e9-57573268fcbb@9826.org
-URL:https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2024/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20240926T140000Z
-DTEND:20241002T000000Z
+DTEND:20241004T140000Z
 DTSTART:20240926T140000Z
-SUMMARY:Legendary Heroes
-UID:b3cbff11-93d8-4c80-b5e0-364a2e9a6a8a@b3cb.org
-URL:https://leekduck.com/events/legendary-heroes/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240910T140000Z
-DTEND:20240916T000000Z
-DTSTART:20240910T140000Z
-SUMMARY:GO Big
-UID:bc3165bc-9b8b-46ea-a985-bea5a9b1c7ad@bc31.org
-URL:https://leekduck.com/events/go-big-dynamax/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240918T220000Z
-DTEND:20240918T230000Z
-DTSTART:20240918T220000Z
-SUMMARY:Groudon Raid Hour
-UID:440b96e6-336e-4256-b85b-1a888c8b5d9b@440b.org
-URL:https://leekduck.com/events/raidhour20240918/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240921T140000Z
-DTEND:20240922T220000Z
-DTSTART:20240921T140000Z
-SUMMARY:Jakarta\, Indonesia - Pokémon GO City Safari
-UID:1442258a-2fac-4218-9dc2-7949f0cf1b58@1442.org
-URL:https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T180000Z
-DTEND:20241005T210000Z
-DTSTART:20241005T180000Z
-SUMMARY:October Community Day
-UID:b82c3819-2beb-4b4d-9667-1d144232b7fe@b82c.org
-URL:https://leekduck.com/events/october-communityday2024/
+SUMMARY:Zacian in 5-star Raid Battles
+UID:57b03ec9-9c77-4aaa-9bbc-2258c77c995f@57b0.org
+URL:https://leekduck.com/events/zacian-in-5-star-raid-battles-september-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241123T140000Z
 DTEND:20241125T000000Z
 DTSTART:20241123T140000Z
 SUMMARY:Pokémon GO Wild Area: Global
-UID:b3ee910d-7a4f-4cf6-b360-5e5c618fee13@b3ee.org
+UID:31a3fe15-457a-4773-a38f-ede079ec1a60@31a3.org
 URL:https://leekduck.com/events/pokemon-go-wild-area-2024-global/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240924T220000Z
-DTEND:20240924T230000Z
-DTSTART:20240924T220000Z
-SUMMARY:Machop Spotlight Hour
-UID:870da37e-d87d-4004-ad19-aee25cd0085c@870d.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-09-24/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240926T140000Z
-DTEND:20241004T140000Z
-DTSTART:20240926T140000Z
-SUMMARY:Mega Gardevoir in Mega Raids
-UID:9734eb64-3ab1-44c6-94dd-f7a4f18cce89@9734.org
-URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2024/
+DTSTAMP:20240917T220000Z
+DTEND:20240917T230000Z
+DTSTART:20240917T220000Z
+SUMMARY:Wobbuffet Spotlight Hour
+UID:04c386ef-a3f1-44d3-93fb-cfc45ff527b2@04c3.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-09-17/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240903T140000Z
 DTEND:20240914T140000Z
 DTSTART:20240903T140000Z
 SUMMARY:Kyogre in 5-star Raid Battles
-UID:908fd6dc-5e0f-4a50-8c41-b486fdad4d53@908f.org
+UID:ea877d60-71cc-437b-b36d-6a0e1abe4173@ea87.org
 URL:https://leekduck.com/events/kyogre-in-5-star-raid-battles-september-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240903T140000Z
-DTEND:20241203T140000Z
-DTSTART:20240903T140000Z
-SUMMARY:Max Out
-UID:43fc2230-84af-40e7-a91f-560620415fe1@43fc.org
-URL:https://leekduck.com/events/season-16-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T180000Z
-DTEND:20241110T210000Z
-DTSTART:20241110T180000Z
-SUMMARY:November Community Day
-UID:921cd52a-dca4-4e71-80bb-04e41672e626@921c.org
-URL:https://leekduck.com/events/november-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240917T200000Z
-DTEND:20240924T200000Z
-DTSTART:20240917T200000Z
-SUMMARY:Master League and Psychic Cup: Great League Edition | Max Out
-UID:26d5d42d-8a11-404a-b5bb-f80ef7b0a636@26d5.org
-URL:https://leekduck.com/events/gbl-max-out_master-league_psychic-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241012T180000Z
-DTEND:20241012T210000Z
-DTSTART:20241012T180000Z
-SUMMARY:Unannounced Raid Day
-UID:c2416b12-0fc3-4c88-8199-ccace7237817@c241.org
-URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240914T140000Z
-DTEND:20240926T140000Z
-DTSTART:20240914T140000Z
-SUMMARY:Groudon in 5-star Raid Battles
-UID:7955e673-b9fe-4bee-a841-47a5c7bce923@7955.org
-URL:https://leekduck.com/events/groudon-in-5-star-raid-battles-september-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240927T143000Z
-DTEND:20240929T233000Z
-DTSTART:20240927T143000Z
-SUMMARY:Incheon\, South Korea - Pokémon GO Safari Zone
-UID:60751e3c-b497-4330-a7e3-1f38f2fee9b9@6075.org
-URL:https://leekduck.com/events/pokemon-go-safari-zone-icheon-south-korea-2024/
+DTSTAMP:20240918T220000Z
+DTEND:20240918T230000Z
+DTSTART:20240918T220000Z
+SUMMARY:Groudon Raid Hour
+UID:0ea9676e-a46f-4f93-981b-811258033fa4@0ea9.org
+URL:https://leekduck.com/events/raidhour20240918/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240901T100000Z
 DTEND:20240930T020000Z
 DTSTART:20240901T100000Z
 SUMMARY:Shadow Raikou in Shadow Raids
-UID:b617bfae-e6ad-4731-9a66-2e82135cfd85@b617.org
+UID:416a7a52-c8e5-49d7-86f8-d8eb373376e4@416a.org
 URL:https://leekduck.com/events/shadow-raikou-in-shadow-raids-max-out/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240925T220000Z
-DTEND:20240925T230000Z
-DTSTART:20240925T220000Z
-SUMMARY:Groudon Raid Hour
-UID:d1ea4629-11cf-4cda-9ef4-89be1016fe43@d1ea.org
-URL:https://leekduck.com/events/raidhour20240925/
+DTSTAMP:20241116T140000Z
+DTEND:20241118T000000Z
+DTSTART:20241116T140000Z
+SUMMARY:Pokémon GO Wild Area: Fukuoka
+UID:07c85d9c-8d32-411e-87d3-e28df2345b20@07c8.org
+URL:https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T140000Z
+DTEND:20241004T140000Z
+DTSTART:20240926T140000Z
+SUMMARY:Mega Gardevoir in Mega Raids
+UID:57fcbe3d-6e83-49b0-8c7c-11e4440bcf8d@57fc.org
+URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2024/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
