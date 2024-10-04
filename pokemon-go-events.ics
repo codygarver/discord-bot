@@ -2,291 +2,219 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20241126T210000Z
-DTEND:20241203T210000Z
-DTSTART:20241126T210000Z
-SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great League Edition | Max Out
-UID:637a36ac-9791-4598-91f7-63904fb120db@637a.org
-URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-league-edition/
+DTSTAMP:20241012T180000Z
+DTEND:20241012T210000Z
+DTSTART:20241012T180000Z
+SUMMARY:Mega Mawile Raid Day
+UID:93949a70-54fe-4b78-b18e-a97875b2dd31@9394.org
+URL:https://leekduck.com/events/mega-mawile-raid-day/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T210000Z
-DTEND:20241119T210000Z
-DTSTART:20241112T210000Z
-SUMMARY:Ultra League and Willpower Cup | Max Out
-UID:883858b5-4731-4a8a-ada3-89f96a2c0fba@8838.org
-URL:https://leekduck.com/events/gbl-max-out_ultra-league_willpower-cup/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241009T220000Z
-DTEND:20241009T230000Z
-DTSTART:20241009T220000Z
-SUMMARY:Zamazenta Raid Hour
-UID:8af8835b-11d6-408d-9452-a91b782064d3@8af8.org
-URL:https://leekduck.com/events/raidhour20241009/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241023T220000Z
-DTEND:20241023T230000Z
-DTSTART:20241023T220000Z
-SUMMARY:Origin Forme Giratina Raid Hour
-UID:3e0885d4-5a47-478b-aaaf-a174a9cf40ea@3e08.org
-URL:https://leekduck.com/events/raidhour20241023/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241026T140000Z
-DTEND:20241028T000000Z
-DTSTART:20241026T140000Z
-SUMMARY:Unannounced Event
-UID:74ca1115-bbd5-4d78-b93a-89d41768adc8@74ca.org
-URL:https://leekduck.com/events/unannnounced-event-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241102T040000Z
-DTEND:20241104T035900Z
-DTSTART:20241102T040000Z
-SUMMARY:GO Battle Weekend: Max Out
-UID:a88ec617-a554-486b-87c2-a9d1e1e5bf13@a88e.org
-URL:https://leekduck.com/events/go-battle-weekend-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T040000Z
-DTEND:20241018T035900Z
-DTSTART:20241015T040000Z
-SUMMARY:Magnetic Study
-UID:dcaa86b5-3dca-408b-9809-843887c2f916@dcaa.org
-URL:https://leekduck.com/events/magnetic-study/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240903T140000Z
-DTEND:20241203T140000Z
-DTSTART:20240903T140000Z
-SUMMARY:Max Out
-UID:bf5cdc17-03ff-4e51-b510-6ba293f19ef1@bf5c.org
-URL:https://leekduck.com/events/season-16-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240926T140000Z
-DTEND:20241004T140000Z
-DTSTART:20240926T140000Z
-SUMMARY:Zacian in 5-star Raid Battles
-UID:c996b6aa-dd7f-4727-bfe6-72df505093c0@c996.org
-URL:https://leekduck.com/events/zacian-in-5-star-raid-battles-september-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241119T210000Z
-DTEND:20241126T210000Z
-DTSTART:20241119T210000Z
-SUMMARY:Master League and Retro Cup | Max Out
-UID:9a06c7bf-f3a7-4cb1-95f9-d2c20a002eb8@9a06.org
-URL:https://leekduck.com/events/gbl-max-out_master-league_retro-cup/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T200000Z
-DTEND:20241008T200000Z
-DTSTART:20241001T200000Z
-SUMMARY:Great League and Galar Cup: Great League Edition | Max Out
-UID:dd4320e8-3c03-4652-a776-8882ac816549@dd43.org
-URL:https://leekduck.com/events/gbl-max-out_great-league_galar-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T220000Z
-DTEND:20241015T230000Z
-DTSTART:20241015T220000Z
-SUMMARY:Shroomish Spotlight Hour
-UID:f1ba145b-3d1b-4f60-8e55-383a2634c752@f1ba.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-10-15/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241004T140000Z
-DTEND:20241014T140000Z
-DTSTART:20241004T140000Z
-SUMMARY:Zamazenta in 5-star Raid Battles
-UID:9e10f25c-c197-4c45-897b-ede35f1262e2@9e10.org
-URL:https://leekduck.com/events/zamazenta-in-5-star-raid-battles-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T180000Z
-DTEND:20241110T210000Z
-DTSTART:20241110T180000Z
-SUMMARY:November Community Day
-UID:7a20a63a-62a4-45c4-aab1-4213513ff0ca@7a20.org
-URL:https://leekduck.com/events/november-communityday2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241022T140000Z
-DTEND:20241028T140000Z
-DTSTART:20241022T140000Z
-SUMMARY:Pokémon GO Halloween 2024 - Part 1
-UID:c73e1517-52b2-4563-ab0e-2de8acc897c7@c73e.org
-URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-1/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241030T220000Z
-DTEND:20241030T230000Z
-DTSTART:20241030T220000Z
-SUMMARY:Darkrai Raid Hour
-UID:d94378ff-756a-499d-8747-8749e7f97794@d943.org
-URL:https://leekduck.com/events/raidhour20241030/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T200000Z
-DTEND:20241105T200000Z
-DTSTART:20241029T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Max Out
-UID:75442093-d3a4-4b8d-9e34-98583b72e9ef@7544.org
-URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241004T140000Z
-DTEND:20241012T000000Z
-DTSTART:20241004T140000Z
-SUMMARY:Galarian Expedition
-UID:466b2630-acd0-4a5f-91e0-8cd36717b164@466b.org
-URL:https://leekduck.com/events/galarian-expedition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T220000Z
-DTEND:20241029T230000Z
-DTSTART:20241029T220000Z
-SUMMARY:Unannoucned Spotlight Hour
-UID:118365cb-a7b6-4c7a-b08c-923096ced124@1183.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-10-29/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241123T140000Z
-DTEND:20241124T221500Z
-DTSTART:20241123T140000Z
-SUMMARY:Pokémon GO Wild Area: Global
-UID:c3e1830d-a2a3-43b3-947a-03f3212c3fe6@c3e1.org
-URL:https://leekduck.com/events/pokemon-go-wild-area-2024-global/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241031T140000Z
-DTEND:20241104T000000Z
-DTSTART:20241031T140000Z
-SUMMARY:Unannounced Event
-UID:5d23e16f-3b35-45d5-af56-b890722fc079@5d23.org
-URL:https://leekduck.com/events/unannnounced-event-max-out-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240926T140000Z
-DTEND:20241004T140000Z
-DTSTART:20240926T140000Z
-SUMMARY:Mega Gardevoir in Mega Raids
-UID:740f66c3-c68c-42b9-8534-232cad84b374@740f.org
-URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241105T210000Z
-DTEND:20241112T210000Z
-DTSTART:20241105T210000Z
-SUMMARY:Great League and Master Premier | Max Out
-UID:155ad357-6dfc-43d3-8631-9422ee23c894@155a.org
-URL:https://leekduck.com/events/gbl-max-out_great-league_master-premier/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241028T140000Z
-DTEND:20241104T000000Z
-DTSTART:20241028T140000Z
-SUMMARY:Pokémon GO Halloween 2024 - Part 2
-UID:1e3541ac-876e-4364-a971-78b26a0f7f5a@1e35.org
-URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241022T220000Z
-DTEND:20241022T230000Z
-DTSTART:20241022T220000Z
-SUMMARY:Gastly\, Duskull\, and Litwick Spotlight Hour
-UID:d643ffdc-4faa-4df0-8ecd-9f4610b330a8@d643.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-10-22/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241003T040000Z
-DTEND:20241102T155959Z
-DTSTART:20241003T040000Z
-SUMMARY:Daily PokéCoin Bounty Part 2 Ticket
-UID:dba74474-c8f1-42b5-8b00-a87826b50a66@dba7.org
-URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out-part-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241004T140000Z
-DTEND:20241014T140000Z
-DTSTART:20241004T140000Z
-SUMMARY:Mega Blaziken in Mega Raids
-UID:83741672-93b1-45fc-8b15-3f1b936325f2@8374.org
-URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241028T140000Z
-DTEND:20241104T140000Z
-DTSTART:20241028T140000Z
-SUMMARY:Mega Banette in Mega Raids
-UID:d1b1d1c8-ad4d-4509-adf9-ec76684ded7e@d1b1.org
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241008T200000Z
-DTEND:20241015T200000Z
-DTSTART:20241008T200000Z
-SUMMARY:Ultra League and Sunshine Cup | Max Out
-UID:ed6515a6-d8cf-4c84-a7a4-72ad8c2b0288@ed65.org
-URL:https://leekduck.com/events/gbl-max-out_ultra-league_sunshine-cup/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241028T140000Z
-DTEND:20241104T140000Z
-DTSTART:20241028T140000Z
-SUMMARY:Darkrai in 5-star Raid Battles
-UID:230c7bf1-4f52-4d9b-91f4-dda005d1747c@230c.org
-URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241022T200000Z
-DTEND:20241029T200000Z
-DTSTART:20241022T200000Z
-SUMMARY:Great League Remix and Halloween Cup: Great League Edition | Max Out
-UID:deba6633-0fe3-4c1f-83d9-b28de6eb088a@deba.org
-URL:https://leekduck.com/events/gbl-max-out_great-league-remix_halloween-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T100000Z
-DTEND:20241028T020000Z
-DTSTART:20241005T100000Z
-SUMMARY:Shadow Entei in Shadow Raids
-UID:b3377829-f024-4992-bef1-9bed3b8386e6@b337.org
-URL:https://leekduck.com/events/shadow-entei-in-shadow-raids-max-out/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241016T220000Z
-DTEND:20241016T230000Z
-DTSTART:20241016T220000Z
-SUMMARY:Origin Forme Giratina Raid Hour
-UID:7108304e-12c9-42b2-9ab4-f4907e3de4b6@7108.org
-URL:https://leekduck.com/events/raidhour20241016/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241019T180000Z
-DTEND:20241019T210000Z
-DTSTART:20241019T180000Z
-SUMMARY:Unannounced Research Day
-UID:735e9588-6378-45e2-94f1-e2f1e6b2f7e9@735e.org
-URL:https://leekduck.com/events/unannounced-research-day-october-2024/
+DTSTAMP:20241001T100000Z
+DTEND:20241101T010000Z
+DTSTART:20241001T100000Z
+SUMMARY:October Max Battles
+UID:8fe52033-69e1-45da-88f3-dc83c020fe1e@8fe5.org
+URL:https://leekduck.com/events/october-max-battles-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241116T120000Z
 DTEND:20241117T210000Z
 DTSTART:20241116T120000Z
 SUMMARY:Pokémon GO Wild Area: Fukuoka
-UID:0d8170b2-4eea-4d3d-87f8-9ce1485152a5@0d81.org
+UID:af6956e1-589b-4c52-b195-96cd26a49f86@af69.org
 URL:https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T140000Z
+DTEND:20241014T140000Z
+DTSTART:20241004T140000Z
+SUMMARY:Zamazenta in 5-star Raid Battles
+UID:387a82c6-2880-487b-86c6-4f05ba496aa7@387a.org
+URL:https://leekduck.com/events/zamazenta-in-5-star-raid-battles-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241126T210000Z
+DTEND:20241203T210000Z
+DTSTART:20241126T210000Z
+SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great League Edition | Max Out
+UID:e4e3cc88-d81b-4996-a2f5-2fdb3e1035b2@e4e3.org
+URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T140000Z
+DTEND:20241104T000000Z
+DTSTART:20241031T140000Z
+SUMMARY:Unannounced Event
+UID:c9846191-48ab-47b4-8372-48e371fa2810@c984.org
+URL:https://leekduck.com/events/unannnounced-event-max-out-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T200000Z
+DTEND:20241015T200000Z
+DTSTART:20241008T200000Z
+SUMMARY:Ultra League and Sunshine Cup | Max Out
+UID:fd9d5fac-736c-4dae-a3bf-41944029fcf4@fd9d.org
+URL:https://leekduck.com/events/gbl-max-out_ultra-league_sunshine-cup/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T180000Z
+DTEND:20241005T210000Z
+DTSTART:20241005T180000Z
+SUMMARY:Sewaddle Community Day
+UID:1a114932-d218-4a2e-ba82-3ee51d229e1e@1a11.org
+URL:https://leekduck.com/events/october-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T220000Z
+DTEND:20241008T230000Z
+DTSTART:20241008T220000Z
+SUMMARY:Galarian Slowpoke Spotlight Hour
+UID:e69156a9-cf6d-4cdd-a161-4ac380f6b497@e691.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-08/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241119T210000Z
+DTEND:20241126T210000Z
+DTSTART:20241119T210000Z
+SUMMARY:Master League and Retro Cup | Max Out
+UID:69715932-d476-4a85-92de-9596a895e220@6971.org
+URL:https://leekduck.com/events/gbl-max-out_master-league_retro-cup/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T220000Z
+DTEND:20241029T230000Z
+DTSTART:20241029T220000Z
+SUMMARY:Unannoucned Spotlight Hour
+UID:2251e118-cfb7-4b38-9b91-fc68e0c77b77@2251.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-29/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T220000Z
+DTEND:20241015T230000Z
+DTSTART:20241015T220000Z
+SUMMARY:Shroomish Spotlight Hour
+UID:21fe9cb7-b178-46a9-a26b-b299dfeb8fa9@21fe.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-15/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241003T040000Z
+DTEND:20241102T155959Z
+DTSTART:20241003T040000Z
+SUMMARY:Daily PokéCoin Bounty Part 2 Ticket
+UID:da10a9fc-cbc2-46df-a5f3-153edb562c17@da10.org
+URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out-part-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241112T210000Z
+DTEND:20241119T210000Z
+DTSTART:20241112T210000Z
+SUMMARY:Ultra League and Willpower Cup | Max Out
+UID:5145cbad-352e-452e-8943-23e380e88afb@5145.org
+URL:https://leekduck.com/events/gbl-max-out_ultra-league_willpower-cup/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T040000Z
+DTEND:20241018T035900Z
+DTSTART:20241015T040000Z
+SUMMARY:Magnetic Study
+UID:ebb1bc26-6a9f-43a5-92a3-9a0c6998aa2a@ebb1.org
+URL:https://leekduck.com/events/magnetic-study/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241030T220000Z
+DTEND:20241030T230000Z
+DTSTART:20241030T220000Z
+SUMMARY:Darkrai Raid Hour
+UID:5e6c17da-f916-428d-87b0-bb5d2fb01c0e@5e6c.org
+URL:https://leekduck.com/events/raidhour20241030/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T140000Z
+DTEND:20241004T140000Z
+DTSTART:20240926T140000Z
+SUMMARY:Zacian in 5-star Raid Battles
+UID:f2b6faa6-e126-47c8-8b03-27a5cb4f272d@f2b6.org
+URL:https://leekduck.com/events/zacian-in-5-star-raid-battles-september-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241102T040000Z
+DTEND:20241104T035900Z
+DTSTART:20241102T040000Z
+SUMMARY:GO Battle Weekend: Max Out
+UID:b5686ff7-b15a-4ecf-a6df-a09319ab4dba@b568.org
+URL:https://leekduck.com/events/go-battle-weekend-max-out/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T220000Z
+DTEND:20241022T230000Z
+DTSTART:20241022T220000Z
+SUMMARY:Gastly\, Duskull\, and Litwick Spotlight Hour
+UID:3c8cdfd3-4965-429f-b520-2ccb0055837c@3c8c.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-22/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T140000Z
+DTEND:20241012T000000Z
+DTSTART:20241004T140000Z
+SUMMARY:Galarian Expedition
+UID:e9da61f2-b4bf-480f-81cd-9ac6886c0c8d@e9da.org
+URL:https://leekduck.com/events/galarian-expedition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241123T140000Z
+DTEND:20241124T221500Z
+DTSTART:20241123T140000Z
+SUMMARY:Pokémon GO Wild Area: Global
+UID:4fefef13-e549-4215-b02c-ce4f7aae1113@4fef.org
+URL:https://leekduck.com/events/pokemon-go-wild-area-2024-global/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T140000Z
+DTEND:20241028T140000Z
+DTSTART:20241022T140000Z
+SUMMARY:Pokémon GO Halloween 2024 - Part 1
+UID:0479c71b-b2fe-4a93-9027-b78f212faada@0479.org
+URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T100000Z
+DTEND:20241028T020000Z
+DTSTART:20241005T100000Z
+SUMMARY:Shadow Entei in Shadow Raids
+UID:d1c168c3-3fb4-4faa-85db-426e6a5042ac@d1c1.org
+URL:https://leekduck.com/events/shadow-entei-in-shadow-raids-max-out/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T140000Z
+DTEND:20241004T140000Z
+DTSTART:20240926T140000Z
+SUMMARY:Mega Gardevoir in Mega Raids
+UID:8eaf39a7-6254-4163-b2ed-f7622371deef@8eaf.org
+URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240903T140000Z
+DTEND:20241203T140000Z
+DTSTART:20240903T140000Z
+SUMMARY:Max Out
+UID:1a343e87-a036-450f-914d-a583a0bd37ac@1a34.org
+URL:https://leekduck.com/events/season-16-max-out/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241105T210000Z
+DTEND:20241112T210000Z
+DTSTART:20241105T210000Z
+SUMMARY:Great League and Master Premier | Max Out
+UID:0d23033e-26f8-4645-90aa-0485bad5f865@0d23.org
+URL:https://leekduck.com/events/gbl-max-out_great-league_master-premier/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241015T200000Z
 DTEND:20241022T200000Z
 DTSTART:20241015T200000Z
 SUMMARY:Master League and Halloween Cup: Little Edition | Max Out
-UID:08df2174-468f-49b0-b7ad-9e006a9e16c9@08df.org
+UID:793a06c5-906e-47c7-ac0c-293fa8cc1c38@793a.org
 URL:https://leekduck.com/events/gbl-max-out_master-league_halloween-cup-little-edition/
 END:VEVENT
 BEGIN:VEVENT
@@ -294,56 +222,128 @@ DTSTAMP:20241014T140000Z
 DTEND:20241028T140000Z
 DTSTART:20241014T140000Z
 SUMMARY:Origin Forme Giratina in 5-star Raid Battles
-UID:34b80676-3428-4125-9aae-c98df643f7e5@34b8.org
+UID:da4d0d53-9ce5-4ce4-ba0b-08b597d28213@da4d.org
 URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battles-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T180000Z
+DTEND:20241019T210000Z
+DTSTART:20241019T180000Z
+SUMMARY:Unannounced Research Day
+UID:5d1fa226-9675-4827-b52d-c6625e7f43f2@5d1f.org
+URL:https://leekduck.com/events/unannounced-research-day-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241016T220000Z
+DTEND:20241016T230000Z
+DTSTART:20241016T220000Z
+SUMMARY:Origin Forme Giratina Raid Hour
+UID:67bb1413-3627-44f9-972d-5f87cb285440@67bb.org
+URL:https://leekduck.com/events/raidhour20241016/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241028T140000Z
+DTEND:20241104T140000Z
+DTSTART:20241028T140000Z
+SUMMARY:Darkrai in 5-star Raid Battles
+UID:ddbcde08-6594-4dd6-8a61-f5546cb56b43@ddbc.org
+URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T200000Z
+DTEND:20241105T200000Z
+DTSTART:20241029T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Max Out
+UID:77246983-dbce-4fa7-b6fa-af37764bdaaf@7724.org
+URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T140000Z
+DTEND:20241014T140000Z
+DTSTART:20241004T140000Z
+SUMMARY:Mega Blaziken in Mega Raids
+UID:7af54e8a-e2c0-4329-9093-e9a37d23e0f5@7af5.org
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241026T140000Z
+DTEND:20241028T000000Z
+DTSTART:20241026T140000Z
+SUMMARY:Unannounced Event
+UID:34c8c916-1fff-44ea-bcd3-891bd03fdda0@34c8.org
+URL:https://leekduck.com/events/unannnounced-event-max-out/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T220000Z
+DTEND:20241023T230000Z
+DTSTART:20241023T220000Z
+SUMMARY:Origin Forme Giratina Raid Hour
+UID:109472e9-1401-4a71-9b3f-783a52258ff8@1094.org
+URL:https://leekduck.com/events/raidhour20241023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241008T040000Z
 DTEND:20241012T000000Z
 DTSTART:20241008T040000Z
 SUMMARY:Galarian Expedition: Taken Over
-UID:ee03a516-3160-4a26-902b-ee3726d11d15@ee03.org
+UID:6b889350-1ea8-48ee-907d-bb31d7cc08df@6b88.org
 URL:https://leekduck.com/events/galarian-expedition-taken-over/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T180000Z
-DTEND:20241012T210000Z
-DTSTART:20241012T180000Z
-SUMMARY:Mega Mawile Raid Day
-UID:3b5d4da4-a52a-4023-aef9-e887f70aee76@3b5d.org
-URL:https://leekduck.com/events/mega-mawile-raid-day/
+DTSTAMP:20241110T180000Z
+DTEND:20241110T210000Z
+DTSTART:20241110T180000Z
+SUMMARY:November Community Day
+UID:496e97ba-8425-4b14-8266-20043b37316b@496e.org
+URL:https://leekduck.com/events/november-communityday2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241001T200000Z
+DTEND:20241008T200000Z
+DTSTART:20241001T200000Z
+SUMMARY:Great League and Galar Cup: Great League Edition | Max Out
+UID:5bdbe831-1d3a-436f-ba51-cdc2fe8dfd0c@5bdb.org
+URL:https://leekduck.com/events/gbl-max-out_great-league_galar-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241028T140000Z
+DTEND:20241104T000000Z
+DTSTART:20241028T140000Z
+SUMMARY:Pokémon GO Halloween 2024 - Part 2
+UID:722d516c-1316-4335-9c31-6e1e265f8857@722d.org
+URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241028T140000Z
+DTEND:20241104T140000Z
+DTSTART:20241028T140000Z
+SUMMARY:Mega Banette in Mega Raids
+UID:47e540f2-0335-42b6-adb5-2671b1974e60@47e5.org
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T200000Z
+DTEND:20241029T200000Z
+DTSTART:20241022T200000Z
+SUMMARY:Great League Remix and Halloween Cup: Great League Edition | Max Out
+UID:efd0ce24-6847-485c-8029-051bd20d9e4b@efd0.org
+URL:https://leekduck.com/events/gbl-max-out_great-league-remix_halloween-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T220000Z
+DTEND:20241009T230000Z
+DTSTART:20241009T220000Z
+SUMMARY:Zamazenta Raid Hour
+UID:47828e5c-447f-467c-8be3-2e00436cbbef@4782.org
+URL:https://leekduck.com/events/raidhour20241009/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241014T140000Z
 DTEND:20241028T140000Z
 DTSTART:20241014T140000Z
 SUMMARY:Mega Sableye in Mega Raids
-UID:e12a5c1e-560f-4f28-97ae-34b0c8d60a94@e12a.org
+UID:6f353cc4-b034-47d3-abe3-4c3cfef1b4bc@6f35.org
 URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T100000Z
-DTEND:20241101T010000Z
-DTSTART:20241001T100000Z
-SUMMARY:October Max Battles
-UID:3a897aa2-4f02-4a1b-a909-e45d928770de@3a89.org
-URL:https://leekduck.com/events/october-max-battles-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241008T220000Z
-DTEND:20241008T230000Z
-DTSTART:20241008T220000Z
-SUMMARY:Galarian Slowpoke Spotlight Hour
-UID:4ee7b74a-4f42-43f9-b95e-19cdacd6e9b9@4ee7.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-10-08/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T180000Z
-DTEND:20241005T210000Z
-DTSTART:20241005T180000Z
-SUMMARY:Sewaddle Community Day
-UID:6d92927a-2c19-45f9-a75a-178c58019290@6d92.org
-URL:https://leekduck.com/events/october-communityday2024/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
