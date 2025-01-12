@@ -2,147 +2,155 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20250113T220000Z
-DTEND:20250113T230000Z
-DTSTART:20250113T220000Z
-SUMMARY:Dynamax Squirtle during Max Monday
-UID:f50af8a7-a5b9-459c-96a4-700dea52b7de@f50a.org
-URL:https://leekduck.com/events/max-mondays-2025-01-13/
+DTSTAMP:20250104T100000Z
+DTEND:20250127T020000Z
+DTSTART:20250104T100000Z
+SUMMARY:Shadow Registeel in Shadow Raids in January
+UID:fc69c099-a0a6-4d21-81db-1f2feba68b33@fc69.org
+URL:https://leekduck.com/events/shadow-registeel-in-shadow-raids-dual-destiny/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250205T220000Z
-DTEND:20250205T230000Z
-DTSTART:20250205T220000Z
-SUMMARY:Dialga Raid Hour
-UID:6f45f987-6895-449c-b7fe-b117e40892fe@6f45.org
-URL:https://leekduck.com/events/raidhour20250205/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T210000Z
-DTEND:20250128T210000Z
-DTSTART:20250121T210000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
-UID:f38f81e8-bef5-4bbb-b52f-c91506b0ddc1@f38f.org
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T010000Z
-DTEND:20250128T010000Z
-DTSTART:20250121T010000Z
-SUMMARY:Max Battles - January 20 to January 27
-UID:9e3bc994-c837-431d-aa6a-5347b89bab4c@9e3b.org
-URL:https://leekduck.com/events/january-max-battles-split-3-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250129T140000Z
-DTEND:20250203T000000Z
-DTSTART:20250129T140000Z
-SUMMARY:Lunar New Year 2025
-UID:a9b00f03-bfe3-406d-b065-a6e779e57b5f@a9b0.org
-URL:https://leekduck.com/events/lunar-new-year-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250128T010000Z
-DTEND:20250204T010000Z
-DTSTART:20250128T010000Z
-SUMMARY:Max Battles - January 27 to February 3
-UID:19b08cb7-8489-4c70-a81a-1af95c8d7699@19b0.org
-URL:https://leekduck.com/events/january-max-battles-split-4-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250104T140000Z
-DTEND:20250116T140000Z
-DTSTART:20250104T140000Z
-SUMMARY:Mega Lopunny in Mega Raids
-UID:0cbc0072-4cfe-47bb-a99e-4708d654520d@0cbc.org
-URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-january-2024/
+DTSTAMP:20250204T210000Z
+DTEND:20250211T210000Z
+DTSTART:20250204T210000Z
+SUMMARY:Ultra League and Love Cup: Great League Edition | Dual Destiny
+UID:5d6c4273-ab1b-4994-bf05-d166d170bbac@5d6c.org
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_love-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250215T180000Z
 DTEND:20250215T210000Z
 DTSTART:20250215T180000Z
 SUMMARY:Raid Day
-UID:437de81a-4bca-4dd7-9758-8c764d8da4aa@437d.org
+UID:02f9a307-fb05-4ee9-a4b2-65719f9edb47@02f9.org
 URL:https://leekduck.com/events/raid-day-february-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T140000Z
-DTEND:20250206T140000Z
-DTSTART:20250124T140000Z
-SUMMARY:Mega Medicham in Mega Raids
-UID:e605f166-08f1-461a-a0ac-dc4bf4a78431@e605.org
-URL:https://leekduck.com/events/2025-01-24-mega-medicham-in-mega-raids-january-2024md/
+DTSTAMP:20250129T220000Z
+DTEND:20250129T230000Z
+DTSTART:20250129T220000Z
+SUMMARY:Dialga Raid Hour
+UID:593ad419-c812-464a-9e77-a694ae989210@593a.org
+URL:https://leekduck.com/events/raidhour20250129/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241203T140000Z
-DTEND:20250304T140000Z
-DTSTART:20241203T140000Z
-SUMMARY:Dual Destiny
-UID:ba864bd8-be1e-476d-ba4d-3236827ec5b2@ba86.org
-URL:https://leekduck.com/events/season-17-dual-destiny/
+DTSTAMP:20250203T220000Z
+DTEND:20250203T230000Z
+DTSTART:20250203T220000Z
+SUMMARY:Dynamax Moltres during Max Monday
+UID:bc893b97-a461-4cbd-ba7f-f22d8f659c7c@bc89.org
+URL:https://leekduck.com/events/max-mondays-2025-02-03/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250110T140000Z
-DTEND:20250120T000000Z
-DTSTART:20250110T140000Z
-SUMMARY:Fashion Week 2025
-UID:0d0de0a6-cdd8-4c8e-99bd-5f2b3a65a426@0d0d.org
-URL:https://leekduck.com/events/fashion-week-2025/
+DTSTAMP:20250113T220000Z
+DTEND:20250113T230000Z
+DTSTART:20250113T220000Z
+SUMMARY:Dynamax Squirtle during Max Monday
+UID:df3e97ff-46aa-47fa-acd8-f662fcb8b760@df3e.org
+URL:https://leekduck.com/events/max-mondays-2025-01-13/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T210000Z
-DTEND:20250304T210000Z
-DTSTART:20250225T210000Z
-SUMMARY:Great League and Master League: Mega Edition | Dual Destiny
-UID:773605c9-8157-4af5-ba4a-4fbe8c44ff0c@7736.org
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_master-league-mega-edition/
+DTSTAMP:20250120T220000Z
+DTEND:20250120T230000Z
+DTSTART:20250120T220000Z
+SUMMARY:Dynamax Articuno during Max Monday
+UID:5a727162-a09d-4978-87ce-c9feee8c1635@5a72.org
+URL:https://leekduck.com/events/max-mondays-2025-01-20/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250107T010000Z
-DTEND:20250114T010000Z
-DTSTART:20250107T010000Z
-SUMMARY:Max Battles - January 6 to January 13
-UID:5dbc36c4-611e-4ea3-bd78-d7f2e343dcb6@5dbc.org
-URL:https://leekduck.com/events/january-max-battles-split-1-2025/
+DTSTAMP:20250114T010000Z
+DTEND:20250121T010000Z
+DTSTART:20250114T010000Z
+SUMMARY:Max Battles - January 13 to January 20
+UID:3981995e-1cd8-430a-b046-c4ecc2836872@3981.org
+URL:https://leekduck.com/events/january-max-battles-split-2-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250122T220000Z
-DTEND:20250122T230000Z
-DTSTART:20250122T220000Z
-SUMMARY:Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
-UID:4d1bc1ad-c1d8-4570-9df9-fa5f3380091c@4d1b.org
-URL:https://leekduck.com/events/raidhour20250122/
+DTSTAMP:20250128T210000Z
+DTEND:20250204T210000Z
+DTSTART:20250128T210000Z
+SUMMARY:Great League and Jungle Cup: Little Edition | Dual Destiny
+UID:e315ec5f-2adf-44a6-a4c4-5cb3b30f0221@e315.org
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_jungle-cup-little-edition/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250115T220000Z
-DTEND:20250115T230000Z
-DTSTART:20250115T220000Z
-SUMMARY:Palkia Raid Hour
-UID:ebcb3b84-d899-4c1b-a44a-d1bed5e8c5a3@ebcb.org
-URL:https://leekduck.com/events/raidhour20250115/
+DTSTAMP:20250114T210000Z
+DTEND:20250121T210000Z
+DTSTART:20250114T210000Z
+SUMMARY:Master League and Color Cup: Great League Edition | Dual Destiny
+UID:8880079c-d77c-4cc0-8863-2a3741ae9be9@8880.org
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_color-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250128T010000Z
+DTEND:20250204T010000Z
+DTSTART:20250128T010000Z
+SUMMARY:Max Battles - January 27 to February 3
+UID:2c32b906-9369-41a3-ba2b-9bc3707b5fc6@2c32.org
+URL:https://leekduck.com/events/january-max-battles-split-4-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250121T010000Z
 DTEND:20250211T010000Z
 DTSTART:20250121T010000Z
 SUMMARY:Legendary Flight
-UID:55e02ef8-0436-4062-a5ad-6766a3c0490c@55e0.org
+UID:7340181a-2a5a-4ae1-abfc-7ed4bcc6062b@7340.org
 URL:https://leekduck.com/events/legendary-flight-max-battles/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250114T220000Z
-DTEND:20250114T230000Z
-DTSTART:20250114T220000Z
-SUMMARY:Roselia Spotlight Hour
-UID:c42ff873-f1a5-46c2-b7f2-3d0ac2cb9b27@c42f.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-14/
+DTSTAMP:20250121T210000Z
+DTEND:20250128T210000Z
+DTSTART:20250121T210000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
+UID:06f13279-dae3-4c02-ac1f-52c4aab0fc34@06f1.org
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250119T180000Z
+DTEND:20250119T210000Z
+DTSTART:20250119T180000Z
+SUMMARY:Shadow Ho-Oh Raid Day
+UID:e85913e8-022b-4763-a767-4f421ee4f6b0@e859.org
+URL:https://leekduck.com/events/shadow-ho-oh-raid-day-january-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250122T220000Z
+DTEND:20250122T230000Z
+DTSTART:20250122T220000Z
+SUMMARY:Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
+UID:5ffdf57f-6820-4fdc-8d1a-83432a65c09f@5ffd.org
+URL:https://leekduck.com/events/raidhour20250122/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250129T140000Z
+DTEND:20250203T000000Z
+DTSTART:20250129T140000Z
+SUMMARY:Lunar New Year 2025
+UID:2bd40fe4-d1fb-4dfe-9a4e-1d49e6eb1a99@2bd4.org
+URL:https://leekduck.com/events/lunar-new-year-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T140000Z
+DTEND:20250206T140000Z
+DTSTART:20250124T140000Z
+SUMMARY:Mega Medicham in Mega Raids
+UID:5eeee479-1619-4ede-ac74-b2f493221efc@5eee.org
+URL:https://leekduck.com/events/2025-01-24-mega-medicham-in-mega-raids-january-2024md/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T140000Z
+DTEND:20250116T140000Z
+DTSTART:20250104T140000Z
+SUMMARY:Mega Lopunny in Mega Raids
+UID:175e5289-d450-4a8c-b32e-9890f49ba6ba@175e.org
+URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-january-2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250104T140000Z
 DTEND:20250116T140000Z
 DTSTART:20250104T140000Z
 SUMMARY:Palkia in 5-star Raid Battles
-UID:5d2691be-228b-4335-9462-ec460a1c5900@5d26.org
+UID:3082650a-24e0-461d-a76a-0fa3dba884b4@3082.org
 URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-january-2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -150,240 +158,232 @@ DTSTAMP:20250116T140000Z
 DTEND:20250124T140000Z
 DTSTART:20250116T140000Z
 SUMMARY:Deoxys (Attack Fomre) in 5-star Raid Battles
-UID:1ff778ad-d995-4d95-845b-b31414fbd997@1ff7.org
+UID:daa5e998-4615-4f30-ab34-ceea89c9744b@daa5.org
 URL:https://leekduck.com/events/deoxys-attack-forme-in-5-star-raid-battles-january-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250204T010000Z
-DTEND:20250211T010000Z
-DTSTART:20250204T010000Z
-SUMMARY:Max Battles - February 3 to February 10
-UID:e45ef947-d26d-4080-bfbe-460f363db23c@e45e.org
-URL:https://leekduck.com/events/february-max-battles-split-1-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250114T010000Z
-DTEND:20250121T010000Z
-DTSTART:20250114T010000Z
-SUMMARY:Max Battles - January 13 to January 20
-UID:97baa3db-a9a6-42a9-a90f-8ed6a8cebff4@97ba.org
-URL:https://leekduck.com/events/january-max-battles-split-2-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250209T180000Z
-DTEND:20250209T210000Z
-DTSTART:20250209T180000Z
-SUMMARY:February Community Day
-UID:e241a386-48a5-4531-a112-f31ecd9c7b8b@e241.org
-URL:https://leekduck.com/events/february-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250129T220000Z
-DTEND:20250129T230000Z
-DTSTART:20250129T220000Z
-SUMMARY:Dialga Raid Hour
-UID:1d92b1ab-a4f7-43a5-9b42-8eb314029aa0@1d92.org
-URL:https://leekduck.com/events/raidhour20250129/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250211T210000Z
-DTEND:20250218T210000Z
-DTSTART:20250211T210000Z
-SUMMARY:Master League and Love Cup: Great League Edition | Dual Destiny
-UID:ad1a12b6-821a-42de-b47c-0ac187f9d5db@ad1a.org
-URL:https://leekduck.com/events/gbl-dual-destiny_master-league_love-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250121T140000Z
 DTEND:20250127T000000Z
 DTSTART:20250121T140000Z
 SUMMARY:Steeled Resolve
-UID:9843d540-860c-4a97-a465-0109b46c3f62@9843.org
+UID:668a48e8-a9b9-4e05-b34b-56d1417febe4@668a.org
 URL:https://leekduck.com/events/steeled-resolve/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250301T140000Z
-DTEND:20250302T220000Z
-DTSTART:20250301T140000Z
-SUMMARY:Pokémon GO Tour: Unova - Global
-UID:6a66ee3d-2392-4fee-8a74-af75b6620d4c@6a66.org
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250104T100000Z
-DTEND:20250127T020000Z
-DTSTART:20250104T100000Z
-SUMMARY:Shadow Registeel in Shadow Raids in January
-UID:76d67e19-ce38-415f-9e44-c44a9010b407@76d6.org
-URL:https://leekduck.com/events/shadow-registeel-in-shadow-raids-dual-destiny/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250101T140000Z
-DTEND:20250201T000000Z
-DTSTART:20250101T140000Z
-SUMMARY:Eggs-pedition Access: January
-UID:07e70f84-df16-4b18-bd0a-bce8a53e702e@07e7.org
-URL:https://leekduck.com/events/eggs-pedition-access-january-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250125T180000Z
-DTEND:20250125T210000Z
-DTSTART:20250125T180000Z
-SUMMARY:Ralts Community Day Classic
-UID:ecb91947-de8a-44e8-a271-a66a4bb4990e@ecb9.org
-URL:https://leekduck.com/events/january-communitydayclassic2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250203T220000Z
-DTEND:20250203T230000Z
-DTSTART:20250203T220000Z
-SUMMARY:Dynamax Moltres during Max Monday
-UID:13eb14e5-c3d9-45bf-82a7-5c8ad37b1112@13eb.org
-URL:https://leekduck.com/events/max-mondays-2025-02-03/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250111T140000Z
-DTEND:20250113T000000Z
-DTSTART:20250111T140000Z
-SUMMARY:Butterfree\, Absol\, and Butterfree PokéStop Showcases
-UID:c8614753-431d-4a7f-9fbf-50ca210f5a4a@c861.org
-URL:https://leekduck.com/events/pokemon-showcase-furfrou-absol-butterfree-2025-01-11/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250115T140000Z
-DTEND:20250120T000000Z
-DTSTART:20250115T140000Z
-SUMMARY:Fashion Week: Taken Over 2025
-UID:f5005a8f-0cdc-4887-84e9-cc0fefc645de@f500.org
-URL:https://leekduck.com/events/fashion-week-taken-over-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250119T180000Z
-DTEND:20250119T210000Z
-DTSTART:20250119T180000Z
-SUMMARY:Shadow Ho-Oh Raid Day
-UID:bd11b0c6-7228-4e13-9b02-19e0a35a1419@bd11.org
-URL:https://leekduck.com/events/shadow-ho-oh-raid-day-january-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250128T210000Z
-DTEND:20250204T210000Z
-DTSTART:20250128T210000Z
-SUMMARY:Great League and Jungle Cup: Little Edition | Dual Destiny
-UID:644c7d15-47dd-4382-a210-53dc5b04f085@644c.org
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_jungle-cup-little-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250116T140000Z
-DTEND:20250124T140000Z
-DTSTART:20250116T140000Z
-SUMMARY:Deoxys (Defense Forme) in 5-star Raid Battles
-UID:f9536ec7-085d-4874-afae-8e72e656ded0@f953.org
-URL:https://leekduck.com/events/deoxys-defense-forme-in-5-star-raid-battles-january-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T040000Z
-DTEND:20250127T035900Z
-DTSTART:20250121T040000Z
-SUMMARY:GO Battle Weekend: Dual Destiny
-UID:6b1774a9-a266-4885-9f86-4804dcb777a6@6b17.org
-URL:https://leekduck.com/events/go-battle-weekend-dual-destiny/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250128T220000Z
-DTEND:20250128T230000Z
-DTSTART:20250128T220000Z
-SUMMARY:Yungoos Spotlight Hour
-UID:d2e7123a-3a8f-413d-adc1-6e924c93ace3@d2e7.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-28/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250111T180000Z
-DTEND:20250111T210000Z
-DTSTART:20250111T180000Z
-SUMMARY:Mega Gallade Raid Day
-UID:59f3c084-ada5-4e95-8ae2-c9f8cada02e6@59f3.org
-URL:https://leekduck.com/events/mega-gallade-raid-day/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250114T210000Z
-DTEND:20250121T210000Z
-DTSTART:20250114T210000Z
-SUMMARY:Master League and Color Cup: Great League Edition | Dual Destiny
-UID:fd716918-8ce7-4e4d-8717-49b2fffe948e@fd71.org
-URL:https://leekduck.com/events/gbl-dual-destiny_master-league_color-cup-great-league-edition/
+DTSTAMP:20250204T010000Z
+DTEND:20250211T010000Z
+DTSTART:20250204T010000Z
+SUMMARY:Max Battles - February 3 to February 10
+UID:15e547d3-9774-4582-b785-220bfbb0c1fc@15e5.org
+URL:https://leekduck.com/events/february-max-battles-split-1-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250201T180000Z
 DTEND:20250201T210000Z
 DTSTART:20250201T180000Z
 SUMMARY:Max Battle Day
-UID:fcf2cf83-b8ac-46d0-a053-21a12322fbf3@fcf2.org
+UID:9b4c4027-52ef-4587-8f2f-11945fe8920a@9b4c.org
 URL:https://leekduck.com/events/max-battle-day-february-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T210000Z
-DTEND:20250225T210000Z
-DTSTART:20250218T210000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
-UID:17654a4f-f978-4a78-b599-c86c2d72a365@1765.org
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
+DTSTAMP:20250125T180000Z
+DTEND:20250125T210000Z
+DTSTART:20250125T180000Z
+SUMMARY:Ralts Community Day Classic
+UID:e56218aa-d25c-4ead-8d38-2ce4787e3861@e562.org
+URL:https://leekduck.com/events/january-communitydayclassic2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250107T210000Z
-DTEND:20250114T210000Z
-DTSTART:20250107T210000Z
-SUMMARY:Ultra League and Color Cup: Great League Edition | Dual Destiny
-UID:28c40ea7-52eb-4ee5-a61e-40ae534e85f7@28c4.org
-URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_color-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T220000Z
-DTEND:20250121T230000Z
-DTSTART:20250121T220000Z
-SUMMARY:Paldean Wooper Spotlight Hour
-UID:87c46571-f6ee-484e-b966-2357fb1280f4@87c4.org
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-21/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250204T210000Z
-DTEND:20250211T210000Z
-DTSTART:20250204T210000Z
-SUMMARY:Ultra League and Love Cup: Great League Edition | Dual Destiny
-UID:d3dff83d-c788-49e7-ad1e-0e17ac1f64c1@d3df.org
-URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_love-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250120T220000Z
-DTEND:20250120T230000Z
-DTSTART:20250120T220000Z
-SUMMARY:Dynamax Articuno during Max Monday
-UID:92e1187a-df68-4cb1-86b2-e03d94fb61e7@92e1.org
-URL:https://leekduck.com/events/max-mondays-2025-01-20/
+DTSTAMP:20250121T040000Z
+DTEND:20250127T035900Z
+DTSTART:20250121T040000Z
+SUMMARY:GO Battle Weekend: Dual Destiny
+UID:d497b940-5cec-4738-acf5-7115e4cb5d9b@d497.org
+URL:https://leekduck.com/events/go-battle-weekend-dual-destiny/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250127T220000Z
 DTEND:20250127T230000Z
 DTSTART:20250127T220000Z
 SUMMARY:Dynamax Zapdos during Max Monday
-UID:616585a3-76cf-4ab4-b783-8203dff0bfd4@6165.org
+UID:99a4a8a7-e4a3-4481-abe1-92ab476bb056@99a4.org
 URL:https://leekduck.com/events/max-mondays-2025-01-27/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T010000Z
+DTEND:20250128T010000Z
+DTSTART:20250121T010000Z
+SUMMARY:Max Battles - January 20 to January 27
+UID:7b4b9f28-b526-4ae7-bac6-450eead6eff3@7b4b.org
+URL:https://leekduck.com/events/january-max-battles-split-3-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250116T140000Z
 DTEND:20250124T140000Z
 DTSTART:20250116T140000Z
-SUMMARY:Mega Gallade in Mega Raids
-UID:f9c592d9-4fb1-4dc7-b0a0-09302fb142c5@f9c5.org
-URL:https://leekduck.com/events/mega-gallade-in-mega-raids-january-2024/
+SUMMARY:Deoxys (Defense Forme) in 5-star Raid Battles
+UID:399e40e0-9656-4b7a-a29f-ce5a8002995e@399e.org
+URL:https://leekduck.com/events/deoxys-defense-forme-in-5-star-raid-battles-january-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250115T220000Z
+DTEND:20250115T230000Z
+DTSTART:20250115T220000Z
+SUMMARY:Palkia Raid Hour
+UID:c5a775ff-735c-4c7d-94da-ee1a6607c24b@c5a7.org
+URL:https://leekduck.com/events/raidhour20250115/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250111T180000Z
+DTEND:20250111T210000Z
+DTSTART:20250111T180000Z
+SUMMARY:Mega Gallade Raid Day
+UID:bd798822-3544-4c40-ab2c-b9ce4ff7a137@bd79.org
+URL:https://leekduck.com/events/mega-gallade-raid-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250301T140000Z
+DTEND:20250302T220000Z
+DTSTART:20250301T140000Z
+SUMMARY:Pokémon GO Tour: Unova - Global
+UID:8c601666-d6be-4e28-8083-e082805abb6e@8c60.org
+URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T210000Z
+DTEND:20250304T210000Z
+DTSTART:20250225T210000Z
+SUMMARY:Great League and Master League: Mega Edition | Dual Destiny
+UID:36f2e601-47c5-4b82-80aa-3355f4513777@36f2.org
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_master-league-mega-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241203T140000Z
+DTEND:20250304T140000Z
+DTSTART:20241203T140000Z
+SUMMARY:Dual Destiny
+UID:566e02a6-c2b7-4428-a807-50f2a350ee8a@566e.org
+URL:https://leekduck.com/events/season-17-dual-destiny/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250115T140000Z
+DTEND:20250120T000000Z
+DTSTART:20250115T140000Z
+SUMMARY:Fashion Week: Taken Over 2025
+UID:aaebe4b7-4fce-4a7b-8d29-7901691aa81f@aaeb.org
+URL:https://leekduck.com/events/fashion-week-taken-over-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250209T180000Z
+DTEND:20250209T210000Z
+DTSTART:20250209T180000Z
+SUMMARY:February Community Day
+UID:7ace6255-c6a9-461f-a677-cabfd9245671@7ace.org
+URL:https://leekduck.com/events/february-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250205T220000Z
+DTEND:20250205T230000Z
+DTSTART:20250205T220000Z
+SUMMARY:Dialga Raid Hour
+UID:ae5dc191-bb65-4cac-b4a8-ed45f69a5fb6@ae5d.org
+URL:https://leekduck.com/events/raidhour20250205/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250124T140000Z
 DTEND:20250206T140000Z
 DTSTART:20250124T140000Z
 SUMMARY:Dialga in 5-star Raid Battles
-UID:5a7d6b7b-32d9-4660-9853-bcb5c9bdb123@5a7d.org
+UID:8b790cf2-0693-4849-a6df-40fb5a6a3b4c@8b79.org
 URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-january-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250107T010000Z
+DTEND:20250114T010000Z
+DTSTART:20250107T010000Z
+SUMMARY:Max Battles - January 6 to January 13
+UID:56837366-41ee-4827-9084-4aaa5e3ff767@5683.org
+URL:https://leekduck.com/events/january-max-battles-split-1-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T220000Z
+DTEND:20250121T230000Z
+DTSTART:20250121T220000Z
+SUMMARY:Paldean Wooper Spotlight Hour
+UID:3ccb1c6d-32e0-4393-9aeb-1c8d8b7a4ef3@3ccb.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-21/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250111T140000Z
+DTEND:20250113T000000Z
+DTSTART:20250111T140000Z
+SUMMARY:Butterfree\, Absol\, and Furfrou PokéStop Showcases
+UID:9e0e3bb7-31ea-48c1-ae65-9e7ee8659de9@9e0e.org
+URL:https://leekduck.com/events/pokemon-showcase-furfrou-absol-butterfree-2025-01-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T210000Z
+DTEND:20250225T210000Z
+DTSTART:20250218T210000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
+UID:f1bb00f6-84d8-4676-90bf-34dc948700e0@f1bb.org
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250116T140000Z
+DTEND:20250124T140000Z
+DTSTART:20250116T140000Z
+SUMMARY:Mega Gallade in Mega Raids
+UID:3814d015-b35f-4d01-850f-931b46207f66@3814.org
+URL:https://leekduck.com/events/mega-gallade-in-mega-raids-january-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250101T140000Z
+DTEND:20250201T000000Z
+DTSTART:20250101T140000Z
+SUMMARY:Eggs-pedition Access: January
+UID:d7069f80-c9d9-42ab-9e58-319b5b3cec3e@d706.org
+URL:https://leekduck.com/events/eggs-pedition-access-january-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250114T220000Z
+DTEND:20250114T230000Z
+DTSTART:20250114T220000Z
+SUMMARY:Roselia Spotlight Hour
+UID:7a2e5290-3115-4b79-98a6-daab2aee0455@7a2e.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250110T140000Z
+DTEND:20250120T000000Z
+DTSTART:20250110T140000Z
+SUMMARY:Fashion Week 2025
+UID:7b7895e2-a7fe-4f0c-b10a-086a670b1d04@7b78.org
+URL:https://leekduck.com/events/fashion-week-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250107T210000Z
+DTEND:20250114T210000Z
+DTSTART:20250107T210000Z
+SUMMARY:Ultra League and Color Cup: Great League Edition | Dual Destiny
+UID:caea4083-255d-40b1-99a2-5b875a466a6d@caea.org
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_color-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250211T210000Z
+DTEND:20250218T210000Z
+DTSTART:20250211T210000Z
+SUMMARY:Master League and Love Cup: Great League Edition | Dual Destiny
+UID:47624a1e-f8f2-4b2c-9cc9-122a7197c7b6@4762.org
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_love-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250128T220000Z
+DTEND:20250128T230000Z
+DTSTART:20250128T220000Z
+SUMMARY:Yungoos Spotlight Hour
+UID:1bfb1f2f-1a6e-4433-9d7a-b45171368904@1bfb.org
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-28/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
