@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20250331T220000Z
-DTEND:20250331T230000Z
-DTSTART:20250331T220000Z
-SUMMARY:Dynamax Scorbunny during Max Monday
-UID:9e5ccc61-b03e-4888-a890-9d13a60af07f@9e5c.org
-URL:https://leekduck.com/events/max-mondays-2025-03-31/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250419T180000Z
-DTEND:20250419T210000Z
-DTSTART:20250419T180000Z
-SUMMARY:Max Battle Day April 2025
-UID:a764f9ed-ed08-4825-9838-04443eb8c621@a764.org
-URL:https://leekduck.com/events/max-battle-day-april-2025/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250304T100000Z
 DTEND:20250405T020000Z
 DTSTART:20250304T100000Z
 SUMMARY:Shadow Regice in Shadow Raids in March
-UID:6172d183-c4ad-47c7-aeb7-6776eba519a6@6172.org
+UID:e13001da-e45b-4bfe-940a-77010ccba119@e130.org
 URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-might-and-mastery/
 END:VEVENT
 BEGIN:VEVENT
@@ -30,223 +14,287 @@ DTSTAMP:20250325T200000Z
 DTEND:20250401T200000Z
 DTSTART:20250325T200000Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
-UID:33d77ed5-86d7-492f-9e79-839971261385@33d7.org
+UID:325a3d90-4cc1-43ab-8872-1ae70477433b@325a.org
 URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-1/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T180000Z
-DTEND:20250511T210000Z
-DTSTART:20250511T180000Z
-SUMMARY:May Community Day
-UID:dd37322a-141f-433a-81fb-8f26f805d277@dd37.org
-URL:https://leekduck.com/events/may-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250326T220000Z
-DTEND:20250326T230000Z
-DTSTART:20250326T220000Z
-SUMMARY:Heatran Raid Hour
-UID:eaec8cbf-cdad-4bd1-87a0-8764376ae078@eaec.org
-URL:https://leekduck.com/events/raidhour20250326/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250415T200000Z
-DTEND:20250422T200000Z
-DTSTART:20250415T200000Z
-SUMMARY:Master League and Spring Cup: Great League Edition | Might and Mastery
-UID:5e4c63c6-99d2-4f92-9fa0-ff3ea099542f@5e4c.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_spring-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T220000Z
-DTEND:20250324T230000Z
-DTSTART:20250324T220000Z
-SUMMARY:Dynamax Caterpie during Max Monday
-UID:81c81694-c762-4aa1-8bdf-a25783669ebf@81c8.org
-URL:https://leekduck.com/events/max-mondays-2025-03-24/
+DTSTAMP:20250319T140000Z
+DTEND:20250325T000000Z
+DTSTART:20250319T140000Z
+SUMMARY:Deep Depths
+UID:25972405-23e3-41b9-939d-f9b3ff24b8b7@2597.org
+URL:https://leekduck.com/events/deep-depths/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250520T200000Z
 DTEND:20250527T200000Z
 DTSTART:20250520T200000Z
 SUMMARY:Great League and Catch Cup: Great League Edition | Might and Mastery
-UID:83b7378f-8676-4e9e-be0f-ad232321212c@83b7.org
+UID:a11b37bb-8ac8-4ae8-8ef1-99ca5c0d9a06@a11b.org
 URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250304T180000Z
-DTEND:20250404T210000Z
-DTSTART:20250304T180000Z
-SUMMARY:Power Up Ticket: March
-UID:3c6b3a01-e289-41f4-8b02-a71fe7a586f0@3c6b.org
-URL:https://leekduck.com/events/power-up-ticket-march/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T180000Z
-DTEND:20250525T210000Z
-DTSTART:20250525T180000Z
-SUMMARY:Max Battle Day May 2025
-UID:9e9dc671-d203-4e00-a7e3-2658816a2ec6@9e9d.org
-URL:https://leekduck.com/events/max-battle-day-may-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250322T140000Z
-DTEND:20250331T140000Z
-DTSTART:20250322T140000Z
-SUMMARY:Heatran in 5-star Raid Battles
-UID:0477eb2c-7b7b-4e18-a807-d18a6d1e804b@0477.org
-URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-march-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250524T180000Z
-DTEND:20250524T210000Z
-DTSTART:20250524T180000Z
-SUMMARY:May Community Day Classic
-UID:13cc6f25-c149-40c9-9992-1bc6a83800d9@13cc.org
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T180000Z
-DTEND:20250427T210000Z
-DTSTART:20250427T180000Z
-SUMMARY:April Community Day
-UID:8721b571-6077-45e9-8e23-faf5a28c6bec@8721.org
-URL:https://leekduck.com/events/april-communityday2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250521T040000Z
 DTEND:20250528T035900Z
 DTSTART:20250521T040000Z
 SUMMARY:GO Battle Week: Might and Mastery
-UID:d9992d22-4606-4031-95a0-ee697faef86c@d999.org
+UID:32747a49-cced-46dc-a9e7-0fada916d3a3@3274.org
 URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250405T180000Z
-DTEND:20250405T210000Z
-DTSTART:20250405T180000Z
-SUMMARY:Raid Day April 2025
-UID:ee776e96-dd48-42e1-92c5-8ecb9272dbb7@ee77.org
-URL:https://leekduck.com/events/raid-day-april-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250304T140000Z
-DTEND:20250603T140000Z
-DTSTART:20250304T140000Z
-SUMMARY:Might and Mastery
-UID:b9db1626-9f35-40c6-8f11-d77db20e9cb2@b9db.org
-URL:https://leekduck.com/events/season-18-might-and-mastery/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250419T180000Z
-DTEND:20250419T210000Z
-DTSTART:20250419T180000Z
-SUMMARY:Gigantamax Snorlax Max Battle Day
-UID:5b6a4e6a-c74a-4f8e-b3c4-8c98f6328f27@5b6a.org
-URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250527T200000Z
-DTEND:20250603T200000Z
-DTSTART:20250527T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
-UID:a16f13e1-d934-4703-8a75-20d442c7536d@a16f.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250313T140000Z
-DTEND:20250322T140000Z
-DTSTART:20250313T140000Z
-SUMMARY:Tapu Koko in 5-star Raid Battles
-UID:5d60ddad-b015-451e-80c2-3d5aa54fd9ae@5d60.org
-URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250221T140000Z
-DTEND:20250331T000000Z
-DTSTART:20250221T140000Z
-SUMMARY:Masterwork Research: A Dazzling Aria
-UID:bfc8d2b6-6a4e-451a-a0e2-ba1925328116@bfc8.org
-URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250513T200000Z
-DTEND:20250520T200000Z
-DTSTART:20250513T200000Z
-SUMMARY:Master League and Retro Cup: Great League Edition | Might and Mastery
-UID:4c0b0c9a-1be1-4bbb-ae19-399c5750f930@4c0b.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_retro-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250324T100000Z
 DTEND:20250331T100000Z
 DTSTART:20250324T100000Z
 SUMMARY:Max Battles - March 24 to March 31
-UID:bbb79e1e-8acc-4a4b-9ef6-d2a4a736e925@bbb7.org
+UID:4242a17f-ffcf-4e1f-88d1-6cea3c9a3075@4242.org
 URL:https://leekduck.com/events/march-max-battles-split-4-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T140000Z
-DTEND:20250331T000000Z
-DTSTART:20250326T140000Z
-SUMMARY:Bug Out 2025
-UID:8cbb4ac9-fa26-47ee-b764-9b52fde922fe@8cbb.org
-URL:https://leekduck.com/events/bug-out-2025/
+DTSTAMP:20250401T200000Z
+DTEND:20250408T200000Z
+DTSTART:20250401T200000Z
+SUMMARY:Great League and Master Premier | Might and Mastery
+UID:c2b19eeb-94f7-4eae-881c-666b3b75eee1@c2b1.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_master-premier/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250323T180000Z
-DTEND:20250323T210000Z
-DTSTART:20250323T180000Z
-SUMMARY:Mega Absol Raid Day
-UID:b0ea11cd-e49a-4c89-8686-a0ec51d6b400@b0ea.org
-URL:https://leekduck.com/events/mega-absol-raid-day/
+DTSTAMP:20250403T140000Z
+DTEND:20250408T000000Z
+DTSTART:20250403T140000Z
+SUMMARY:Stunning Styles
+UID:493926e8-4e5e-464a-9459-caa833d5b313@4939.org
+URL:https://leekduck.com/events/stunning-styles/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T140000Z
-DTEND:20250319T000000Z
-DTSTART:20250317T140000Z
-SUMMARY:Smeargle PokéStop Showcases
-UID:be18570b-8fa8-4ecd-b5b2-73c9fb60da01@be18.org
-URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
+DTSTAMP:20250419T180000Z
+DTEND:20250419T210000Z
+DTSTART:20250419T180000Z
+SUMMARY:Max Battle Day April 2025
+UID:5f3c6815-a335-44af-915d-861e0b8e9d49@5f3c.org
+URL:https://leekduck.com/events/max-battle-day-april-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250413T180000Z
-DTEND:20250413T210000Z
-DTSTART:20250413T180000Z
+DTSTAMP:20250503T180000Z
+DTEND:20250503T210000Z
+DTSTART:20250503T180000Z
+SUMMARY:Raid Day May 2025
+UID:8ad399e2-a9d6-469c-bca2-1ff42870b46e@8ad3.org
+URL:https://leekduck.com/events/raid-day-may-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T180000Z
+DTEND:20250524T210000Z
+DTSTART:20250524T180000Z
+SUMMARY:May Community Day Classic
+UID:95f94c22-7801-4aed-a808-b5a30f3f3200@95f9.org
+URL:https://leekduck.com/events/may-communitydayclassic2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250405T180000Z
+DTEND:20250405T210000Z
+DTSTART:20250405T180000Z
 SUMMARY:Raid Day April 2025
-UID:c1c66af7-f0b1-4cab-8b7e-261cf0b79d1f@c1c6.org
-URL:https://leekduck.com/events/raid-day-april-2025-2/
+UID:7cbc48d7-93d0-4ba9-adf7-36186bed95ea@7cbc.org
+URL:https://leekduck.com/events/raid-day-april-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250406T180000Z
-DTEND:20250406T210000Z
-DTSTART:20250406T180000Z
-SUMMARY:Hatch Day April 2025
-UID:48c17fb6-ea97-4625-bb06-311af71d3404@48c1.org
-URL:https://leekduck.com/events/hatch-day-april-2025/
+DTSTAMP:20250329T180000Z
+DTEND:20250329T210000Z
+DTSTART:20250329T180000Z
+SUMMARY:Fuzzy Buddy Research Day
+UID:d6166013-4219-43de-a023-27aeb5ea1292@d616.org
+URL:https://leekduck.com/events/fuzzy-buddy-research-day/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T200000Z
-DTEND:20250325T200000Z
-DTSTART:20250318T200000Z
-SUMMARY:Master League and Scroll Cup: Great League Edition | Might and Mastery
-UID:f1aba0bd-c80f-452f-824c-4fcd3a1e26c3@f1ab.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_scroll-cup-great-league-edition/
+DTSTAMP:20250408T200000Z
+DTEND:20250415T200000Z
+DTSTART:20250408T200000Z
+SUMMARY:Ultra League and Spring Cup: Great League Edition | Might and Mastery
+UID:553e0ed3-b23e-4845-9bcb-a77e13b384d7@553e.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T200000Z
+DTEND:20250422T200000Z
+DTSTART:20250415T200000Z
+SUMMARY:Master League and Spring Cup: Great League Edition | Might and Mastery
+UID:4243e182-bf18-438f-9dfe-6feb7b16a99a@4243.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_spring-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250322T140000Z
+DTEND:20250331T140000Z
+DTSTART:20250322T140000Z
+SUMMARY:Heatran in 5-star Raid Battles
+UID:cd1df67e-953f-403c-8c9c-0008535c53e0@cd1d.org
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-march-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250324T220000Z
+DTEND:20250324T230000Z
+DTSTART:20250324T220000Z
+SUMMARY:Dynamax Caterpie during Max Monday
+UID:87a2e9b9-28c0-4cef-a643-4026f629a8ea@87a2.org
+URL:https://leekduck.com/events/max-mondays-2025-03-24/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250311T200000Z
+DTEND:20250318T200000Z
+DTSTART:20250311T200000Z
+SUMMARY:Ultra League and Scroll Cup: Great League Edition | Might and Mastery
+UID:1e70733a-eaa4-44ba-a186-842ab669d0f4@1e70.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_scroll-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250313T140000Z
+DTEND:20250322T140000Z
+DTSTART:20250313T140000Z
+SUMMARY:Tapu Koko in 5-star Raid Battles
+UID:69bf0bac-122b-4a1d-8ea7-a8b79e3e5a61@69bf.org
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T180000Z
+DTEND:20250419T210000Z
+DTSTART:20250419T180000Z
+SUMMARY:Gigantamax Snorlax Max Battle Day
+UID:002f8e23-6999-4263-83d4-8f6a58e084b7@002f.org
+URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250325T220000Z
+DTEND:20250325T230000Z
+DTSTART:20250325T220000Z
+SUMMARY:Cutiefly Spotlight Hour
+UID:326310af-b6b4-41af-a6f7-db3517e2926e@3263.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-03-25/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T180000Z
+DTEND:20250525T210000Z
+DTSTART:20250525T180000Z
+SUMMARY:Max Battle Day May 2025
+UID:27cac6c9-d0f0-4110-8aef-728cbfdc4066@27ca.org
+URL:https://leekduck.com/events/max-battle-day-may-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250506T200000Z
 DTEND:20250513T200000Z
 DTSTART:20250506T200000Z
 SUMMARY:Ultra League and Great League Remix | Might and Mastery
-UID:a7b6633b-13f5-4440-9c82-1821ebc331f1@a7b6.org
+UID:d6c44bb4-1be4-415b-9063-690ad5b11600@d6c4.org
 URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_great-league-remix/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250317T140000Z
+DTEND:20250319T000000Z
+DTSTART:20250317T140000Z
+SUMMARY:Smeargle PokéStop Showcases
+UID:ad3c5a99-3356-487b-87a6-4fcbe0658fc9@ad3c.org
+URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T220000Z
+DTEND:20250331T230000Z
+DTSTART:20250331T220000Z
+SUMMARY:Dynamax Scorbunny during Max Monday
+UID:f20d0b20-1d6c-444e-98d7-8a0964d2d4b7@f20d.org
+URL:https://leekduck.com/events/max-mondays-2025-03-31/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250413T180000Z
+DTEND:20250413T210000Z
+DTSTART:20250413T180000Z
+SUMMARY:Raid Day April 2025
+UID:c2ca1834-9e00-49f8-8cdc-e64f295dbf3b@c2ca.org
+URL:https://leekduck.com/events/raid-day-april-2025-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250511T180000Z
+DTEND:20250511T210000Z
+DTSTART:20250511T180000Z
+SUMMARY:May Community Day
+UID:81e09192-0b3e-4c28-83fc-cf9eba8f28b3@81e0.org
+URL:https://leekduck.com/events/may-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T140000Z
+DTEND:20250331T000000Z
+DTSTART:20250326T140000Z
+SUMMARY:Bug Out 2025
+UID:3d238cab-2cfd-4f33-8eb3-e7f998c646d8@3d23.org
+URL:https://leekduck.com/events/bug-out-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250427T180000Z
+DTEND:20250427T210000Z
+DTSTART:20250427T180000Z
+SUMMARY:April Community Day
+UID:e39c3cb0-67db-4454-88fa-6f84c4768b9a@e39c.org
+URL:https://leekduck.com/events/april-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250304T140000Z
+DTEND:20250603T140000Z
+DTSTART:20250304T140000Z
+SUMMARY:Might and Mastery
+UID:6175cb37-a01b-4e31-8394-82f56c203bfe@6175.org
+URL:https://leekduck.com/events/season-18-might-and-mastery/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250527T200000Z
+DTEND:20250603T200000Z
+DTSTART:20250527T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
+UID:7bb40222-25a0-48b2-8b5b-e8dfe4e7ff4a@7bb4.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250318T220000Z
+DTEND:20250318T230000Z
+DTSTART:20250318T220000Z
+SUMMARY:Shellder Spotlight Hour
+UID:baadc10e-5c2e-4192-924e-4d78143faaac@baad.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-03-18/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250422T200000Z
+DTEND:20250429T200000Z
+DTSTART:20250422T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
+UID:8ac4e46f-d13b-42ac-b67a-e8e65037ffb7@8ac4.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T180000Z
+DTEND:20250406T210000Z
+DTSTART:20250406T180000Z
+SUMMARY:Hatch Day April 2025
+UID:eba850fa-cd24-4c09-8e80-b6d755dfba99@eba8.org
+URL:https://leekduck.com/events/hatch-day-april-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T180000Z
+DTEND:20250323T210000Z
+DTSTART:20250323T180000Z
+SUMMARY:Mega Absol Raid Day
+UID:7f08a801-362c-4390-8ba0-c79ec689d146@7f08.org
+URL:https://leekduck.com/events/mega-absol-raid-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250429T200000Z
+DTEND:20250506T200000Z
+DTSTART:20250429T200000Z
+SUMMARY:Great League and Great League Remix | Might and Mastery
+UID:1d66ec77-e187-4c52-8658-0691112db5aa@1d66.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_great-league-remix/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250517T180000Z
 DTEND:20250517T210000Z
 DTSTART:20250517T180000Z
 SUMMARY:Shadow Raid Day May 2025
-UID:f2c23ca0-a1c3-4326-a157-156323874f83@f2c2.org
+UID:d741771c-0095-485e-b498-4224a34f6ab9@d741.org
 URL:https://leekduck.com/events/shadow-raid-day-may-2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -254,128 +302,80 @@ DTSTAMP:20250317T100000Z
 DTEND:20250324T100000Z
 DTSTART:20250317T100000Z
 SUMMARY:Max Battles - March 17 to March 24
-UID:4540a7a7-01a4-4e7f-9b8d-d080f9f8ac5b@4540.org
+UID:32463a40-804a-4266-8772-c618745f8158@3246.org
 URL:https://leekduck.com/events/march-max-battles-split-3-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250408T200000Z
-DTEND:20250415T200000Z
-DTSTART:20250408T200000Z
-SUMMARY:Ultra League and Spring Cup: Great League Edition | Might and Mastery
-UID:27f06b75-e913-49c2-99ad-51f4b8cca1ca@27f0.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250401T200000Z
-DTEND:20250408T200000Z
-DTSTART:20250401T200000Z
-SUMMARY:Great League and Master Premier | Might and Mastery
-UID:f27a3c3e-c26f-4900-9f3a-6eeb4554b774@f27a.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_master-premier/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250319T140000Z
-DTEND:20250325T000000Z
-DTSTART:20250319T140000Z
-SUMMARY:Deep Depths
-UID:9158d21f-f95d-4b81-ad99-e60648be2cec@9158.org
-URL:https://leekduck.com/events/deep-depths/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250403T140000Z
-DTEND:20250408T000000Z
-DTSTART:20250403T140000Z
-SUMMARY:Stunning Styles
-UID:6e998650-b92e-4db7-ba32-88298165b70c@6e99.org
-URL:https://leekduck.com/events/stunning-styles/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250329T180000Z
-DTEND:20250329T210000Z
-DTSTART:20250329T180000Z
-SUMMARY:Fuzzy Buddy Research Day
-UID:55dcb4fd-2ca3-45c1-8eef-4bad13cd6663@55dc.org
-URL:https://leekduck.com/events/fuzzy-buddy-research-day/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250319T220000Z
-DTEND:20250319T230000Z
-DTSTART:20250319T220000Z
-SUMMARY:Tapu Koko Raid Hour
-UID:cb950b9e-0141-454c-9da4-e6801cecd70c@cb95.org
-URL:https://leekduck.com/events/raidhour20250319/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250422T200000Z
-DTEND:20250429T200000Z
-DTSTART:20250422T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
-UID:aafa70da-cae1-455e-8141-535062731838@aafa.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250318T220000Z
-DTEND:20250318T230000Z
-DTSTART:20250318T220000Z
-SUMMARY:Shellder Spotlight Hour
-UID:bbdd684d-4f16-4ba6-b4d4-7d9c6f8fdeb0@bbdd.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-03-18/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250503T180000Z
-DTEND:20250503T210000Z
-DTSTART:20250503T180000Z
-SUMMARY:Raid Day May 2025
-UID:685c3c42-06fb-4c14-88de-0b3772887b36@685c.org
-URL:https://leekduck.com/events/raid-day-may-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250322T140000Z
 DTEND:20250331T140000Z
 DTSTART:20250322T140000Z
 SUMMARY:Mega Pinsir in Mega Raids
-UID:c0dda188-f0e5-4313-a457-6d99b362ebae@c0dd.org
+UID:0382379b-6793-4b51-b13a-bf115a01b5b5@0382.org
 URL:https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250513T200000Z
+DTEND:20250520T200000Z
+DTSTART:20250513T200000Z
+SUMMARY:Master League and Retro Cup: Great League Edition | Might and Mastery
+UID:8057185c-440c-446a-ae83-c1923dea43a3@8057.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_retro-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T220000Z
+DTEND:20250319T230000Z
+DTSTART:20250319T220000Z
+SUMMARY:Tapu Koko Raid Hour
+UID:81751008-b9dd-49db-b7c7-3b31785d0248@8175.org
+URL:https://leekduck.com/events/raidhour20250319/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250313T140000Z
 DTEND:20250322T140000Z
 DTSTART:20250313T140000Z
 SUMMARY:Mega Swampert in Mega Raids
-UID:9efb653a-22fa-48c2-88ab-43cf40d1decb@9efb.org
+UID:fe8915d6-6fe1-4db8-98be-6b9ddf2a8319@fe89.org
 URL:https://leekduck.com/events/mega-swampert-in-mega-raids-march-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T220000Z
+DTEND:20250326T230000Z
+DTSTART:20250326T220000Z
+SUMMARY:Heatran Raid Hour
+UID:da8b3af0-65a5-4fae-abbc-a8ae43262acb@da8b.org
+URL:https://leekduck.com/events/raidhour20250326/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250318T200000Z
+DTEND:20250325T200000Z
+DTSTART:20250318T200000Z
+SUMMARY:Master League and Scroll Cup: Great League Edition | Might and Mastery
+UID:d4631759-a405-439e-af46-15f1a2efd619@d463.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_scroll-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250304T180000Z
+DTEND:20250404T210000Z
+DTSTART:20250304T180000Z
+SUMMARY:Power Up Ticket: March
+UID:cd56ee9c-3892-4c7b-9eb5-3c3c313271bd@cd56.org
+URL:https://leekduck.com/events/power-up-ticket-march/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250221T140000Z
+DTEND:20250331T000000Z
+DTSTART:20250221T140000Z
+SUMMARY:Masterwork Research: A Dazzling Aria
+UID:1146d70d-3c00-4b6c-a202-c3645b20eef6@1146.org
+URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250322T180000Z
 DTEND:20250322T210000Z
 DTSTART:20250322T180000Z
 SUMMARY:Totodile Community Day Classic
-UID:c2f52e10-ccfa-40ff-8864-128f531a37f6@c2f5.org
+UID:dd773c76-c523-404d-94c9-3e152db431d8@dd77.org
 URL:https://leekduck.com/events/march-communitydayclassic2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250429T200000Z
-DTEND:20250506T200000Z
-DTSTART:20250429T200000Z
-SUMMARY:Great League and Great League Remix | Might and Mastery
-UID:da66d8c8-1b91-494e-afa9-65b8a40a963a@da66.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_great-league-remix/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250325T220000Z
-DTEND:20250325T230000Z
-DTSTART:20250325T220000Z
-SUMMARY:Cutiefly Spotlight Hour
-UID:c963432f-938f-48c4-badf-c98d00c88573@c963.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-03-25/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250311T200000Z
-DTEND:20250318T200000Z
-DTSTART:20250311T200000Z
-SUMMARY:Ultra League and Scroll Cup: Great League Edition | Might and Mastery
-UID:f722ffa2-44ac-43c2-a135-5f288716b64c@f722.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_scroll-cup-great-league-edition/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
