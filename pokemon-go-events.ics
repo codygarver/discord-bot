@@ -2,195 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20250304T140000Z
-DTEND:20250603T140000Z
-DTSTART:20250304T140000Z
-SUMMARY:Might and Mastery
-UID:2386a3ae-cde7-4747-a7a2-e76df111034a@2386.org
-URL:https://leekduck.com/events/season-18-might-and-mastery/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T140000Z
-DTEND:20250603T140000Z
-DTSTART:20250525T140000Z
-SUMMARY:Mega Altaria in Mega Raids
-UID:c7f67c6d-bec6-40dc-b183-ad7e2ded10e5@c7f6.org
-URL:https://leekduck.com/events/mega-altaria-in-mega-raids-may-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T180000Z
-DTEND:20250720T210000Z
-DTSTART:20250720T180000Z
-SUMMARY:July Community Day
-UID:36964f95-564a-4986-a18a-084763b9ae97@3696.org
-URL:https://leekduck.com/events/july-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T140000Z
-DTEND:20250525T140000Z
-DTSTART:20250512T140000Z
-SUMMARY:Mega Gyarados in Mega Raids
-UID:72eff96d-ca49-441d-8ad9-ccdb8ca025b4@72ef.org
-URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-may-2025/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250527T220000Z
 DTEND:20250527T230000Z
 DTSTART:20250527T220000Z
 SUMMARY:Golett Spotlight Hour
-UID:6577f1a9-5e0e-4349-ba2b-bc7e2ab7b5f4@6577.org
+UID:9554be18-aada-44db-ae82-d0c174ba0fab@9554.org
 URL:https://leekduck.com/events/pokemonspotlighthour2025-05-04/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T140000Z
-DTEND:20250603T140000Z
-DTSTART:20250525T140000Z
-SUMMARY:Tapu Bulu in 5-star Raid Battles
-UID:a5ccc948-4c4e-44fa-b4c7-63d0db66439a@a5cc.org
-URL:https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250520T070000Z
-DTEND:20250523T065959Z
-DTSTART:20250520T070000Z
-SUMMARY:Might and Mastery Finale: Global Challenge
-UID:dac4abd5-1562-459a-ab6d-bfee1dc71ec9@dac4.org
-URL:https://leekduck.com/events/might-and-mastery-finale-global-challenge/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250521T220000Z
-DTEND:20250521T230000Z
-DTSTART:20250521T220000Z
-SUMMARY:Uxie\, Mesprit\, and Azelf Raid Hour
-UID:b95a83c1-fe01-429f-9489-dd2be114e556@b95a.org
-URL:https://leekduck.com/events/raidhour20250521/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250519T220000Z
-DTEND:20250525T210000Z
-DTSTART:20250519T220000Z
-SUMMARY:Gigantamax Machamp Lead Up Timed Research
-UID:81fc2859-ee25-4998-b07c-9d00fd27eb4d@81fc.org
-URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-lead-up-timed-research/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250519T140000Z
-DTEND:20250521T000000Z
-DTSTART:20250519T140000Z
-SUMMARY:Kingambit PokéStop Showcases
-UID:903f65f8-a8d1-4c43-a5d6-d9563b0a0d97@903f.org
-URL:https://leekduck.com/events/pokemon-showcase-kingambit-2025-05-19/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T140000Z
-DTEND:20250604T140000Z
-DTSTART:20250504T140000Z
-SUMMARY:Power Up Ticket: May
-UID:ca4d3d4f-e76d-4099-9fcf-089f0a0eedbe@ca4d.org
-URL:https://leekduck.com/events/power-up-ticket-may/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250628T140000Z
-DTEND:20250629T220000Z
-DTSTART:20250628T140000Z
-SUMMARY:Pokémon GO Fest 2025: Global
-UID:a1b35528-384a-42cb-862d-9446212256b4@a1b3.org
-URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250527T200000Z
-DTEND:20250603T200000Z
-DTSTART:20250527T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
-UID:c2d2ce0e-15f3-45a1-9d2d-0709895d8413@c2d2.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250621T180000Z
-DTEND:20250621T210000Z
-DTSTART:20250621T180000Z
-SUMMARY:June Community Day
-UID:d09bcb5c-6058-4c1c-8bf9-82ee549bc1ca@d09b.org
-URL:https://leekduck.com/events/june-communityday2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250613T130000Z
 DTEND:20250615T220000Z
 DTSTART:20250613T130000Z
 SUMMARY:Paris\, France - Pokémon GO Fest 2025
-UID:53bf7c82-97fa-4114-bf29-c677a37632c0@53bf.org
+UID:76d686d5-50d4-4176-a07c-5050202bb018@76d6.org
 URL:https://leekduck.com/events/pokemon-go-fest-2025-paris-france/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T100000Z
-DTEND:20250602T020000Z
-DTSTART:20250504T100000Z
-SUMMARY:Shadow Regirock in Shadow Raids
-UID:ee53e83c-05bf-4b46-bb36-7600e98e7b5e@ee53.org
-URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-might-and-mastery/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250521T040000Z
-DTEND:20250528T035900Z
-DTSTART:20250521T040000Z
-SUMMARY:GO Battle Week: Might and Mastery
-UID:65148827-c018-4f20-b557-d02083bcba77@6514.org
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250526T220000Z
-DTEND:20250526T230000Z
-DTSTART:20250526T220000Z
-SUMMARY:Dynamax Rookidee during Max Monday
-UID:f6519282-6019-4004-a970-80bc024ea1be@f651.org
-URL:https://leekduck.com/events/max-mondays-2025-05-26/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250606T130000Z
-DTEND:20250608T220000Z
-DTSTART:20250606T130000Z
-SUMMARY:Jersey City\, United States - Pokémon GO Fest 2025
-UID:7db57b43-45c5-449b-8910-58627d269333@7db5.org
-URL:https://leekduck.com/events/pokemon-go-fest-2025-jersey-city-united-states/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250525T180000Z
 DTEND:20250525T210000Z
 DTSTART:20250525T180000Z
 SUMMARY:Gigantamax Machamp Max Battle Day
-UID:6e9b01ef-9185-452f-b99b-0a1c31383b1f@6e9b.org
+UID:01c612a7-6502-4cb9-914c-64934880aa1d@01c6.org
 URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-may-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T200000Z
-DTEND:20250527T200000Z
-DTSTART:20250520T200000Z
-SUMMARY:Great League and Catch Cup: Great League Edition | Might and Mastery
-UID:4de326b6-6d0e-40a5-8425-55bbb4dc05ec@4de3.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T140000Z
-DTEND:20250525T140000Z
-DTSTART:20250512T140000Z
-SUMMARY:Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
-UID:0251e919-d429-4134-8f44-d0418489ff5d@0251.org
-URL:https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-may-2025/
+DTSTAMP:20250527T200000Z
+DTEND:20250603T200000Z
+DTSTART:20250527T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
+UID:b0399769-fbe7-4faa-9dcf-2f7123998153@b039.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250521T140000Z
 DTEND:20250528T000000Z
 DTSTART:20250521T140000Z
 SUMMARY:Final Strike: GO Battle Week
-UID:11268bbc-a5e2-48b1-aa23-293ab06c75cf@1126.org
+UID:66bc75ad-6933-4ab4-9055-3dd6a2f69513@66bc.org
 URL:https://leekduck.com/events/final-strike-go-battle-week/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T140000Z
+DTEND:20250525T140000Z
+DTSTART:20250512T140000Z
+SUMMARY:Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
+UID:d5d7900f-0949-4aa1-898b-5a7ee64a530b@d5d7.org
+URL:https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-may-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T100000Z
+DTEND:20250526T100000Z
+DTSTART:20250519T100000Z
+SUMMARY:Max Battles - May 19 to May 26
+UID:ab49d3ab-e91b-47cd-aa56-45993633848e@ab49.org
+URL:https://leekduck.com/events/may-max-battles-split-4-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T220000Z
+DTEND:20250525T210000Z
+DTSTART:20250519T220000Z
+SUMMARY:Gigantamax Machamp Lead Up Timed Research
+UID:42254ee1-5e61-4356-9e4e-f23e4332938c@4225.org
+URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-lead-up-timed-research/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250521T040000Z
+DTEND:20250528T035900Z
+DTSTART:20250521T040000Z
+SUMMARY:GO Battle Week: Might and Mastery
+UID:c2e36371-8e26-44e6-b815-76903f2253e2@c2e3.org
+URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250520T070000Z
+DTEND:20250523T065959Z
+DTSTART:20250520T070000Z
+SUMMARY:Might and Mastery Finale: Global Challenge
+UID:6ebace92-689b-4136-93ed-9cf9001b2a1c@6eba.org
+URL:https://leekduck.com/events/might-and-mastery-finale-global-challenge/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T140000Z
+DTEND:20250525T140000Z
+DTSTART:20250512T140000Z
+SUMMARY:Mega Gyarados in Mega Raids
+UID:4d05943d-9eb2-447e-a7a1-7be07f60e593@4d05.org
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-may-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250504T100000Z
+DTEND:20250602T020000Z
+DTSTART:20250504T100000Z
+SUMMARY:Shadow Regirock in Shadow Raids
+UID:8b6be100-194b-4e12-8561-2fc3d19e7ceb@8b6b.org
+URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-might-and-mastery/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250506T140000Z
 DTEND:20250604T000000Z
 DTSTART:20250506T140000Z
 SUMMARY:GO Pass: May
-UID:084f0def-37ab-4ab5-b00a-d97d84ada43b@084f.org
+UID:16731993-f965-45d2-8a92-415feeb0e4ac@1673.org
 URL:https://leekduck.com/events/go-pass-may-2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -198,72 +110,136 @@ DTSTAMP:20250529T130000Z
 DTEND:20250601T220000Z
 DTSTART:20250529T130000Z
 SUMMARY:Osaka\, Japan - Pokémon GO Fest 2025
-UID:04933a14-7c1b-4fb8-a44c-31ff912ac365@0493.org
+UID:970af137-3fec-4358-8802-6b05e599a137@970a.org
 URL:https://leekduck.com/events/pokemon-go-fest-2025-osaka-japan/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T100000Z
-DTEND:20250602T100000Z
-DTSTART:20250526T100000Z
-SUMMARY:Max Battles - May 26 to June 2
-UID:86ffddef-3d0c-4181-bcf0-ef60d29ecd9f@86ff.org
-URL:https://leekduck.com/events/may-max-battles-split-5-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250513T200000Z
-DTEND:20250520T200000Z
-DTSTART:20250513T200000Z
-SUMMARY:Master League and Retro Cup: Great League Edition | Might and Mastery
-UID:2d422d04-5b24-404f-934c-58de28e71d3a@2d42.org
-URL:https://leekduck.com/events/gbl-might-and-mastery_master-league_retro-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250830T180000Z
-DTEND:20250830T210000Z
-DTSTART:20250830T180000Z
-SUMMARY:August Community Day
-UID:2f217555-7997-4671-b635-26eea7c5a0e2@2f21.org
-URL:https://leekduck.com/events/august-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250528T220000Z
-DTEND:20250528T230000Z
-DTSTART:20250528T220000Z
-SUMMARY:Tapu Bulu Raid Hour
-UID:022c79bc-7fac-4418-8646-241061de5255@022c.org
-URL:https://leekduck.com/events/raidhour20250528/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250520T220000Z
-DTEND:20250520T230000Z
-DTSTART:20250520T220000Z
-SUMMARY:Poochyena Spotlight Hour
-UID:6b2b9473-ea69-42fc-aeaf-a78fead99d86@6b2b.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-05-03/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250519T100000Z
-DTEND:20250526T100000Z
-DTSTART:20250519T100000Z
-SUMMARY:Max Battles - May 19 to May 26
-UID:d2238cf8-7c50-4330-835d-db3177e802f6@d223.org
-URL:https://leekduck.com/events/may-max-battles-split-4-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250705T180000Z
-DTEND:20250706T210000Z
-DTSTART:20250705T180000Z
-SUMMARY:July Community Day Classic
-UID:24243530-e5c1-4d0a-a028-bafa1827b034@2424.org
-URL:https://leekduck.com/events/july-communitydayclassic2025/
+DTSTAMP:20250525T140000Z
+DTEND:20250603T140000Z
+DTSTART:20250525T140000Z
+SUMMARY:Mega Altaria in Mega Raids
+UID:00d8b4b2-ef13-47b0-a845-422560724b6b@00d8.org
+URL:https://leekduck.com/events/mega-altaria-in-mega-raids-may-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250524T180000Z
 DTEND:20250524T210000Z
 DTSTART:20250524T180000Z
 SUMMARY:Machop Community Day Classic
-UID:20374e24-14f8-480a-98fb-462a23632610@2037.org
+UID:c9a7800b-19fc-4a6c-965c-2c78175b2d8f@c9a7.org
 URL:https://leekduck.com/events/may-communitydayclassic2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250621T180000Z
+DTEND:20250621T210000Z
+DTSTART:20250621T180000Z
+SUMMARY:June Community Day
+UID:6924ea7d-06f6-4254-abd5-f70dd6afbd39@6924.org
+URL:https://leekduck.com/events/june-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T100000Z
+DTEND:20250602T100000Z
+DTSTART:20250526T100000Z
+SUMMARY:Max Battles - May 26 to June 2
+UID:3ef28492-e5cf-4d49-8527-39d2aab3584e@3ef2.org
+URL:https://leekduck.com/events/may-max-battles-split-5-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250504T140000Z
+DTEND:20250604T140000Z
+DTSTART:20250504T140000Z
+SUMMARY:Power Up Ticket: May
+UID:ae1a3efa-5fe2-43e7-8b3e-932e606ecfba@ae1a.org
+URL:https://leekduck.com/events/power-up-ticket-may/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250304T140000Z
+DTEND:20250603T140000Z
+DTSTART:20250304T140000Z
+SUMMARY:Might and Mastery
+UID:33e54bad-aba4-4200-8cb4-8a03019d7d0d@33e5.org
+URL:https://leekduck.com/events/season-18-might-and-mastery/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250705T180000Z
+DTEND:20250706T210000Z
+DTSTART:20250705T180000Z
+SUMMARY:July Community Day Classic
+UID:ee3bad3d-177f-4620-b760-647961099437@ee3b.org
+URL:https://leekduck.com/events/july-communitydayclassic2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250521T220000Z
+DTEND:20250521T230000Z
+DTSTART:20250521T220000Z
+SUMMARY:Uxie\, Mesprit\, and Azelf Raid Hour
+UID:62a01380-6ec8-4bbc-aaee-bdc632c24352@62a0.org
+URL:https://leekduck.com/events/raidhour20250521/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250520T200000Z
+DTEND:20250527T200000Z
+DTSTART:20250520T200000Z
+SUMMARY:Great League and Catch Cup: Great League Edition | Might and Mastery
+UID:6c179123-ad7f-422e-af1e-65a79020b19e@6c17.org
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T140000Z
+DTEND:20250603T140000Z
+DTSTART:20250525T140000Z
+SUMMARY:Tapu Bulu in 5-star Raid Battles
+UID:d3be47f6-a8c0-46d3-9309-9d066f521809@d3be.org
+URL:https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T220000Z
+DTEND:20250526T230000Z
+DTSTART:20250526T220000Z
+SUMMARY:Dynamax Rookidee during Max Monday
+UID:798b9fba-d519-4716-a959-c3f37a98c47c@798b.org
+URL:https://leekduck.com/events/max-mondays-2025-05-26/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250628T140000Z
+DTEND:20250629T220000Z
+DTSTART:20250628T140000Z
+SUMMARY:Pokémon GO Fest 2025: Global
+UID:d1ae899f-a5fb-43d3-aea5-39b821ee6cb9@d1ae.org
+URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250720T180000Z
+DTEND:20250720T210000Z
+DTSTART:20250720T180000Z
+SUMMARY:July Community Day
+UID:9058889f-291d-4f89-b0d7-3081d3883606@9058.org
+URL:https://leekduck.com/events/july-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T220000Z
+DTEND:20250528T230000Z
+DTSTART:20250528T220000Z
+SUMMARY:Tapu Bulu Raid Hour
+UID:deffbf1f-480e-4cb5-9d2f-3dfee16b73a2@deff.org
+URL:https://leekduck.com/events/raidhour20250528/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250606T130000Z
+DTEND:20250608T220000Z
+DTSTART:20250606T130000Z
+SUMMARY:Jersey City\, United States - Pokémon GO Fest 2025
+UID:3948f17e-51f0-4357-b529-c523c47d36da@3948.org
+URL:https://leekduck.com/events/pokemon-go-fest-2025-jersey-city-united-states/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250830T180000Z
+DTEND:20250830T210000Z
+DTSTART:20250830T180000Z
+SUMMARY:August Community Day
+UID:584f8d54-0caa-4d35-9d20-3faceccd2330@584f.org
+URL:https://leekduck.com/events/august-communityday2025/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
