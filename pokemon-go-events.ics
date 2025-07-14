@@ -2,388 +2,364 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20250712T140000Z
-DTEND:20250714T000000Z
-DTSTART:20250712T140000Z
-SUMMARY:Hisuian Lilligant PokéStop Showcases
-UID:bca837d0-0385-44de-b4ad-36eb4b51853f@bca8.org
-URL:https://leekduck.com/events/pokemon-showcase-lilligant-2025-07-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250729T200000Z
-DTEND:20250805T200000Z
-DTSTART:20250729T200000Z
-SUMMARY:Great League and Fossil Cup: Great League Edition | Delightful Days
-UID:c77a4214-9899-4835-8b9e-f67ba535e464@c77a.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_fossil-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250803T100000Z
-DTEND:20250804T010000Z
-DTSTART:20250803T100000Z
-SUMMARY:Max Battle Day
-UID:654bb5d1-913f-4760-9077-2edc2ef38500@654b.org
-URL:https://leekduck.com/events/max-battle-day-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250716T220000Z
-DTEND:20250716T230000Z
-DTSTART:20250716T220000Z
-SUMMARY:Terrakion Raid Hour
-UID:9fa87cf6-3334-4573-a16a-d4666f2c6939@9fa8.org
-URL:https://leekduck.com/events/raidhour20250716/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T140000Z
-DTEND:20250728T000000Z
-DTSTART:20250722T140000Z
-SUMMARY:Ultra Unlock: Steel and Scales
-UID:532421e8-a26a-45c5-9a46-a80792637b74@5324.org
-URL:https://leekduck.com/events/ultra-unlock-steel-and-scales/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250708T140000Z
-DTEND:20250714T000000Z
-DTSTART:20250708T140000Z
-SUMMARY:Ultra Unlock: Hisui Celebration
-UID:2a4df908-50e5-4d99-8f8b-3e81fcae3075@2a4d.org
-URL:https://leekduck.com/events/ultra-unlock-hisui-celebration/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250730T220000Z
-DTEND:20250730T230000Z
-DTSTART:20250730T220000Z
-SUMMARY:Virizion Raid Hour
-UID:7278202a-f667-4dc3-931f-2863974f7b24@7278.org
-URL:https://leekduck.com/events/raidhour20250730/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250703T140000Z
-DTEND:20250803T140000Z
-DTSTART:20250703T140000Z
-SUMMARY:Eggs-pedition Access: July
-UID:e0565c05-82ed-4de9-bf46-f55c5cda9fba@e056.org
-URL:https://leekduck.com/events/eggs-pedition-access-july-2025/
+DTSTAMP:20250802T180000Z
+DTEND:20250802T210000Z
+DTSTART:20250802T180000Z
+SUMMARY:Research Day
+UID:e163531e-d553-413a-8f29-fc4bba5ebf47@e163.org
+URL:https://leekduck.com/events/research-day-august-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250714T140000Z
 DTEND:20250722T140000Z
 DTSTART:20250714T140000Z
 SUMMARY:Terrakion in 5-star Raid Battles
-UID:dc7792a2-682e-4b16-a768-11b007eff0bf@dc77.org
+UID:a48c2a33-1d6a-486d-930b-8213a9617eb0@a48c.org
 URL:https://leekduck.com/events/terrakion-in-5-star-raid-battles-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250728T140000Z
-DTEND:20250804T140000Z
-DTSTART:20250728T140000Z
-SUMMARY:Mega Aerodactyl in Mega Raids
-UID:231fd0f5-7371-4c3d-842a-45536725698a@231f.org
-URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-july-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T220000Z
-DTEND:20250722T230000Z
-DTSTART:20250722T220000Z
-SUMMARY:Jigglypuff Spotlight Hour
-UID:1313fc4a-df9f-4be5-a13a-c84b8d8a1802@1313.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-07-22/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T200000Z
-DTEND:20250729T200000Z
-DTSTART:20250722T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
-UID:ee058e07-049f-47b8-b17d-689ed3482558@ee05.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250809T180000Z
-DTEND:20250809T210000Z
-DTSTART:20250809T180000Z
-SUMMARY:Hatch Day
-UID:23df76bb-5bbb-44bc-ba86-f9173ce9295d@23df.org
-URL:https://leekduck.com/events/hatch-day-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250719T180000Z
-DTEND:20250719T210000Z
-DTSTART:20250719T180000Z
-SUMMARY:Gigantamax Lapras Max Battle Day
-UID:df967e4a-cf6c-41a8-a612-52d385aaf81e@df96.org
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T180000Z
-DTEND:20250720T210000Z
-DTSTART:20250720T180000Z
-SUMMARY:Quaxly Community Day
-UID:15fe4eba-09ae-48de-9419-a8cd23a483f3@15fe.org
-URL:https://leekduck.com/events/july-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250701T140000Z
-DTEND:20250805T140000Z
-DTSTART:20250701T140000Z
-SUMMARY:GO Pass: July
-UID:11fac8ed-442a-4eba-85ec-cdc27af5b25f@11fa.org
-URL:https://leekduck.com/events/go-pass-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250715T200000Z
-DTEND:20250722T200000Z
-DTSTART:20250715T200000Z
-SUMMARY:Master League and Sunshine Cup: Great League Edition | Delightful Days
-UID:bfaa148a-2743-4e86-8e1e-9347fd629f85@bfaa.org
-URL:https://leekduck.com/events/gbl-delightful-days_master-league_sunshine-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250715T220000Z
-DTEND:20250715T230000Z
-DTSTART:20250715T220000Z
-SUMMARY:Feebas Spotlight Hour
-UID:4b820c33-a3cd-4104-a54c-2b7c220c9ec2@4b82.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-07-15/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250705T100000Z
 DTEND:20250804T020000Z
 DTSTART:20250705T100000Z
 SUMMARY:Shadow Registeel in Shadow Raids
-UID:442dc9a0-7cac-48c2-8b66-819d09af3647@442d.org
+UID:9f36d057-d09b-46a2-a1c6-3eb668a5c7d8@9f36.org
 URL:https://leekduck.com/events/shadow-registeel-in-shadow-raids-july-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T100000Z
-DTEND:20250728T010000Z
-DTSTART:20250726T100000Z
-SUMMARY:Dynamax Latias and Dynamax Latios Max Battle Weekend
-UID:79618bb7-d35d-4152-ad82-8419a1b24ad2@7961.org
-URL:https://leekduck.com/events/dynamax-latias-latios-max-battle-weekend/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250802T180000Z
-DTEND:20250802T210000Z
-DTSTART:20250802T180000Z
-SUMMARY:Research Day
-UID:b4c0061c-7697-494a-914a-dff6fa56ff64@b4c0.org
-URL:https://leekduck.com/events/research-day-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T180000Z
-DTEND:20250810T210000Z
-DTSTART:20250810T180000Z
-SUMMARY:Raid Day
-UID:09237a3b-b0fe-4c98-af18-c2a12da85064@0923.org
-URL:https://leekduck.com/events/raid-day-august-2025-1/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250816T100000Z
-DTEND:20250818T010000Z
-DTSTART:20250816T100000Z
-SUMMARY:Shadow Raid Weekend
-UID:152ccfc4-a5ab-451d-9fa4-4bf0eb440ee4@152c.org
-URL:https://leekduck.com/events/shadow-raid-weekend-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250715T140000Z
-DTEND:20250721T000000Z
-DTSTART:20250715T140000Z
-SUMMARY:Water Festival 2025
-UID:bf3fbbe5-88c0-4197-b443-dd4410280365@bf3f.org
-URL:https://leekduck.com/events/water-festival-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250728T140000Z
-DTEND:20250804T140000Z
-DTSTART:20250728T140000Z
-SUMMARY:Virizion in 5-star Raid Battles
-UID:8d924c5c-2015-4e16-81cf-0d7d2009046f@8d92.org
-URL:https://leekduck.com/events/virizion-in-5-star-raid-battles-july-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250830T180000Z
-DTEND:20250830T210000Z
-DTSTART:20250830T180000Z
-SUMMARY:August Community Day
-UID:fbc5fb05-7c59-4389-8dd3-240e97096903@fbc5.org
-URL:https://leekduck.com/events/august-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250708T140000Z
-DTEND:20250714T140000Z
-DTSTART:20250708T140000Z
-SUMMARY:Mega Charizard X in Mega Raids
-UID:b0291f88-fbe5-4e04-9cc1-fac71202cc5f@b029.org
-URL:https://leekduck.com/events/mega-charizard-x-in-mega-raids-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T180000Z
-DTEND:20250831T210000Z
-DTSTART:20250831T180000Z
-SUMMARY:Raid Day
-UID:a45d6d1a-fc67-460c-b5dd-f0d975bfda85@a45d.org
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250812T200000Z
-DTEND:20250819T200000Z
-DTSTART:20250812T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
-UID:b95a6e8b-ff64-4b06-99b8-b9ea19d0b2ff@b95a.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T200000Z
-DTEND:20250812T200000Z
-DTSTART:20250805T200000Z
-SUMMARY:Ultra League and Summer Cup: Ultra League Edition | Delightful Days
-UID:281f31c8-878a-4080-871b-745aebfce414@281f.org
-URL:https://leekduck.com/events/gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250719T100000Z
-DTEND:20250720T010000Z
-DTSTART:20250719T100000Z
-SUMMARY:Max Battle Day
-UID:1773421c-d7ee-4b4a-b91d-f7b6eb5e78b8@1773.org
-URL:https://leekduck.com/events/max-battle-day-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250723T220000Z
-DTEND:20250723T230000Z
-DTSTART:20250723T220000Z
-SUMMARY:Lunala Raid Hour
-UID:e3773359-ad1b-4975-bf44-6dcb0d96fa59@e377.org
-URL:https://leekduck.com/events/raidhour20250723/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T100000Z
-DTEND:20250719T210000Z
-DTSTART:20250714T100000Z
-SUMMARY:Gigantamax Lapras Lead Up Timed Research
-UID:aea139d2-615e-47fe-99e2-3bdb55b82ff5@aea1.org
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-lead-up-timed-research/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250819T200000Z
-DTEND:20250826T200000Z
-DTSTART:20250819T200000Z
-SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
-UID:989b18d0-2247-441d-8f25-3c7790e04fb8@989b.org
-URL:https://leekduck.com/events/gbl-delightful-days_master-league_catch-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250729T220000Z
-DTEND:20250729T230000Z
-DTSTART:20250729T220000Z
-SUMMARY:Roggenrola Spotlight Hour
-UID:96b88a40-4a69-4881-b5d9-413293e6e473@96b8.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-07-29/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250721T220000Z
-DTEND:20250721T230000Z
-DTSTART:20250721T220000Z
-SUMMARY:Dynamax Darumaka during Max Monday
-UID:1cc82183-b1e7-4cd3-b19e-3685f9bc7a95@1cc8.org
-URL:https://leekduck.com/events/max-mondays-2025-07-21/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250712T140000Z
-DTEND:20250714T000000Z
-DTSTART:20250712T140000Z
-SUMMARY:Water-type Pokémon PokéStop Showcases
-UID:e397bad2-68cc-4206-b458-b58a2ff74278@e397.org
-URL:https://leekduck.com/events/pokemon-showcase-water-type-pokemon-2025-07-13/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250603T140000Z
-DTEND:20250902T140000Z
-DTSTART:20250603T140000Z
-SUMMARY:Delightful Days
-UID:c1173487-9f62-4893-8767-fcc4f7920cd7@c117.org
-URL:https://leekduck.com/events/season-19-delightful-days/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250728T220000Z
-DTEND:20250728T230000Z
-DTSTART:20250728T220000Z
-SUMMARY:Dynamax Kabuto during Max Monday
-UID:0e7ecc33-ff34-4fb5-81c8-17a2484838b4@0e7e.org
-URL:https://leekduck.com/events/max-mondays-2025-07-28/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T140000Z
-DTEND:20250728T140000Z
-DTSTART:20250722T140000Z
-SUMMARY:Mega Venusaur in Mega Raids
-UID:62e8ba9a-3cff-4919-9971-f4384713617a@62e8.org
-URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T140000Z
-DTEND:20250728T140000Z
-DTSTART:20250722T140000Z
-SUMMARY:Lunala in 5-star Raid Battles
-UID:1abb7267-340c-4e5b-875e-fbeb5369aae4@1abb.org
-URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T220000Z
-DTEND:20250714T230000Z
-DTSTART:20250714T220000Z
-SUMMARY:Dynamax Wailmer during Max Monday
-UID:7351b346-9d1b-4bdd-82c3-3dc177fe9820@7351.org
-URL:https://leekduck.com/events/max-mondays-2025-07-14/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250708T200000Z
-DTEND:20250715T200000Z
-DTSTART:20250708T200000Z
-SUMMARY:Ultra League and Hisui Cup: Great League Edition | Delightful Days
-UID:765dbf9f-557a-431d-a6de-470cf8ba69c0@765d.org
-URL:https://leekduck.com/events/gbl-delightful-days_ultra-league_hisui-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250826T200000Z
-DTEND:20250902T200000Z
-DTSTART:20250826T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
-UID:b6b09e57-e2dd-4f29-b045-5a62dcf212fa@b6b0.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-4/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250719T210000Z
-DTEND:20250723T000000Z
-DTSTART:20250719T210000Z
-SUMMARY:Summer Concert
-UID:a332aa8a-2358-416d-9795-65a6028c98cb@a332.org
-URL:https://leekduck.com/events/summer-concert/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T140000Z
-DTEND:20250722T140000Z
-DTSTART:20250714T140000Z
-SUMMARY:Mega Blastoise in Mega Raids
-UID:75951243-268b-434c-bd04-547eae1f21e2@7595.org
-URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250729T140000Z
-DTEND:20250804T000000Z
-DTSTART:20250729T140000Z
-SUMMARY:Adventure Week 2025
-UID:625a0cfe-42eb-41b3-9e18-516abd3b1adb@625a.org
-URL:https://leekduck.com/events/adventure-week-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250708T140000Z
 DTEND:20250714T140000Z
 DTSTART:20250708T140000Z
 SUMMARY:Solgaleo in 5-star Raid Battles
-UID:47a736a1-f5a9-40df-9804-252b37228ccc@47a7.org
+UID:ea5c9d24-531a-4cf8-840a-c8c4e2f509a2@ea5c.org
 URL:https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250720T180000Z
+DTEND:20250720T210000Z
+DTSTART:20250720T180000Z
+SUMMARY:Quaxly Community Day
+UID:c078f0d7-d77b-4c17-a68c-e8d5dcc2f3ae@c078.org
+URL:https://leekduck.com/events/july-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T220000Z
+DTEND:20250721T230000Z
+DTSTART:20250721T220000Z
+SUMMARY:Dynamax Darumaka during Max Monday
+UID:e5686527-a86d-45d8-88b5-959de737721f@e568.org
+URL:https://leekduck.com/events/max-mondays-2025-07-21/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250830T180000Z
+DTEND:20250830T210000Z
+DTSTART:20250830T180000Z
+SUMMARY:August Community Day
+UID:9fc04a9d-0a08-4e2c-bafc-9f6df5a562b0@9fc0.org
+URL:https://leekduck.com/events/august-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T220000Z
+DTEND:20250716T230000Z
+DTSTART:20250716T220000Z
+SUMMARY:Terrakion Raid Hour
+UID:18d01df8-6a1d-4c36-b5e1-e0d521c7329d@18d0.org
+URL:https://leekduck.com/events/raidhour20250716/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T100000Z
+DTEND:20250719T210000Z
+DTSTART:20250714T100000Z
+SUMMARY:Gigantamax Lapras Lead Up Timed Research
+UID:bf1b2307-70b8-41bf-b524-900984568371@bf1b.org
+URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-lead-up-timed-research/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250701T140000Z
+DTEND:20250805T140000Z
+DTSTART:20250701T140000Z
+SUMMARY:GO Pass: July
+UID:1bacb453-3e6d-4a0e-9527-c3cc9d720b10@1bac.org
+URL:https://leekduck.com/events/go-pass-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T140000Z
+DTEND:20250728T000000Z
+DTSTART:20250722T140000Z
+SUMMARY:Ultra Unlock: Steel and Scales
+UID:3079e314-051f-4ca7-b5c0-30bbf8ec8ca1@3079.org
+URL:https://leekduck.com/events/ultra-unlock-steel-and-scales/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250826T200000Z
+DTEND:20250902T200000Z
+DTSTART:20250826T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
+UID:f0a8e36d-36b7-42d3-883e-edc404cf5c1b@f0a8.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250715T140000Z
+DTEND:20250721T000000Z
+DTSTART:20250715T140000Z
+SUMMARY:Water Festival 2025
+UID:4e74ff60-7d7e-4f1d-b8eb-082acf7ac40d@4e74.org
+URL:https://leekduck.com/events/water-festival-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250726T100000Z
+DTEND:20250728T010000Z
+DTSTART:20250726T100000Z
+SUMMARY:Dynamax Latias and Dynamax Latios Max Battle Weekend
+UID:a7d8238c-7bfd-4cc6-862d-2b7059d75c28@a7d8.org
+URL:https://leekduck.com/events/dynamax-latias-latios-max-battle-weekend/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250603T140000Z
+DTEND:20250902T140000Z
+DTSTART:20250603T140000Z
+SUMMARY:Delightful Days
+UID:c18c1677-a6b9-4847-b444-f9ef56de189f@c18c.org
+URL:https://leekduck.com/events/season-19-delightful-days/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250803T100000Z
+DTEND:20250804T010000Z
+DTSTART:20250803T100000Z
+SUMMARY:Max Battle Day
+UID:c7718700-b606-4883-8e4a-2886ad9007e5@c771.org
+URL:https://leekduck.com/events/max-battle-day-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T140000Z
+DTEND:20250804T140000Z
+DTSTART:20250728T140000Z
+SUMMARY:Mega Aerodactyl in Mega Raids
+UID:95d34f58-6585-4cdc-a463-e6533977ebad@95d3.org
+URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-july-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250730T220000Z
+DTEND:20250730T230000Z
+DTSTART:20250730T220000Z
+SUMMARY:Virizion Raid Hour
+UID:805aac62-1087-48e4-ac0d-4796be3feb32@805a.org
+URL:https://leekduck.com/events/raidhour20250730/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250715T200000Z
+DTEND:20250722T200000Z
+DTSTART:20250715T200000Z
+SUMMARY:Master League and Sunshine Cup: Great League Edition | Delightful Days
+UID:7565e8f4-c10e-4953-b40d-1271fb34b374@7565.org
+URL:https://leekduck.com/events/gbl-delightful-days_master-league_sunshine-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250729T220000Z
+DTEND:20250729T230000Z
+DTSTART:20250729T220000Z
+SUMMARY:Roggenrola Spotlight Hour
+UID:13a716d5-74b4-4b90-8fb5-efe4fef898ce@13a7.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-07-29/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250719T180000Z
+DTEND:20250719T210000Z
+DTSTART:20250719T180000Z
+SUMMARY:Gigantamax Lapras Max Battle Day
+UID:55c62d8a-0455-421f-a161-49c4a1d6e705@55c6.org
+URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T140000Z
+DTEND:20250728T140000Z
+DTSTART:20250722T140000Z
+SUMMARY:Mega Venusaur in Mega Raids
+UID:a7f7394e-848f-4016-a05b-19eb86a16ca6@a7f7.org
+URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250708T140000Z
+DTEND:20250714T140000Z
+DTSTART:20250708T140000Z
+SUMMARY:Mega Charizard X in Mega Raids
+UID:3592368c-1ad8-41df-9a35-dcd614eede13@3592.org
+URL:https://leekduck.com/events/mega-charizard-x-in-mega-raids-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250810T180000Z
+DTEND:20250810T210000Z
+DTSTART:20250810T180000Z
+SUMMARY:Raid Day
+UID:9f939fe5-2b25-4b25-b6b6-0394f305335a@9f93.org
+URL:https://leekduck.com/events/raid-day-august-2025-1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T140000Z
+DTEND:20250803T140000Z
+DTSTART:20250703T140000Z
+SUMMARY:Eggs-pedition Access: July
+UID:f9eb8632-cd54-4c43-9fc7-69cabb412879@f9eb.org
+URL:https://leekduck.com/events/eggs-pedition-access-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250715T220000Z
+DTEND:20250715T230000Z
+DTSTART:20250715T220000Z
+SUMMARY:Feebas Spotlight Hour
+UID:f66545ea-9ce9-4c22-8d13-d35cf5b9a99c@f665.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-07-15/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T140000Z
+DTEND:20250716T000000Z
+DTSTART:20250714T140000Z
+SUMMARY:Water-type Pokémon PokéStop Showcases
+UID:29602759-6aa2-45cf-a09f-ef4ed44335fa@2960.org
+URL:https://leekduck.com/events/pokemon-showcase-water-type-pokemon-2025-07-13/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250708T200000Z
+DTEND:20250715T200000Z
+DTSTART:20250708T200000Z
+SUMMARY:Ultra League and Hisui Cup: Great League Edition | Delightful Days
+UID:2b7c1b7e-2469-451b-837e-e8aafee67111@2b7c.org
+URL:https://leekduck.com/events/gbl-delightful-days_ultra-league_hisui-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T140000Z
+DTEND:20250722T140000Z
+DTSTART:20250714T140000Z
+SUMMARY:Mega Blastoise in Mega Raids
+UID:02aaeb25-e823-45ff-ab00-d84cb2df97ad@02aa.org
+URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T220000Z
+DTEND:20250728T230000Z
+DTSTART:20250728T220000Z
+SUMMARY:Dynamax Kabuto during Max Monday
+UID:e3d77cf3-7951-47f0-bdd9-168169d59369@e3d7.org
+URL:https://leekduck.com/events/max-mondays-2025-07-28/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T220000Z
+DTEND:20250722T230000Z
+DTSTART:20250722T220000Z
+SUMMARY:Jigglypuff Spotlight Hour
+UID:902db07a-c94c-4721-916e-69ca88237117@902d.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-07-22/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T140000Z
+DTEND:20250804T140000Z
+DTSTART:20250728T140000Z
+SUMMARY:Virizion in 5-star Raid Battles
+UID:098e0884-fa52-40ee-a920-5ee14da5f8dc@098e.org
+URL:https://leekduck.com/events/virizion-in-5-star-raid-battles-july-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T220000Z
+DTEND:20250714T230000Z
+DTSTART:20250714T220000Z
+SUMMARY:Dynamax Wailmer during Max Monday
+UID:f97681a4-4ac0-4552-b938-7216d7a66319@f976.org
+URL:https://leekduck.com/events/max-mondays-2025-07-14/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250812T200000Z
+DTEND:20250819T200000Z
+DTSTART:20250812T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
+UID:2c382c43-f42f-4c98-a4db-0b7a82de6d46@2c38.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250719T210000Z
+DTEND:20250723T000000Z
+DTSTART:20250719T210000Z
+SUMMARY:Summer Concert
+UID:1f3d546c-9bd9-4b3e-abff-ad7f380175a8@1f3d.org
+URL:https://leekduck.com/events/summer-concert/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250819T200000Z
+DTEND:20250826T200000Z
+DTSTART:20250819T200000Z
+SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
+UID:44f2067d-330d-4f8f-bd03-01e6c0805219@44f2.org
+URL:https://leekduck.com/events/gbl-delightful-days_master-league_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T200000Z
+DTEND:20250729T200000Z
+DTSTART:20250722T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
+UID:1750158d-03df-4342-8d27-7bc52ad2ea9e@1750.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250729T200000Z
+DTEND:20250805T200000Z
+DTSTART:20250729T200000Z
+SUMMARY:Great League and Fossil Cup: Great League Edition | Delightful Days
+UID:c494fa87-d000-4b12-8d11-446093c60de3@c494.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_fossil-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250831T180000Z
+DTEND:20250831T210000Z
+DTSTART:20250831T180000Z
+SUMMARY:Raid Day
+UID:87798669-9969-49cb-9092-81d39293a51f@8779.org
+URL:https://leekduck.com/events/raid-day-august-2025-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250809T180000Z
+DTEND:20250809T210000Z
+DTSTART:20250809T180000Z
+SUMMARY:Hatch Day
+UID:89d4ee0f-1b73-429e-858c-3194cc9e9166@89d4.org
+URL:https://leekduck.com/events/hatch-day-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250805T200000Z
+DTEND:20250812T200000Z
+DTSTART:20250805T200000Z
+SUMMARY:Ultra League and Summer Cup: Ultra League Edition | Delightful Days
+UID:782f9c07-532f-4616-aa0b-e6c905d6cfb8@782f.org
+URL:https://leekduck.com/events/gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T140000Z
+DTEND:20250728T140000Z
+DTSTART:20250722T140000Z
+SUMMARY:Lunala in 5-star Raid Battles
+UID:2adec3b7-b584-4f6b-bc07-1cc8ec4fdb96@2ade.org
+URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-july-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250723T220000Z
+DTEND:20250723T230000Z
+DTSTART:20250723T220000Z
+SUMMARY:Lunala Raid Hour
+UID:f08c23cc-e1c0-4bae-aeb0-b882301382eb@f08c.org
+URL:https://leekduck.com/events/raidhour20250723/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250729T140000Z
+DTEND:20250804T000000Z
+DTSTART:20250729T140000Z
+SUMMARY:Adventure Week 2025
+UID:ea82503a-76d1-4ca8-b1c8-804efbc35a02@ea82.org
+URL:https://leekduck.com/events/adventure-week-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T100000Z
+DTEND:20250818T010000Z
+DTSTART:20250816T100000Z
+SUMMARY:Shadow Raid Weekend
+UID:0ca41479-7740-4d58-beca-1dc8555ff5e2@0ca4.org
+URL:https://leekduck.com/events/shadow-raid-weekend-august-2025/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
