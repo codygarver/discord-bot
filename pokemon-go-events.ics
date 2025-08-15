@@ -2,195 +2,139 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
-DTSTAMP:20250819T220000Z
-DTEND:20250819T230000Z
-DTSTART:20250819T220000Z
-SUMMARY:Ralts Spotlight Hour
-UID:e5c405e4-6a79-421c-afcb-59843daf6c5c@e5c4.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-08-19/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T140000Z
-DTEND:20250902T140000Z
-DTSTART:20250805T140000Z
-SUMMARY:GO Pass: August
-UID:8d48f24e-b7ea-41a6-87a1-02b1789a66a3@8d48.org
-URL:https://leekduck.com/events/go-pass-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250825T140000Z
-DTEND:20250901T000000Z
-DTSTART:20250825T140000Z
-SUMMARY:Sunkissed Shores
-UID:438aa3d1-e772-4ea4-8a9e-682adfde624b@438a.org
-URL:https://leekduck.com/events/sunkissed-shores/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250830T180000Z
-DTEND:20250830T210000Z
-DTSTART:20250830T180000Z
-SUMMARY:Rookidee Community Day
-UID:cb01a4e6-423c-4ebf-87f4-2ea532c94d4b@cb01.org
-URL:https://leekduck.com/events/august-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T140000Z
-DTEND:20250818T000000Z
-DTSTART:20250815T140000Z
-SUMMARY:2025 Pokémon World Championships Celebration
-UID:cffcb9ec-e15e-45f8-bb1f-3cd2d9d63818@cffc.org
-URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weekend-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T180000Z
-DTEND:20250831T210000Z
-DTSTART:20250831T180000Z
-SUMMARY:Raid Day
-UID:1d732201-7669-4a96-a8cc-48839c40e5b1@1d73.org
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T180000Z
-DTEND:20251130T210000Z
-DTSTART:20251130T180000Z
-SUMMARY:November Community Day
-UID:a5d6d9e9-fd53-4b8f-a1e2-5a87279b6c10@a5d6.org
-URL:https://leekduck.com/events/november-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250901T220000Z
-DTEND:20250901T230000Z
-DTSTART:20250901T220000Z
-SUMMARY:Dynamax Pidove during Max Monday
-UID:7ee062f8-c8f2-43cc-acf4-eb5a6d14e38d@7ee0.org
-URL:https://leekduck.com/events/max-mondays-2025-09-01/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250826T200000Z
-DTEND:20250902T200000Z
-DTSTART:20250826T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
-UID:c7108a7a-2f12-40df-b8d4-c22e63eeacb8@c710.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-4/
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250818T140000Z
 DTEND:20250825T140000Z
 DTSTART:20250818T140000Z
 SUMMARY:Mega Pidgeot in Mega Raids
-UID:35ef7101-f8f6-4425-a4e0-0af716f51048@35ef.org
+UID:77a7a482-adf5-4c0e-93e5-55341ef861da@77a7.org
 URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250812T200000Z
-DTEND:20250819T200000Z
-DTSTART:20250812T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
-UID:52415c03-5628-4dda-8d0c-9cdb10093cfc@5241.org
-URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250914T180000Z
-DTEND:20250914T210000Z
-DTSTART:20250914T180000Z
-SUMMARY:Flabébé Community Day
-UID:a010415a-8f68-4eb9-b14c-986d98803a0d@a010.org
-URL:https://leekduck.com/events/september-communityday2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T160000Z
-DTEND:20250818T020000Z
-DTSTART:20250815T160000Z
-SUMMARY:Twitch Drops for 2025 Pokémon World Championships
-UID:d9a0ebab-470c-46ce-901c-e289b2ae9d27@d9a0.org
-URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-research-twitch-drops/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250603T140000Z
-DTEND:20250902T140000Z
-DTSTART:20250603T140000Z
-SUMMARY:Delightful Days
-UID:3844b117-118d-423d-9f05-6fce82120cc1@3844.org
-URL:https://leekduck.com/events/season-19-delightful-days/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250811T140000Z
-DTEND:20250818T140000Z
-DTSTART:20250811T140000Z
-SUMMARY:Ho-Oh in 5-star Raid Battles
-UID:2a2e1aa6-ca9b-4966-9996-1f46964803d6@2a2e.org
-URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250811T140000Z
-DTEND:20250818T140000Z
-DTSTART:20250811T140000Z
-SUMMARY:Mega Slowbro in Mega Raids
-UID:638fc534-322a-418c-b086-fbd8911b1306@638f.org
-URL:https://leekduck.com/events/mega-slowbro-in-mega-raids-august-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250827T220000Z
-DTEND:20250827T230000Z
-DTSTART:20250827T220000Z
-SUMMARY:Necrozma Raid Hour
-UID:37443978-708c-412b-9755-dd71c3afa5a1@3744.org
-URL:https://leekduck.com/events/raidhour20250827/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250803T100000Z
-DTEND:20250903T020000Z
-DTSTART:20250803T100000Z
-SUMMARY:Shadow Regirock in Shadow Raids
-UID:866c6998-e694-4cf9-a7b2-47b3a07597df@866c.org
-URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-august-september-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250823T140000Z
-DTEND:20250824T220000Z
-DTSTART:20250823T140000Z
-SUMMARY:Pokémon GO Fest 2025: Max Finale
-UID:23543ecb-6456-429d-96fd-9eaa6f06906e@2354.org
-URL:https://leekduck.com/events/pokemon-go-fest-2025-max-finale/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251012T180000Z
-DTEND:20251012T210000Z
-DTSTART:20251012T180000Z
-SUMMARY:October Community Day
-UID:174701d9-31bf-4831-ad5f-48ffe2beb8c4@1747.org
-URL:https://leekduck.com/events/october-communityday2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250825T140000Z
 DTEND:20250902T140000Z
 DTSTART:20250825T140000Z
 SUMMARY:Mega Salamence in Mega Raids
-UID:47703064-5a0b-45eb-9331-fc0093ce962d@4770.org
+UID:3858e888-f8cb-43ba-9937-60af9daf34a8@3858.org
 URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-september-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250819T200000Z
-DTEND:20250826T200000Z
-DTSTART:20250819T200000Z
-SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
-UID:a1052c92-6894-4cbc-9a37-c3774f3eea32@a105.org
-URL:https://leekduck.com/events/gbl-delightful-days_master-league_catch-cup-great-league-edition/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250825T140000Z
 DTEND:20250902T140000Z
 DTSTART:20250825T140000Z
 SUMMARY:Necrozma in 5-star Raid Battles
-UID:4f0927fb-d235-4e64-a767-83de0ce76bae@4f09.org
+UID:8ed0e78a-e1c2-4490-8255-a343c64455d8@8ed0.org
 URL:https://leekduck.com/events/necrozma-in-5-star-raid-battles-august-september-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250827T220000Z
+DTEND:20250827T230000Z
+DTSTART:20250827T220000Z
+SUMMARY:Necrozma Raid Hour
+UID:c794f610-3946-4b53-8527-69cb4eb7f1e5@c794.org
+URL:https://leekduck.com/events/raidhour20250827/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251130T180000Z
+DTEND:20251130T210000Z
+DTSTART:20251130T180000Z
+SUMMARY:November Community Day
+UID:3673c489-6c54-4b1f-90c0-9622fd8c457a@3673.org
+URL:https://leekduck.com/events/november-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T040000Z
+DTEND:20250818T035900Z
+DTSTART:20250811T040000Z
+SUMMARY:Delightful Days: Taken Over
+UID:dccf396e-3fdf-4f70-ad38-9f62e04d7af5@dccf.org
+URL:https://leekduck.com/events/delightful-days-taken-over/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250815T160000Z
+DTEND:20250818T020000Z
+DTSTART:20250815T160000Z
+SUMMARY:Twitch Drops for 2025 Pokémon World Championships
+UID:313c28e4-76bf-497b-9220-fff6db6db636@313c.org
+URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-research-twitch-drops/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T220000Z
+DTEND:20250901T230000Z
+DTSTART:20250901T220000Z
+SUMMARY:Dynamax Pidove during Max Monday
+UID:c5c25b5f-e447-45ef-aba3-ccb16037ea1f@c5c2.org
+URL:https://leekduck.com/events/max-mondays-2025-09-01/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T140000Z
+DTEND:20250818T140000Z
+DTSTART:20250811T140000Z
+SUMMARY:Mega Slowbro in Mega Raids
+UID:1cb05f45-cfb0-4347-98e8-8f2ac4a4d8fc@1cb0.org
+URL:https://leekduck.com/events/mega-slowbro-in-mega-raids-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250815T140000Z
+DTEND:20250818T000000Z
+DTSTART:20250815T140000Z
+SUMMARY:2025 Pokémon World Championships Celebration
+UID:d8c7e4f8-8ee2-47c2-b209-e02ae0c8741c@d8c7.org
+URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weekend-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140000Z
+DTEND:20250901T000000Z
+DTSTART:20250825T140000Z
+SUMMARY:Sunkissed Shores
+UID:c8f76a3e-95a6-4c4f-9923-6c44a6a3b88e@c8f7.org
+URL:https://leekduck.com/events/sunkissed-shores/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250823T140000Z
+DTEND:20250824T220000Z
+DTSTART:20250823T140000Z
+SUMMARY:Pokémon GO Fest 2025: Max Finale
+UID:fc749029-1f7e-4106-bb71-c7b0f2cea74e@fc74.org
+URL:https://leekduck.com/events/pokemon-go-fest-2025-max-finale/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T180000Z
+DTEND:20250914T210000Z
+DTSTART:20250914T180000Z
+SUMMARY:Flabébé Community Day
+UID:5bb1156c-b4c6-4fc6-b9ed-ac25e47c822c@5bb1.org
+URL:https://leekduck.com/events/september-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250812T200000Z
+DTEND:20250819T200000Z
+DTSTART:20250812T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
+UID:a6fb0452-4dca-4daf-a615-cc764fb5c798@a6fb.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250603T140000Z
+DTEND:20250902T140000Z
+DTSTART:20250603T140000Z
+SUMMARY:Delightful Days
+UID:1ae419e0-a414-4862-87e4-c13b28a47a00@1ae4.org
+URL:https://leekduck.com/events/season-19-delightful-days/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250805T140000Z
+DTEND:20250902T140000Z
+DTSTART:20250805T140000Z
+SUMMARY:GO Pass: August
+UID:15b8c030-6466-4693-ac5b-2c26e68a8e2d@15b8.org
+URL:https://leekduck.com/events/go-pass-august-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250815T040000Z
 DTEND:20250818T035900Z
 DTSTART:20250815T040000Z
 SUMMARY:GO Battle Weekend: Delightful Days
-UID:1a9e7b3b-da65-4676-be36-92042b0b37ed@1a9e.org
+UID:b70009bc-2eb5-4f5b-bab3-4283eeb0ea71@b700.org
 URL:https://leekduck.com/events/go-battle-weekend-delightful-days/
 END:VEVENT
 BEGIN:VEVENT
@@ -198,56 +142,112 @@ DTSTAMP:20250818T140000Z
 DTEND:20250823T140000Z
 DTSTART:20250818T140000Z
 SUMMARY:Pokémon GO: Dark Skies
-UID:ed75cdbd-1966-4d6c-ba6d-9806c9821984@ed75.org
+UID:debe4da7-635e-406f-b898-e88a86727e7e@debe.org
 URL:https://leekduck.com/events/dark-skies/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250722T040000Z
-DTEND:20250825T010000Z
-DTSTART:20250722T040000Z
-SUMMARY:Promo Code for Max Finale Timed Research
-UID:be840848-018b-4f76-9b9f-4883be23b623@be84.org
-URL:https://leekduck.com/events/max-finale-promo-code/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250803T140000Z
-DTEND:20250903T140000Z
-DTSTART:20250803T140000Z
-SUMMARY:Eggs-pedition Access: August
-UID:7c5d9dad-1771-4f33-9e2b-2b905b88e1c6@7c5d.org
-URL:https://leekduck.com/events/eggs-pedition-access-august-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250826T220000Z
 DTEND:20250826T230000Z
 DTSTART:20250826T220000Z
 SUMMARY:Lechonk Spotlight Hour
-UID:6275f4f5-845c-4269-b24c-f6eba24f4ded@6275.org
+UID:c3003d58-c8e7-4126-baeb-b1f850595430@c300.org
 URL:https://leekduck.com/events/pokemonspotlighthour2025-08-26/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T040000Z
-DTEND:20250818T035900Z
-DTSTART:20250811T040000Z
-SUMMARY:Delightful Days: Taken Over
-UID:01c485a9-9b5f-4329-8d57-83c4167d8442@01c4.org
-URL:https://leekduck.com/events/delightful-days-taken-over/
+DTSTAMP:20250830T180000Z
+DTEND:20250830T210000Z
+DTSTART:20250830T180000Z
+SUMMARY:Rookidee Community Day
+UID:94b48318-e008-4da2-84fe-ffb2dcdd437b@94b4.org
+URL:https://leekduck.com/events/august-communityday2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250816T100000Z
-DTEND:20250818T010000Z
-DTSTART:20250816T100000Z
-SUMMARY:Shadow Kyogre Raid Weekend
-UID:fd2a0337-2268-4e46-b156-ac77008dff42@fd2a.org
-URL:https://leekduck.com/events/shadow-kyogre-raid-weekend-august-2025/
+DTSTAMP:20250722T040000Z
+DTEND:20250825T010000Z
+DTSTART:20250722T040000Z
+SUMMARY:Promo Code for Max Finale Timed Research
+UID:3a3c2a1e-5d63-4884-b7e4-587e554d04e5@3a3c.org
+URL:https://leekduck.com/events/max-finale-promo-code/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251012T180000Z
+DTEND:20251012T210000Z
+DTSTART:20251012T180000Z
+SUMMARY:October Community Day
+UID:b7fde025-9ead-4268-97ba-41d5c3f4eb07@b7fd.org
+URL:https://leekduck.com/events/october-communityday2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250819T200000Z
+DTEND:20250826T200000Z
+DTSTART:20250819T200000Z
+SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
+UID:95e038a1-c6c7-4045-913a-e08e77e69821@95e0.org
+URL:https://leekduck.com/events/gbl-delightful-days_master-league_catch-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250803T140000Z
+DTEND:20250903T140000Z
+DTSTART:20250803T140000Z
+SUMMARY:Eggs-pedition Access: August
+UID:b63285fb-fcac-449e-adec-661a8218bc69@b632.org
+URL:https://leekduck.com/events/eggs-pedition-access-august-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250825T220000Z
 DTEND:20250825T230000Z
 DTSTART:20250825T220000Z
 SUMMARY:Dynamax Chansey during Max Monday
-UID:5026cea8-9468-47bf-a046-49d06423d558@5026.org
+UID:b86bd70c-fdac-4fa7-9c3c-1bf987ef2cb3@b86b.org
 URL:https://leekduck.com/events/max-mondays-2025-08-25/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250826T200000Z
+DTEND:20250902T200000Z
+DTSTART:20250826T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
+UID:239d7106-7690-4b90-ae0a-01097ccf0f98@239d.org
+URL:https://leekduck.com/events/gbl-delightful-days_great-league_ultra-league_master-league-split-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250819T220000Z
+DTEND:20250819T230000Z
+DTSTART:20250819T220000Z
+SUMMARY:Ralts Spotlight Hour
+UID:8f82d2d2-4121-4ad3-a268-82df8a6ab9b3@8f82.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-19/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250803T100000Z
+DTEND:20250903T020000Z
+DTSTART:20250803T100000Z
+SUMMARY:Shadow Regirock in Shadow Raids
+UID:464605f0-9ab6-4643-9c21-69ff89a780d4@4646.org
+URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-august-september-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T140000Z
+DTEND:20250818T140000Z
+DTSTART:20250811T140000Z
+SUMMARY:Ho-Oh in 5-star Raid Battles
+UID:a4559b43-ac24-43ea-bc8f-7aa93a64e7f8@a455.org
+URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T100000Z
+DTEND:20250818T010000Z
+DTSTART:20250816T100000Z
+SUMMARY:Shadow Kyogre Raid Weekend
+UID:7241ce96-b827-4d18-9783-bfc5e15aad82@7241.org
+URL:https://leekduck.com/events/shadow-kyogre-raid-weekend-august-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250831T180000Z
+DTEND:20250831T210000Z
+DTSTART:20250831T180000Z
+SUMMARY:Raid Day
+UID:5a780a1f-5e48-410a-a2da-71f43c9cc164@5a78.org
+URL:https://leekduck.com/events/raid-day-august-2025-2/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
