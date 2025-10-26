@@ -2,59 +2,315 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:codygarver
 BEGIN:VEVENT
+DTSTAMP:20251126T220000Z
+DTEND:20251126T230000Z
+DTSTART:20251126T220000Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion Raid Hour
+UID:90e382af-ac29-47ff-ba9d-45071e547791@90e3.org
+URL:https://leekduck.com/events/raidhour20251126/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251104T140000Z
+DTEND:20251111T140000Z
+DTSTART:20251104T140000Z
+SUMMARY:Mega Beedrill\, Mega Pinsir\, and Mega Heracross in Mega Raids
+UID:92c1435c-0668-4e3f-baae-78cac1798a42@92c1.org
+URL:https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251111T220000Z
+DTEND:20251111T230000Z
+DTSTART:20251111T220000Z
+SUMMARY:Morelull Spotlight Hour
+UID:dcb613ca-409c-4bda-8ec8-3730475a8699@dcb6.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-11-11/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251028T200000Z
+DTEND:20251104T210000Z
+DTSTART:20251028T200000Z
+SUMMARY:Great League and Halloween Cup: Great League Edition | Tales of Transformation
+UID:ec367eba-8c47-4115-bbdf-1035e17da28d@ec36.org
+URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T220000Z
+DTEND:20251029T230000Z
+DTSTART:20251029T220000Z
+SUMMARY:Giratina (Origin Forme) Raid Hour
+UID:f185c734-a868-4ba4-bb53-7c4c376ccbee@f185.org
+URL:https://leekduck.com/events/raidhour20251029/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20251021T140000Z
 DTEND:20251028T140000Z
 DTSTART:20251021T140000Z
 SUMMARY:Mega Houndoom and Mega Absol in Mega Raids
-UID:52ed8a7a-4b56-4577-9d88-568c6d084fc2@52ed.org
+UID:2c62d865-8e4b-446e-b83c-849ca407ed73@2c62.org
 URL:https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T000000Z
+DTEND:20251109T080000Z
+DTSTART:20251107T000000Z
+SUMMARY:Pokémon GO Wild Area: Nagasaki
+UID:24f64874-b19d-4faa-a845-b76b4a44e227@24f6.org
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T220000Z
+DTEND:20251027T230000Z
+DTSTART:20251027T220000Z
+SUMMARY:Dynamax Woobat during Max Monday
+UID:b7e6f61f-dff7-48ff-853a-e34dabe4340e@b7e6.org
+URL:https://leekduck.com/events/max-mondays-2025-10-27/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T140000Z
+DTEND:20251103T000000Z
+DTSTART:20251027T140000Z
+SUMMARY:Pokémon GO Halloween 2025 Part II
+UID:d0dd268b-5563-4240-afc3-a529847a5768@d0dd.org
+URL:https://leekduck.com/events/halloween-2025-part-ii/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T140000Z
+DTEND:20251201T000000Z
+DTSTART:20251129T140000Z
+SUMMARY:Dynamax Max Battle Weekend
+UID:70f35338-8676-4f87-86a2-dde8369f63ac@70f3.org
+URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250902T140000Z
+DTEND:20251202T140000Z
+DTSTART:20250902T140000Z
+SUMMARY:Tales of Transformation
+UID:d1f02611-c160-4145-ba10-4b5a8fff7e56@d1f0.org
+URL:https://leekduck.com/events/season-20-tales-of-transformation/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251111T210000Z
+DTEND:20251118T210000Z
+DTSTART:20251111T210000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Tales of Transformation
+UID:fbd71cba-a895-4b56-a1c5-dddd5226e705@fbd7.org
+URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251111T140000Z
 DTEND:20251118T140000Z
 DTSTART:20251111T140000Z
 SUMMARY:Mega Tyranitar and Mega Altaria in Mega Raids
-UID:142e8c4b-63d0-4a32-85db-605d0d58f53f@142e.org
+UID:edaee166-d325-4a42-9d72-5e270ed555c6@edae.org
 URL:https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T140000Z
+DTEND:20251125T140000Z
+DTSTART:20251118T140000Z
+SUMMARY:Mega Ampharos and Mega Manectric in Mega Raids
+UID:1f28a41c-a69f-4209-b842-b377b6e0c22a@1f28.org
+URL:https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251104T210000Z
 DTEND:20251111T210000Z
 DTSTART:20251104T210000Z
 SUMMARY:Ultra League and Jungle Cup: Great League Edition | Tales of Transformation
-UID:aa928393-fcbc-444d-8b96-094fb7198f0d@aa92.org
+UID:8a6e9c7b-a58c-4919-9979-b1d0bf76a71c@8a6e.org
 URL:https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T220000Z
-DTEND:20251201T230000Z
-DTSTART:20251201T220000Z
-SUMMARY:Dynamax Darumaka during Max Monday
-UID:8f66d82a-0b15-40ee-ae1f-7423613aec16@8f66.org
-URL:https://leekduck.com/events/max-mondays-2025-12-01/
+DTSTAMP:20251124T220000Z
+DTEND:20251124T230000Z
+DTSTART:20251124T220000Z
+SUMMARY:Dynamax Eevee during Max Monday
+UID:22746aa6-7325-48f5-bce4-f076b541d96e@2274.org
+URL:https://leekduck.com/events/max-mondays-2025-11-24/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251125T220000Z
 DTEND:20251125T230000Z
 DTSTART:20251125T220000Z
 SUMMARY:Scraggy Spotlight Hour
-UID:69a9298c-5b27-47e1-b60f-0d87c004ae65@69a9.org
+UID:0754eab2-8e15-45cb-9c3c-53e5d5366754@0754.org
 URL:https://leekduck.com/events/pokemonspotlighthour2025-11-25/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251126T220000Z
-DTEND:20251126T230000Z
-DTSTART:20251126T220000Z
-SUMMARY:Cobalion\, Terrakion\, and Virizion Raid Hour
-UID:335bf459-586e-4eb6-8779-f4f25574d886@335b.org
-URL:https://leekduck.com/events/raidhour20251126/
+DTSTAMP:20251021T200000Z
+DTEND:20251028T200000Z
+DTSTART:20251021T200000Z
+SUMMARY:Great League\, Ultra League\, and Master League | Tales of Transformation
+UID:69b687ee-afc9-4cc7-8c1b-f851db7bb6c9@69b6.org
+URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T220000Z
+DTEND:20251118T230000Z
+DTSTART:20251118T220000Z
+SUMMARY:Sableye Spotlight Hour
+UID:aa7b3c32-9944-44ac-aa48-ec3234ca6533@aa7b.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-11-18/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251102T100000Z
+DTEND:20251203T020000Z
+DTSTART:20251102T100000Z
+SUMMARY:Shadow Latios in Shadow Raids
+UID:90c1a6c3-963a-4265-8fb3-735092f755e2@90c1.org
+URL:https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T150000Z
+DTEND:20251214T230000Z
+DTSTART:20251213T150000Z
+SUMMARY:Miami\, USA - Pokémon GO City Safari
+UID:2c9acde5-a788-4403-851c-8ed18233fda6@2c9a.org
+URL:https://leekduck.com/events/pokemon-go-city-safari-miami-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T140000Z
+DTEND:20251116T220000Z
+DTSTART:20251115T140000Z
+SUMMARY:Pokémon GO Wild Area: Global
+UID:dd5023ad-383d-4728-ac2a-7739086bac41@dd50.org
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T140000Z
+DTEND:20251115T000000Z
+DTSTART:20251110T140000Z
+SUMMARY:Into the Wild
+UID:02bb5f0c-0d78-4f75-a958-1b43b1aca1d0@02bb.org
+URL:https://leekduck.com/events/into-the-wild-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T140000Z
+DTEND:20251125T000000Z
+DTSTART:20251121T140000Z
+SUMMARY:Dynamax Max Battle Weekend
+UID:62f99c0e-5b8d-4a35-9459-174052809a46@62f9.org
+URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T210000Z
+DTEND:20251125T210000Z
+DTSTART:20251118T210000Z
+SUMMARY:2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation
+UID:17a567d0-92a2-4389-aec6-07c960df9a6a@17a5.org
+URL:https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251104T140000Z
+DTEND:20251111T140000Z
+DTSTART:20251104T140000Z
+SUMMARY:Raikou\, Entei\, and Suicune in 5-star Raid Battles
+UID:afd352ce-4705-437e-8aae-ec1072aa2a81@afd3.org
+URL:https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T140000Z
+DTEND:20251202T140000Z
+DTSTART:20251125T140000Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+UID:44e03966-c4ca-42f0-b4fd-ca4ff067731c@44e0.org
+URL:https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251105T220000Z
+DTEND:20251105T230000Z
+DTSTART:20251105T220000Z
+SUMMARY:Raikou\, Entei\, and Suicune Raid Hour
+UID:e58d48cd-36e4-4f92-b5b2-abcab730d621@e58d.org
+URL:https://leekduck.com/events/raidhour20251105/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251101T180000Z
+DTEND:20251101T210000Z
+DTSTART:20251101T180000Z
+SUMMARY:Gigantamax Garbodor Max Battle Day
+UID:c464c963-b33b-43cc-8175-1715f4ee7a3b@c464.org
+URL:https://leekduck.com/events/gigantamax-garbodor-max-battle-day/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T140000Z
+DTEND:20251201T000000Z
+DTSTART:20251125T140000Z
+SUMMARY:Final Justice
+UID:0f9d0f84-d855-4ace-81b7-5a539917dbde@0f9d.org
+URL:https://leekduck.com/events/final-justice-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T140000Z
+DTEND:20251202T140000Z
+DTSTART:20251125T140000Z
+SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
+UID:58c04cb2-766b-456a-a3dd-ca3cce06f40a@58c0.org
+URL:https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T210000Z
+DTEND:20251202T210000Z
+DTSTART:20251125T210000Z
+SUMMARY:Catch Cup: Tales of Transformation: Great Edition\, Ultra League\, and Master League | Tales of Transformation
+UID:87fe42d5-f083-4be0-aded-c62801407187@87fe.org
+URL:https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T140000Z
+DTEND:20251027T000000Z
+DTSTART:20251025T140000Z
+SUMMARY:Poltchageist and Ghost-type Pokémon PokéStop Showcases
+UID:e0bf0e3a-20da-40ab-8da6-0e2ca194887a@e0bf.org
+URL:https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-2025-10-25/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T140000Z
+DTEND:20251125T140000Z
+DTSTART:20251118T140000Z
+SUMMARY:Heatran in 5-star Raid Battles
+UID:0af6c375-d7aa-445b-9774-8e86fd9814b0@0af6.org
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T040000Z
+DTEND:20251027T035900Z
+DTSTART:20251025T040000Z
+SUMMARY:GO Battle Weekend: Tales of Transformation
+UID:f1098769-5e85-40f6-9314-b4e7b54e3457@f109.org
+URL:https://leekduck.com/events/go-battle-weekend-tales-of-transformation/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251028T140000Z
+DTEND:20251104T140000Z
+DTSTART:20251028T140000Z
+SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
+UID:f2b12ba6-e6ad-4cc2-8c3b-ed642b071835@f2b1.org
+URL:https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T220000Z
+DTEND:20251110T230000Z
+DTSTART:20251110T220000Z
+SUMMARY:Dynamax Ralts during Max Monday
+UID:eaec4ba7-55ae-40ff-9694-9c035af8d83d@eaec.org
+URL:https://leekduck.com/events/max-mondays-2025-11-10/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T220000Z
+DTEND:20251117T230000Z
+DTSTART:20251117T220000Z
+SUMMARY:Dynamax Toxtricity during Max Monday
+UID:e6343690-bb6f-4bf4-bb4c-6e54cd552a50@e634.org
+URL:https://leekduck.com/events/max-mondays-2025-11-17/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251007T140000Z
 DTEND:20251104T140000Z
 DTSTART:20251007T140000Z
 SUMMARY:GO Pass: October
-UID:6f591f8e-b82d-4252-8e17-7ea62d0bd95d@6f59.org
+UID:ba9bfcf4-ece7-4026-8792-d5d2ae7adf1a@ba9b.org
 URL:https://leekduck.com/events/go-pass-october-2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -62,384 +318,128 @@ DTSTAMP:20251021T140000Z
 DTEND:20251027T140000Z
 DTSTART:20251021T140000Z
 SUMMARY:Pokémon GO Halloween 2025 Part I
-UID:0afeff29-58e0-499a-b451-4e043d5e0b87@0afe.org
+UID:d2bec8f2-168b-4bee-af2e-3705c4602a99@d2be.org
 URL:https://leekduck.com/events/halloween-2025-part-i/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251025T140000Z
-DTEND:20251027T000000Z
-DTSTART:20251025T140000Z
-SUMMARY:Poltchageist and Ghost-type Pokémon PokéStop Showcases
-UID:8494ffc2-cd80-46ec-8e82-4eded8184516@8494.org
-URL:https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-2025-10-25/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251119T220000Z
-DTEND:20251119T230000Z
-DTSTART:20251119T220000Z
-SUMMARY:Heatran Raid Hour
-UID:f1684362-ab79-4329-b674-bd711b8eba57@f168.org
-URL:https://leekduck.com/events/raidhour20251119/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251028T200000Z
-DTEND:20251104T210000Z
-DTSTART:20251028T200000Z
-SUMMARY:Great League and Halloween Cup: Great League Edition | Tales of Transformation
-UID:95c9e570-b392-44fb-96ab-aec54a087db2@95c9.org
-URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251125T140000Z
-DTEND:20251202T140000Z
-DTSTART:20251125T140000Z
-SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
-UID:97f909a3-e10c-4312-bcf2-2f21010c20db@97f9.org
-URL:https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251110T140000Z
-DTEND:20251115T000000Z
-DTSTART:20251110T140000Z
-SUMMARY:Into the Wild
-UID:d1b10b76-6729-47c0-98fb-5d206918a7cb@d1b1.org
-URL:https://leekduck.com/events/into-the-wild-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251118T140000Z
-DTEND:20251125T140000Z
-DTSTART:20251118T140000Z
-SUMMARY:Mega Ampharos and Mega Manectric in Mega Raids
-UID:060f5fde-6c70-4581-8847-a3705ec82561@060f.org
-URL:https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250907T040000Z
-DTEND:20251201T035959Z
-DTSTART:20250907T040000Z
-SUMMARY:Trade Days | Tales of Transformation
-UID:579ebda4-94af-4be2-999c-a56a20a6ce7b@579e.org
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251102T100000Z
-DTEND:20251203T020000Z
-DTSTART:20251102T100000Z
-SUMMARY:Shadow Latios in Shadow Raids
-UID:11eb5671-fd7b-4e3d-a4a5-5fd61c8a3a81@11eb.org
-URL:https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251124T220000Z
-DTEND:20251124T230000Z
-DTSTART:20251124T220000Z
-SUMMARY:Dynamax Eevee during Max Monday
-UID:f382328d-39a1-4100-9c15-8b51f877ad5f@f382.org
-URL:https://leekduck.com/events/max-mondays-2025-11-24/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251104T220000Z
-DTEND:20251104T230000Z
-DTSTART:20251104T220000Z
-SUMMARY:Weedle Spotlight Hour
-UID:97d515b4-9f90-4219-a19f-a6771f02c654@97d5.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-11-04/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251118T210000Z
-DTEND:20251125T210000Z
-DTSTART:20251118T210000Z
-SUMMARY:2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation
-UID:8aa9c72a-ada2-4344-846e-c81eabc77a1c@8aa9.org
-URL:https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251110T220000Z
-DTEND:20251110T230000Z
-DTSTART:20251110T220000Z
-SUMMARY:Dynamax Ralts during Max Monday
-UID:4f4ecec4-0b61-4228-9453-552308b70edb@4f4e.org
-URL:https://leekduck.com/events/max-mondays-2025-11-10/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251021T140000Z
-DTEND:20251103T000000Z
-DTSTART:20251021T140000Z
-SUMMARY:GO Pass: Halloween 2025
-UID:397cfd63-2ec2-4175-9ef9-ab7170ce3e43@397c.org
-URL:https://leekduck.com/events/go-pass-halloween-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251028T140000Z
-DTEND:20251104T140000Z
-DTSTART:20251028T140000Z
-SUMMARY:Mega Gengar\, Mega Sableye\, and Mega Banette in Mega Raids
-UID:c2d72e18-8101-4608-ad88-180cbb99c8fc@c2d7.org
-URL:https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251117T220000Z
-DTEND:20251117T230000Z
-DTSTART:20251117T220000Z
-SUMMARY:Dynamax Toxtricity during Max Monday
-UID:cb2b13c3-0272-4fa5-abe6-5e93e3cc0ff8@cb2b.org
-URL:https://leekduck.com/events/max-mondays-2025-11-17/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251118T140000Z
-DTEND:20251123T000000Z
-DTSTART:20251118T140000Z
-SUMMARY:High Voltage
-UID:b85ad7d5-5cfe-448b-b265-12605826baed@b85a.org
-URL:https://leekduck.com/events/high-voltage-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251104T140000Z
 DTEND:20251110T000000Z
 DTSTART:20251104T140000Z
 SUMMARY:Enchanted Hollow
-UID:d1f12b13-b5a6-462b-833b-2a9d42a3a240@d1f1.org
+UID:2ebe3245-c68f-4b83-b197-6399a1d32f67@2ebe.org
 URL:https://leekduck.com/events/enchanted-hollow-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T200000Z
-DTEND:20251028T200000Z
-DTSTART:20251021T200000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Tales of Transformation
-UID:39535471-5fd5-4b2b-abbb-a0d2e217d41d@3953.org
-URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/
+DTSTAMP:20251118T140000Z
+DTEND:20251123T000000Z
+DTSTART:20251118T140000Z
+SUMMARY:High Voltage
+UID:970d79dd-4da1-456e-b519-b19358f81b42@970d.org
+URL:https://leekduck.com/events/high-voltage-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251129T140000Z
-DTEND:20251201T000000Z
-DTSTART:20251129T140000Z
-SUMMARY:Dynamax Max Battle Weekend
-UID:b3bd0510-86e7-44a3-b299-3644d2c72cc7@b3bd.org
-URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/
+DTSTAMP:20251201T220000Z
+DTEND:20251201T230000Z
+DTSTART:20251201T220000Z
+SUMMARY:Dynamax Darumaka during Max Monday
+UID:8a7a2ce2-479a-4494-93ff-b7bf0236ae0d@8a7a.org
+URL:https://leekduck.com/events/max-mondays-2025-12-01/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T220000Z
-DTEND:20251105T230000Z
-DTSTART:20251105T220000Z
-SUMMARY:Raikou\, Entei\, and Suicune Raid Hour
-UID:6d62963e-d28a-4771-822e-1d286b0665ab@6d62.org
-URL:https://leekduck.com/events/raidhour20251105/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251212T230000Z
-DTEND:20251214T070000Z
-DTSTART:20251212T230000Z
-SUMMARY:Sydney\, Australia - Pokémon GO City Safari
-UID:485fc8b1-a1af-4944-86ab-5c1668f8f5bd@485f.org
-URL:https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251027T220000Z
-DTEND:20251027T230000Z
-DTSTART:20251027T220000Z
-SUMMARY:Dynamax Woobat during Max Monday
-UID:f38b8dcc-9ddb-4bf9-a732-19980a07386a@f38b.org
-URL:https://leekduck.com/events/max-mondays-2025-10-27/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251125T140000Z
-DTEND:20251202T140000Z
-DTSTART:20251125T140000Z
-SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
-UID:09ac8703-e686-4d7e-bc13-e117535d7cbe@09ac.org
-URL:https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251101T180000Z
-DTEND:20251101T210000Z
-DTSTART:20251101T180000Z
-SUMMARY:Gigantamax Garbodor Max Battle Day
-UID:014eca07-d1fa-4a74-8400-c403cc1017dc@014e.org
-URL:https://leekduck.com/events/gigantamax-garbodor-max-battle-day/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251115T140000Z
-DTEND:20251116T220000Z
-DTSTART:20251115T140000Z
-SUMMARY:Pokémon GO Wild Area: Global
-UID:b9ab5fe6-200c-4ae4-88d3-a3853b3ab97c@b9ab.org
-URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251125T210000Z
-DTEND:20251202T210000Z
-DTSTART:20251125T210000Z
-SUMMARY:Catch Cup: Tales of Transformation: Great Edition\, Ultra League\, and Master League | Tales of Transformation
-UID:e3b99b37-b3eb-4a44-8484-f912758d72cb@e3b9.org
-URL:https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251028T140000Z
-DTEND:20251104T140000Z
-DTSTART:20251028T140000Z
-SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
-UID:980bb962-fbb2-46e1-bee1-89de081bc8ca@980b.org
-URL:https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/
+DTSTAMP:20251119T220000Z
+DTEND:20251119T230000Z
+DTSTART:20251119T220000Z
+SUMMARY:Heatran Raid Hour
+UID:60438c0c-b307-48f0-92a3-539c4b6dce1c@6043.org
+URL:https://leekduck.com/events/raidhour20251119/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251103T220000Z
 DTEND:20251103T230000Z
 DTSTART:20251103T220000Z
 SUMMARY:Dynamax Inkay during Max Monday
-UID:e12bd88a-810e-4014-bf28-391ce93f7e0c@e12b.org
+UID:55aba0db-1684-4fb2-b140-2b14edb566f3@55ab.org
 URL:https://leekduck.com/events/max-mondays-2025-11-03/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251111T220000Z
-DTEND:20251111T230000Z
-DTSTART:20251111T220000Z
-SUMMARY:Morelull Spotlight Hour
-UID:5fadc014-8e35-424a-bdbe-a4673de23a34@5fad.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-11-11/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251213T130000Z
-DTEND:20251214T210000Z
-DTSTART:20251213T130000Z
-SUMMARY:Buenos Aires\, Argentina - Pokémon GO City Safari
-UID:63868899-5140-47cd-bdf4-adc08b6625c6@6386.org
-URL:https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251025T040000Z
-DTEND:20251027T035900Z
-DTSTART:20251025T040000Z
-SUMMARY:GO Battle Weekend: Tales of Transformation
-UID:a6a5f835-64f7-4e26-9337-f88f7b6eff0f@a6a5.org
-URL:https://leekduck.com/events/go-battle-weekend-tales-of-transformation/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251028T220000Z
-DTEND:20251028T230000Z
-DTSTART:20251028T220000Z
-SUMMARY:Sinistea Spotlight Hour
-UID:2487e6ef-79e8-4818-931c-b3d2a593df94@2487.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-10-28/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251021T140000Z
 DTEND:20251028T140000Z
 DTSTART:20251021T140000Z
 SUMMARY:Genesect (Douse & Shock Drive) in 5-star Raid Battles
-UID:8be04bb1-fdc9-428c-8fed-07fcd52df21d@8be0.org
+UID:e427e51f-b0a1-4377-8d94-d9e1d9dd92a5@e427.org
 URL:https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T140000Z
-DTEND:20251201T000000Z
-DTSTART:20251125T140000Z
-SUMMARY:Final Justice
-UID:5e86ed9b-3810-43f5-a7ab-f258133614b1@5e86.org
-URL:https://leekduck.com/events/final-justice-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251027T140000Z
-DTEND:20251103T000000Z
-DTSTART:20251027T140000Z
-SUMMARY:Pokémon GO Halloween 2025 Part II
-UID:4a04dad3-3eb5-4816-8f1f-03ebc0f76bf6@4a04.org
-URL:https://leekduck.com/events/halloween-2025-part-ii/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251029T220000Z
-DTEND:20251029T230000Z
-DTSTART:20251029T220000Z
-SUMMARY:Giratina (Origin Forme) Raid Hour
-UID:ef5afed4-ce81-4d8b-b908-f30b4fc57d05@ef5a.org
-URL:https://leekduck.com/events/raidhour20251029/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251213T150000Z
-DTEND:20251214T230000Z
-DTSTART:20251213T150000Z
-SUMMARY:Miami\, USA - Pokémon GO City Safari
-UID:81be4e74-b965-48f9-8b4e-a96b15032f1c@81be.org
-URL:https://leekduck.com/events/pokemon-go-city-safari-miami-2025/
+DTSTAMP:20251028T140000Z
+DTEND:20251104T140000Z
+DTSTART:20251028T140000Z
+SUMMARY:Mega Gengar\, Mega Sableye\, and Mega Banette in Mega Raids
+UID:4756b27f-2982-4f49-ba5a-5ed4b948a78d@4756.org
+URL:https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251110T140000Z
 DTEND:20251116T220000Z
 DTSTART:20251110T140000Z
 SUMMARY:GO Pass: Into the Wild
-UID:93331e11-8ad2-492f-b1be-63765cce18d1@9333.org
+UID:ca71b203-4263-4c9e-8d52-4a975b39d005@ca71.org
 URL:https://leekduck.com/events/go-pass-into-the-wild/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251118T140000Z
-DTEND:20251125T140000Z
-DTSTART:20251118T140000Z
-SUMMARY:Heatran in 5-star Raid Battles
-UID:35ba7c6d-025e-4ad7-ae37-c46dfbef95ac@35ba.org
-URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250902T140000Z
-DTEND:20251202T140000Z
-DTSTART:20250902T140000Z
-SUMMARY:Tales of Transformation
-UID:83a65b45-a1c0-4685-8031-04dc7071810c@83a6.org
-URL:https://leekduck.com/events/season-20-tales-of-transformation/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251118T220000Z
-DTEND:20251118T230000Z
-DTSTART:20251118T220000Z
-SUMMARY:Sableye Spotlight Hour
-UID:5f6caafa-629e-4b7a-aab1-fd6b6ccbdde7@5f6c.org
-URL:https://leekduck.com/events/pokemonspotlighthour2025-11-18/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251111T210000Z
-DTEND:20251118T210000Z
-DTSTART:20251111T210000Z
-SUMMARY:Great League\, Ultra League\, and Master League | Tales of Transformation
-UID:18053969-9f1f-4dcf-a699-b3e8b31ad569@1805.org
-URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/
+DTSTAMP:20251213T130000Z
+DTEND:20251214T210000Z
+DTSTART:20251213T130000Z
+SUMMARY:Buenos Aires\, Argentina - Pokémon GO City Safari
+UID:5c40b8e5-4c88-47d0-ad82-74d0c4776aea@5c40.org
+URL:https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251130T180000Z
 DTEND:20251130T210000Z
 DTSTART:20251130T180000Z
 SUMMARY:November Community Day
-UID:fe983b8f-75dd-44e9-a8cc-4d8e35e57415@fe98.org
+UID:af26a70c-19e4-4302-b3d8-553e263070a3@af26.org
 URL:https://leekduck.com/events/november-communityday2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251104T140000Z
-DTEND:20251111T140000Z
-DTSTART:20251104T140000Z
-SUMMARY:Mega Beedrill\, Mega Pinsir\, and Mega Heracross in Mega Raids
-UID:7369d950-eb61-407f-8e76-cd80b7ddcbfc@7369.org
-URL:https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/
+DTSTAMP:20250907T040000Z
+DTEND:20251201T035959Z
+DTSTART:20250907T040000Z
+SUMMARY:Trade Days | Tales of Transformation
+UID:908a960f-4130-49ea-9ec9-79d88803a36c@908a.org
+URL:https://leekduck.com/events/trade-days-tales-of-transformation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251104T140000Z
-DTEND:20251111T140000Z
-DTSTART:20251104T140000Z
-SUMMARY:Raikou\, Entei\, and Suicune in 5-star Raid Battles
-UID:39f58e70-bc96-467b-afcf-2e03916b3939@39f5.org
-URL:https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/
+DTSTAMP:20251021T140000Z
+DTEND:20251103T000000Z
+DTSTART:20251021T140000Z
+SUMMARY:GO Pass: Halloween 2025
+UID:fe6b0c75-3fc9-4178-9537-905347cc68b4@fe6b.org
+URL:https://leekduck.com/events/go-pass-halloween-2025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251107T000000Z
-DTEND:20251109T080000Z
-DTSTART:20251107T000000Z
-SUMMARY:Pokémon GO Wild Area: Nagasaki
-UID:346a537a-cc93-4783-81d9-3acd6c5b96ea@346a.org
-URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
+DTSTAMP:20251028T220000Z
+DTEND:20251028T230000Z
+DTSTART:20251028T220000Z
+SUMMARY:Sinistea Spotlight Hour
+UID:2d86a79b-aa97-4939-ba55-72b23f9abcc7@2d86.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-28/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T140000Z
-DTEND:20251125T000000Z
-DTSTART:20251121T140000Z
-SUMMARY:Dynamax Max Battle Weekend
-UID:f9ee6c71-965e-4fd4-8e13-1c2cf6c096dc@f9ee.org
-URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/
+DTSTAMP:20251104T220000Z
+DTEND:20251104T230000Z
+DTSTART:20251104T220000Z
+SUMMARY:Weedle Spotlight Hour
+UID:5f238acf-ed00-4141-a2e9-d69c85ddc031@5f23.org
+URL:https://leekduck.com/events/pokemonspotlighthour2025-11-04/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251212T230000Z
+DTEND:20251214T070000Z
+DTSTART:20251212T230000Z
+SUMMARY:Sydney\, Australia - Pokémon GO City Safari
+UID:1d1c4702-c107-4c79-b924-4470bb575620@1d1c.org
+URL:https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
